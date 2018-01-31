@@ -2,7 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 
-# Setup constants
+
+# Intialize constants
 CHROME_DRIVER = './chromedriver'
 CATALOG_URL = 'https://my.sa.ucsb.edu/public/curriculum/coursesearch.aspx'
 SUBJECT_ID = 'ctl00_pageContent_courseList'
@@ -19,6 +20,10 @@ def get_list(browser, element_id):
 	return newlist
 
 
+# --------------------------------------------------
+# --------------------| Main |----------------------
+# --------------------------------------------------
+
 # Setup selenium
 browser = webdriver.Chrome(executable_path=CHROME_DRIVER)
 browser.get(CATALOG_URL)
@@ -27,8 +32,7 @@ browser.get(CATALOG_URL)
 subject_list = get_list(browser, SUBJECT_ID)
 quarter_list = get_list(browser, QUARTER_ID)
 
-
-# Click through subjects
+# Click through subjects and quarters
 for subject in subject_list:
 	for quarter in quarter_list:
 
