@@ -15,7 +15,6 @@ for option in subject_html.options:
 	subject_list.append(option.get_attribute("value"))
 
 # Click through subjects
-i = 0
 for subject in subject_list:
 	subject_html = Select(browser.find_element_by_id('ctl00_pageContent_courseList'))
 	subject_html.select_by_value(subject)
@@ -23,6 +22,5 @@ for subject in subject_list:
 	submit.click()
 
 	# Collect data
-	file = open("output/" + str(i) + ".html", "w")
-	file.write(browser.page_source.encode('utf-8'))
-	i = i + 1
+	file = open("output/" + subject + ".html", "w")
+	file.write(browser.find_element_by_tag_name('center').get_attribute('innerHTML').encode('utf-8'))
