@@ -17,9 +17,6 @@ def getAllFiles(dir):
 rootDirectory = './output'
 filesToParse = getAllFiles(rootDirectory)
 
-filesToParse = []
-filesToParse.append('./output/20161_C LIT.html')
-
 #2d list to hold data
 data = []
 
