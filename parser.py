@@ -68,12 +68,12 @@ for file in filesToParse:
 
 #output to CSV file:
 for course in cleanedData:
-	with open('./Data/data.csv', 'w+') as myfile:
-	    wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
-	    wr.writerow(cleanedData)
+	with open("./Data/data.csv", "w+", newline="") as f:
+		writer = csv.writer(f)
+		writer.writerows(cleanedData)
 
 #print out CSV file (testing purposes)
-os.system('column -s, -t < ./Data/data.csv | less -#2 -N -S')
+#os.system('column -s, -t < ./Data/data.csv | less -#2 -N -S')
 
 #Print out raw results:
 """
