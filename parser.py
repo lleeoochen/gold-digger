@@ -20,9 +20,6 @@ start = time.time()
 rootDirectory = './output'
 filesToParse = getAllFiles(rootDirectory)
 
-#2d list to hold data
-data = []
-
 #list for cleaned data
 cleanedData = []
 for file in filesToParse:
@@ -33,6 +30,7 @@ for file in filesToParse:
 	rows = soup.find_all('tr', {'class':'CourseInfoRow'})
 
 	#iterate over list and create our raw results
+	data = []
 	for row in rows:
 		colData = []
 
@@ -68,10 +66,13 @@ for file in filesToParse:
 	print('parsed: ' + file)
 
 #output to CSV file:
+progress = 0
 for course in cleanedData:
 	with open("./Data/data.csv", "w+", newline="") as f:
 		writer = csv.writer(f)
 		writer.writerows(cleanedData)
+	print (str(int(progress / len(cleanedData) * 100)) + '% to data.csv', end='\r')
+	progress += 1
 
 end = time.time()
 #print elapsed time
