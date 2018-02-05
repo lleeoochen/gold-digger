@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import os
 import csv
-
+import time
 
 #returns list of files in the directory
 def getAllFiles(dir):
@@ -12,6 +12,9 @@ def getAllFiles(dir):
 		files.append(fileName)
 	return files
 
+
+#get start time
+start = time.time()
 
 #directory containing html files to parse ***EDIT THIS PATH IF USED ON A DIFFERENT MACHINE***
 rootDirectory = './output'
@@ -61,6 +64,7 @@ for file in filesToParse:
 			cleanedDataTemp = []
 
 		cleanedData.append(cleanedDataTemp)
+	data = []
 	print('parsed: ' + file)
 
 #output to CSV file:
@@ -68,6 +72,10 @@ for course in cleanedData:
 	with open("./Data/data.csv", "w+", newline="") as f:
 		writer = csv.writer(f)
 		writer.writerows(cleanedData)
+
+end = time.time()
+#print elapsed time
+print('Time to parse: ' + str(end - start))
 
 #print out CSV file (testing purposes)
 #os.system('column -s, -t < ./Data/data.csv | less -#2 -N -S')
