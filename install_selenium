@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#Install selenium. See https://pypi.python.org/pypi/selenium.
+pip install -U selenium
