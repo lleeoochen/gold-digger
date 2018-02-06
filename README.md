@@ -10,6 +10,9 @@ Nicholas Duncan
 1) scrap data from UCSB course catalog x
 2) parse scraped data form UCSB course catalog x
 3) clean the data 1-2 weeks
+  a) remove empty rows
+  b) convert the strings into meaningful data
+  c) parse filenames into 
 4) build models 2 - 4 weeks
 5) analyze built models 1 - week
 6) PUBLISH IT! 1 - 2 weeks
