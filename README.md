@@ -12,9 +12,13 @@ Nicholas Duncan
 3) clean the data 1-2 weeks
   a) remove empty rows
   b) convert the strings into meaningful data
-  c) parse filenames into 
+  c) parse filenames into quarters and years
 4) build models 2 - 4 weeks
+  a) we will use the 'pandas' python module to analyze the collected data
+  b) TBD
 5) analyze built models 1 - week
+  a) create a graphical representation of the data
+  b) TBD
 6) PUBLISH IT! 1 - 2 weeks
 
 ### Conclusion (To be determined):
