@@ -28,3 +28,11 @@ To run scrape/parser:
 Run scraper first using python scraper.py then run parser using python3 parser.py
 html files are found in the 'output' directory
 csv file with data is found in the 'Data directory'
+
+
+### To Run
+- execution (normal): `python driver.py`
+- execution (with single quarter flag): `singleQuarterFlag=True python driver.py`
+- set up automatic scheduler every hour:
+  1) open crontab editor: `crontab -e`
+  2) copy and paste line: `0 * * * * export DISPLAY=:0 && cd /path/to/directory/GOLD-Digger && cronFlag=True singleQuarterFlag=True python driver.py`
