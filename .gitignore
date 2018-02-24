@@ -1,2 +1,4 @@
 output/*.html
-Data/data.csv
+Data/*.csv
+DataCrontab/*.csv
+

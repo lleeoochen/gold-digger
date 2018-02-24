@@ -1,4 +1,4 @@
-#!/bin/bash
+import os
 
 #Install selenium. See https://pypi.python.org/pypi/selenium.
-pip install -U selenium
+os.system('pip install -U selenium')

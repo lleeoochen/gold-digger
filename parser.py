@@ -2,13 +2,18 @@ from bs4 import BeautifulSoup
 import os
 import csv
 import time
+import datetime
+
+dataFolder = "./Data"
+if (os.environ.get('cronFlag') == "True"):
+	dataFolder = "./DataCrontab"
 
 #returns list of files in the directory
 def getAllFiles(dir):
 	files = []
 	listing = os.listdir(dir)
 	for infile in listing:
-		fileName = './output/' + infile
+		fileName = './Output/' + infile
 		files.append(fileName)
 	return files
 
@@ -17,7 +22,7 @@ def getAllFiles(dir):
 start = time.time()
 
 #directory containing html files to parse ***EDIT THIS PATH IF USED ON A DIFFERENT MACHINE***
-rootDirectory = './output'
+rootDirectory = './Output'
 filesToParse = getAllFiles(rootDirectory)
 
 #list for cleaned data
@@ -66,13 +71,10 @@ for file in filesToParse:
 	print('parsed: ' + file)
 
 #output to CSV file:
-progress = 0
-for course in cleanedData:
-	with open("./Data/data.csv", "w+", newline="") as f:
-		writer = csv.writer(f)
-		writer.writerows(cleanedData)
-	print (str(int(progress / len(cleanedData) * 100)) + '% to data.csv', end='\r')
-	progress += 1
+now = datetime.datetime.now()
+with open(dataFolder + "/data_" + str(now.month) + "_" + str(now.day) + "_" + str(now.hour) + ".csv", "w+", newline="") as f:
+	writer = csv.writer(f)
+	writer.writerows(cleanedData)
 
 end = time.time()
 #print elapsed time
