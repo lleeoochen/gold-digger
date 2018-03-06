@@ -81,14 +81,55 @@ def format_grading(df):
     df.insert(loc=indexL, column='Letter', value=letter)
     df.insert(loc=indexP, column='PassNP', value=passnp)
 
+
+# extract time to start and end time
+def format_time(df):
+    start_time = []
+    end_time = []
+
+    for index, row in df.iterrows():
+        string = str(row['Time'])
+        separator = string.find('-')
+        start = ''
+        end = ''
+
+        if separator != -1:
+            start = string[:separator].replace(' ', '').lower()
+            start = to_24hr_time(start)
+            start = start[:len(start) - 2]
+            end = string[separator + 1:].replace(' ', '').lower()
+            end = to_24hr_time(end)
+            end = end[:len(end) - 2]
+
+        start_time.append(start)
+        end_time.append(end)
+
+
+    index = df.columns.get_loc('Time')
+    df.insert(loc=index, column='EndTime', value=end_time)
+    df.insert(loc=index, column='StartTime', value=start_time)
+
+
+# convert am/pm to 24 hour time
+def to_24hr_time(string):
+    colon = string.find(':')
+    hour = int(string[:colon])
+    if 'pm' in string and hour < 12:
+        hour += 12
+    elif 'am' in string and hour == 12:
+        hour = 0
+    return str(hour) + string[colon:]
+
+
 # main for cleaner.py
 columns = ['Quarter', 'ID', 'College', 'Unit', 'Grading', 'Day', 'Time', 'Location', 'Enrollment']
 df = pd.read_csv('Data/data.csv', names=columns)
+df_orig = df.copy(deep=True)
 
 format_quarter(df)
 format_course_id(df)
 format_unit(df)
 format_grading(df)
+format_time(df)
 df = df.drop('Grading', 1)
-
-df.head()
+df = df.drop('Time', 1)
