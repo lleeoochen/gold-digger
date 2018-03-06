@@ -1,5 +1,5 @@
 import pandas as pd
-
+import re
 
 # extract year and quarter number
 def format_quarter(df):
@@ -80,6 +80,65 @@ def format_grading(df):
     indexP = df.columns.get_loc('Grading')
     df.insert(loc=indexL, column='Letter', value=letter)
     df.insert(loc=indexP, column='PassNP', value=passnp)
+    
+def format_day(df):
+    monday = []
+    tuesday = []
+    wednesday = []
+    thursday = []
+    friday = []
+    
+    for index, row in df.iterrows():
+        string = str(row['Day'])        
+        
+        if string.find('M') != -1:
+            monday.append(1)
+        else:
+            monday.append(0)
+            
+        if string.find('T') != -1:
+            tuesday.append(1)
+        else:
+            tuesday.append(0)
+        
+        if string.find('W') != -1:
+            wednesday.append(1)
+        else:
+            wednesday.append(0)
+            
+        if string.find('R') != -1:
+            thursday.append(1)
+        else:
+            thursday.append(0)            
+            
+        if string.find('F') != -1:
+            friday.append(1)
+        else:
+            friday.append(0)
+            
+    indexDay = df.columns.get_loc('Day')
+    df.insert(loc=indexDay, column='Friday',value=friday)
+    df.insert(loc=indexDay, column='Thursday',value=thursday)
+    df.insert(loc=indexDay, column='Wednesday',value=wednesday)
+    df.insert(loc=indexDay, column='Tuesday',value=tuesday)
+    df.insert(loc=indexDay, column='Monday', value=monday)
+
+
+# extract location and building
+def format_location(df):
+    buildings = []
+    
+    for index, row in df.iterrows():
+        string = str(row['Location'])
+        
+        m = re.search("\d", string)
+        if m:
+            buildings.append(string[:m.start()].strip())
+        else:
+            buildings.append(string)
+    
+    indexLoc = df.columns.get_loc('Location')
+    df.insert(loc=indexLoc, column='Building', value=buildings)
 
 
 # extract time to start and end time
@@ -152,6 +211,10 @@ format_unit(df)
 format_grading(df)
 format_time(df)
 format_enrollment(df)
+format_day(df)
+format_location(df)
 df = df.drop('Grading', 1)
 df = df.drop('Time', 1)
 df = df.drop('Enrollment', 1)
+df = df.drop('Day', 1)
+df = df.drop('Location', 1)
