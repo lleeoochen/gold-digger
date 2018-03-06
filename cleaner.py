@@ -110,6 +110,26 @@ def format_time(df):
     df.insert(loc=index, column='StartTime', value=start_time)
 
 
+# extract enrollment status to MaxEnroll and CurEnroll
+def format_enrollment(df):
+    enrollment = []
+    max_enrollment = []
+
+    for index, row in df.iterrows():
+        string = str(row['Enrollment'])
+        separator = string.find('/')
+
+        if separator != -1:
+            each_enroll = string[:separator].strip()
+            each_max = string[separator + 1:].strip()
+            enrollment.append(each_enroll)
+            max_enrollment.append(each_max)
+
+    index = df.columns.get_loc('Enrollment')
+    df.insert(loc=index, column='MaxEnroll', value=max_enrollment)
+    df.insert(loc=index, column='CurEnroll', value=enrollment)
+
+
 # convert am/pm to 24 hour time
 def to_24hr_time(string):
     colon = string.find(':')
@@ -131,5 +151,7 @@ format_course_id(df)
 format_unit(df)
 format_grading(df)
 format_time(df)
+format_enrollment(df)
 df = df.drop('Grading', 1)
 df = df.drop('Time', 1)
+df = df.drop('Enrollment', 1)
