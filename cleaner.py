@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 
+
 # extract year and quarter number
 def format_quarter(df):
     years = []
@@ -154,11 +155,9 @@ def format_time(df):
 
         if separator != -1:
             start = string[:separator].replace(' ', '').lower()
-            start = to_24hr_time(start)
-            start = start[:len(start) - 2]
+            start = to_minutes(start)
             end = string[separator + 1:].replace(' ', '').lower()
-            end = to_24hr_time(end)
-            end = end[:len(end) - 2]
+            end = to_minutes(end)
 
         start_time.append(start)
         end_time.append(end)
@@ -173,6 +172,7 @@ def format_time(df):
 def format_enrollment(df):
     enrollment = []
     max_enrollment = []
+    ratio_enrollment = []
 
     for index, row in df.iterrows():
         string = str(row['Enrollment'])
@@ -184,25 +184,56 @@ def format_enrollment(df):
             enrollment.append(each_enroll)
             max_enrollment.append(each_max)
 
+            if int(each_max) != 0:
+                ratio_enrollment.append(int(each_enroll) * 1.0 / int(each_max))
+            else:
+                ratio_enrollment.append(None)
+
     index = df.columns.get_loc('Enrollment')
+    df.insert(loc=index, column='RatioEnroll', value=ratio_enrollment)
     df.insert(loc=index, column='MaxEnroll', value=max_enrollment)
     df.insert(loc=index, column='CurEnroll', value=enrollment)
 
 
-# convert am/pm to 24 hour time
-def to_24hr_time(string):
+# convert am/pm to minutes
+def to_minutes(string):
     colon = string.find(':')
-    hour = int(string[:colon])
+    hour = int(string[: colon])
+    minute = int(string[colon + 1 : len(string) - 2])
     if 'pm' in string and hour < 12:
         hour += 12
     elif 'am' in string and hour == 12:
         hour = 0
-    return str(hour) + string[colon:]
+
+    return hour * 60 + minute
+
+
+# convert some column types to int
+def convert_to_int(df):
+    df['Year'] = pd.to_numeric(df['Year'], errors='coerce')
+    df['Quarter'] = pd.to_numeric(df['Quarter'], errors='coerce')
+    df['MinUnit'] = pd.to_numeric(df['MinUnit'], errors='coerce')
+    df['Unit'] = pd.to_numeric(df['Unit'], errors='coerce')
+    df['PassNP'] = pd.to_numeric(df['PassNP'], errors='coerce')
+    df['Letter'] = pd.to_numeric(df['Letter'], errors='coerce')
+    df['Monday'] = pd.to_numeric(df['Monday'], errors='coerce')
+    df['Tuesday'] = pd.to_numeric(df['Tuesday'], errors='coerce')
+    df['Wednesday'] = pd.to_numeric(df['Wednesday'], errors='coerce')
+    df['Thursday'] = pd.to_numeric(df['Thursday'], errors='coerce')
+    df['Friday'] = pd.to_numeric(df['Friday'], errors='coerce')
+    df['StartTime'] = pd.to_numeric(df['StartTime'], errors='coerce')
+    df['EndTime'] = pd.to_numeric(df['EndTime'], errors='coerce')
+    df['CurEnroll'] = pd.to_numeric(df['CurEnroll'], errors='coerce')
+    df['MaxEnroll'] = pd.to_numeric(df['MaxEnroll'], errors='coerce')
 
 
 # main for cleaner.py
+filename = raw_input('Please specify a data file (default=Data/data.csv): ')
+if filename == '':
+    filename = 'Data/data.csv'
+
 columns = ['Quarter', 'ID', 'College', 'Unit', 'Grading', 'Day', 'Time', 'Location', 'Enrollment']
-df = pd.read_csv('Data/data.csv', names=columns)
+df = pd.read_csv(filename, names=columns)
 df_orig = df.copy(deep=True)
 
 format_quarter(df)
@@ -218,3 +249,7 @@ df = df.drop('Time', 1)
 df = df.drop('Enrollment', 1)
 df = df.drop('Day', 1)
 df = df.drop('Location', 1)
+convert_to_int(df)
+
+plt = df.groupby('Building')['RatioEnroll'].mean()
+plt.plot(kind='bar', figsize=(15, 6), logy=True)
