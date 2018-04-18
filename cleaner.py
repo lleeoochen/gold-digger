@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import sys
 
 
 # extract year and quarter number
@@ -228,7 +229,7 @@ def convert_to_int(df):
 
 
 # main for cleaner.py
-filename = raw_input('Please specify a data file (default=Data/data.csv): ')
+filename = sys.argv[1]
 if filename == '':
     filename = 'Data/data.csv'
 
@@ -250,6 +251,7 @@ df = df.drop('Enrollment', 1)
 df = df.drop('Day', 1)
 df = df.drop('Location', 1)
 convert_to_int(df)
+df.to_csv('Output/cleaned_data.csv', sep=',')
 
 plt = df.groupby('Building')['RatioEnroll'].mean()
 plt.plot(kind='bar', figsize=(15, 6), logy=True)
