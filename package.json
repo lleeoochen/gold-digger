@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "ucsb-gold-digger",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "A site that utilizes UCSB course data to help students prioritize their course selections.",
   "engines": {
     "node": "8.9.1"
   },
