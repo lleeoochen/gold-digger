@@ -1,0 +1,1363 @@
+./Output/20182_ASTRO.html,ASTRO     1,L&S,4.0,Optional,T R,3:30pm - 4:45pm,BRDA 1610,168 / 168
+./Output/20182_ASTRO.html,ASTRO     1,L&S,4.0,Optional,T,5:00pm - 5:50pm,GIRV 1119,42 / 42
+./Output/20182_ASTRO.html,ASTRO     1,L&S,4.0,Optional,W,5:00pm - 5:50pm,NH   1109,42 / 42
+./Output/20182_ASTRO.html,ASTRO     1,L&S,4.0,Optional,W,6:00pm - 6:50pm,GIRV 1116,42 / 42
+./Output/20182_ASTRO.html,ASTRO     1,L&S,4.0,Optional,F,2:00pm - 2:50pm,387  103,42 / 42
+./Output/20182_ASTRO.html,ASTRO     1H,L&S,1.0,Optional,W,2:00pm - 3:15pm,GIRV 2116,0 / 30
+./Output/20182_ASTRO.html,ASTRO     2,L&S,4.0,Optional,T R,2:00pm - 3:15pm,BRDA 1640,56 / 94
+./Output/20182_ASTRO.html,ASTRO     2,L&S,4.0,Optional,M,6:00pm - 6:50pm,NH   1111,24 / 42
+./Output/20182_ASTRO.html,ASTRO     2,L&S,4.0,Optional,R,5:00pm - 5:50pm,GIRV 1116,32 / 42
+./Output/20182_CH ST.html,CH ST     1C,L&S,4.0,Optional,M W,9:30 am - 10:45am,NH   1006,120 / 120
+./Output/20182_CH ST.html,CH ST     1C,L&S,4.0,Optional,W,2:00pm - 2:50pm,HSSB 4202,20 / 20
+./Output/20182_CH ST.html,CH ST     1C,L&S,4.0,Optional,W,3:00pm - 3:50pm,HSSB 1215,20 / 20
+./Output/20182_CH ST.html,CH ST     1C,L&S,4.0,Optional,W,4:00pm - 4:50pm,HSSB 4202,20 / 20
+./Output/20182_CH ST.html,CH ST     1C,L&S,4.0,Optional,R,1:00pm - 1:50pm,HSSB 1206,20 / 20
+./Output/20182_CH ST.html,CH ST     1C,L&S,4.0,Optional,F,12:00pm - 12:50pm,GIRV 2124,20 / 20
+./Output/20182_CH ST.html,CH ST     1C,L&S,4.0,Optional,F,2:00pm - 2:50pm,SH   1609,20 / 20
+./Output/20182_CH ST.html,CH ST    99,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_CH ST.html,CH ST   125B,L&S,4.0,Optional,M,3:00pm - 5:50pm,GIRV 2116,35 / 35
+./Output/20182_CH ST.html,CH ST   131,L&S,4.0,Optional,T R,5:00pm - 6:15pm,GIRV 2108,29 / 35
+./Output/20182_CH ST.html,CH ST   156,L&S,4.0,Optional,M W,11:00am - 12:15pm,SH   1623,30 / 35
+./Output/20182_CH ST.html,CH ST   165,L&S,4.0,Optional,T R,12:30pm - 1:45pm,GIRV 1116,40 / 35
+./Output/20182_CH ST.html,CH ST   168GQ,L&S,4.0,Letter,W F,2:00pm - 3:15pm,GIRV 2115,25 / 35
+./Output/20182_CH ST.html,CH ST   187,L&S,4.0,Optional,T R,12:30pm - 1:45pm,EMBARHALL,100 / 100
+./Output/20182_CH ST.html,CH ST   187,L&S,4.0,Optional,R,4:00pm - 4:50pm,SH   1430,25 / 25
+./Output/20182_CH ST.html,CH ST   187,L&S,4.0,Optional,R,5:00pm - 5:50pm,SH   1430,25 / 25
+./Output/20182_CH ST.html,CH ST   187,L&S,4.0,Optional,F,9:00 am - 9:50 am,HSSB 1237,25 / 25
+./Output/20182_CH ST.html,CH ST   187,L&S,4.0,Optional,F,10:00am - 10:50am,HSSB 1231,25 / 25
+./Output/20182_CH ST.html,CH ST   191N,L&S,4.0,Optional,T R,9:30 am - 10:45am,PHELP1448,35 / 35
+./Output/20182_CH ST.html,CH ST   191NL,L&S,4.0,Optional,R,2:00pm - 3:50pm,NH   1111,0 / 35
+./Output/20182_CH ST.html,CH ST   193,L&S,4.0,Letter,M W,12:30pm - 1:45pm,HSSB 1211,8 / 25
+./Output/20182_CH ST.html,CH ST   193,L&S,4.0,Letter,T R,3:30pm - 4:45pm,BUCHN1934,4 / 25
+./Output/20182_CH ST.html,CH ST   195C,L&S,1.0 - 5.0,Optional,M,6:00pm - 8:50pm,GIRV 1106,0 / 15
+./Output/20182_CH ST.html,CH ST   197HC,L&S,4.0,Letter,M,2:00pm - 2:50pm,HSSB 3201,6 / 20
+./Output/20182_CH ST.html,CH ST   199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 40
+./Output/20182_CH ST.html,CH ST   199RA,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,3:30pm - 4:45pm,IV   THEA1,200 / 200
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,ED   1203,25 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,ED   1205,25 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,ED   1201,25 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,ED   1207,25 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,NH   1109,25 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,ARTS 1356,25 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,ARTS 1353,25 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,ARTS 1349,25 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,PHELP2524,0 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,TD-W 2600,0 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,PHELP3505,0 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,PHELP3519,0 / 25
+./Output/20182_ED.html,ED       20,GSE,3.0,Optional,R,5:00pm - 6:15pm,PHELP3523,0 / 25
+
+
+
+./Output/20182_ED.html,ED       99,GSE,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 20
+./Output/20182_ED.html,ED      111,GSE,4.0,Optional,W,12:00pm - 1:50pm,IV   THEA2,120 / 120
+./Output/20182_ED.html,ED      111,GSE,4.0,Optional,R,9:00 am - 9:50 am,ED   1201,21 / 20
+./Output/20182_ED.html,ED      111,GSE,4.0,Optional,R,10:00am - 10:50am,ED   1201,20 / 20
+./Output/20182_ED.html,ED      111,GSE,4.0,Optional,R,11:00am - 11:50am,ED   1201,20 / 20
+./Output/20182_ED.html,ED      111,GSE,4.0,Optional,R,12:00pm - 12:50pm,ED   1201,19 / 20
+./Output/20182_ED.html,ED      111,GSE,4.0,Optional,R,1:00pm - 1:50pm,ED   1201,20 / 20
+./Output/20182_ED.html,ED      111,GSE,4.0,Optional,R,2:00pm - 2:50pm,ED   1201,20 / 20
+./Output/20182_ED.html,ED      120,GSE,4.0,Optional,M,1:00pm - 2:15pm,ED   2209,0 / 20
+./Output/20182_ED.html,ED      121,GSE,3.0,Optional,W,10:00am - 11:50am,ED   1213,38 / 25
+
+./Output/20182_ED.html,ED      123,GSE,4.0,Letter,T,1:00pm - 2:50pm,ED   1217,60 / 60
+./Output/20182_ED.html,ED      123,GSE,4.0,Letter,F,9:00 am - 9:50 am,ED   1201,15 / 15
+./Output/20182_ED.html,ED      123,GSE,4.0,Letter,F,10:00am - 10:50am,ED   1201,15 / 15
+./Output/20182_ED.html,ED      123,GSE,4.0,Letter,F,11:00am - 11:50am,ED   1201,15 / 15
+./Output/20182_ED.html,ED      123,GSE,4.0,Letter,F,12:00pm - 12:50pm,ED   1201,15 / 15
+./Output/20182_ED.html,ED      124,GSE,4.0,Letter,M,4:00pm - 5:50pm,ED   1217,40 / 40
+./Output/20182_ED.html,ED      128,GSE,3.0,Letter,W,2:00pm - 4:50pm,ED   4219,30 / 30
+./Output/20182_ED.html,ED      131,GSE,3.0,Letter,T R,2:00pm - 3:15pm,ED   4219,29 / 30
+./Output/20182_ED.html,ED      135,GSE,4.0,Optional,T R,9:00 am - 10:50am,ED   4219,10 / 25
+./Output/20182_ED.html,ED      136,GSE,4.0,Optional,M   F,3:00pm - 4:50pm,ED   1203,10 / 10
+./Output/20182_ED.html,ED      142,GSE,4.0,Optional,T,5:00pm - 8:20pm,ED   1203,0 / 25
+./Output/20182_ED.html,ED      176B,GSE,4.0,Optional,W,2:00pm - 3:50pm,ED   1213,40 / 40
+./Output/20182_ED.html,ED      190,GSE,4.0,Letter,W,3:00pm - 5:50pm,BUCHN1940,147 / 147
+./Output/20182_ED.html,ED      191W,GSE,4.0,Optional,T,3:30pm - 4:45pm,WEBB 1100,74 / 80
+./Output/20182_ED.html,ED      191W,GSE,4.0,Optional,R,2:00pm - 3:50pm,ED   1215,37 / 35
+./Output/20182_ED.html,ED      191W,GSE,4.0,Optional,R,2:00pm - 3:50pm,ED   1217,37 / 35
+./Output/20182_ED.html,ED      197,GSE,2.0 - 4.0,Optional,M W,2:00pm - 3:15pm,ED   1201,25 / 25
+./Output/20182_ED.html,ED      197,GSE,2.0 - 4.0,Optional,W,2:00pm - 4:50pm,GIRV 2128,17 / 60
+./Output/20182_ED.html,ED      199,GSE,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 20
+./Output/20182_ED.html,ED      199RA,GSE,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 20
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,T R,11:00am - 12:15pm,IV   THEA1,529 / 529
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,1:00pm - 1:50pm,ARTS 1332,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,2:00pm - 2:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,T,3:00pm - 3:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,T,4:00pm - 4:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,T,5:00pm - 5:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,T,2:00pm - 2:50pm,ARTS 2622,8 / 10
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,R,8:00 am - 8:50 am,ARTS 1332,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,9:00 am - 9:50 am,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,10:00am - 10:50am,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,T,1:00pm - 1:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,T,2:00pm - 2:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,4:00pm - 4:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,3:00pm - 3:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,5:00pm - 5:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,R,8:00 am - 8:50 am,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,R,9:00 am - 9:50 am,ARTS 2324,24 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,R,9:00 am - 9:50 am,ARTS 1332,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,2:00pm - 2:50pm,ARTS 1332,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,3:00pm - 3:50pm,ARTS 1332,24 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,4:00pm - 4:50pm,ARTS 1332,24 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,W,6:00pm - 6:50pm,ARTS 2324,24 / 25
+./Output/20182_ARTHI.html,ARTHI     6C,L&S,4.0,Optional,T,6:00pm - 6:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6DS,L&S,4.0,Optional,M W,2:00pm - 3:15pm,HSSB 1174,95 / 95
+./Output/20182_ARTHI.html,ARTHI     6DS,L&S,4.0,Optional,R,1:00pm - 1:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6DS,L&S,4.0,Optional,R,2:00pm - 2:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6DS,L&S,4.0,Optional,R,3:00pm - 3:50pm,ARTS 2324,23 / 25
+./Output/20182_ARTHI.html,ARTHI     6DS,L&S,4.0,Optional,R,4:00pm - 4:50pm,ARTS 2324,22 / 25
+./Output/20182_ARTHI.html,ARTHI     6E,L&S,4.0,Optional,M W,9:30 am - 10:45am,HSSB 1174,95 / 95
+./Output/20182_ARTHI.html,ARTHI     6E,L&S,4.0,Optional,T,11:00am - 11:50am,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6E,L&S,4.0,Optional,T,12:00pm - 12:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6E,L&S,4.0,Optional,T,2:00pm - 2:50pm,ARTS 1332,24 / 25
+./Output/20182_ARTHI.html,ARTHI     6E,L&S,4.0,Optional,T,3:00pm - 3:50pm,ARTS 1332,21 / 25
+./Output/20182_ARTHI.html,ARTHI     6H,L&S,4.0,Optional,M W,5:00pm - 6:15pm,HSSB 1174,95 / 95
+./Output/20182_ARTHI.html,ARTHI     6H,L&S,4.0,Optional,W,11:00am - 11:50am,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6H,L&S,4.0,Optional,W,12:00pm - 12:50pm,ARTS 2324,24 / 25
+./Output/20182_ARTHI.html,ARTHI     6H,L&S,4.0,Optional,T,12:00pm - 12:50pm,ARTS 1332,22 / 25
+./Output/20182_ARTHI.html,ARTHI     6H,L&S,4.0,Optional,T,1:00pm - 1:50pm,ARTS 1332,24 / 25
+./Output/20182_ARTHI.html,ARTHI     6L,L&S,4.0,Optional,M W,8:00 am - 9:15 am,HSSB 1174,95 / 95
+./Output/20182_ARTHI.html,ARTHI     6L,L&S,4.0,Optional,M,2:00pm - 2:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI     6L,L&S,4.0,Optional,M,3:00pm - 3:50pm,ARTS 2324,24 / 25
+./Output/20182_ARTHI.html,ARTHI     6L,L&S,4.0,Optional,M,4:00pm - 4:50pm,ARTS 2324,21 / 25
+./Output/20182_ARTHI.html,ARTHI     6L,L&S,4.0,Optional,M,5:00pm - 5:50pm,ARTS 2324,25 / 25
+./Output/20182_ARTHI.html,ARTHI   109B,L&S,4.0,Optional,M W,3:30pm - 4:45pm,TD-W 2600,30 / 30
+./Output/20182_ARTHI.html,ARTHI   115E,L&S,4.0,Optional,M W,12:30pm - 1:45pm,ARTS 1341,50 / 50
+./Output/20182_ARTHI.html,ARTHI   120CV,L&S,4.0,Optional,M W,11:00am - 12:15pm,ARTS 1332,29 / 26
+./Output/20182_ARTHI.html,ARTHI   121B,L&S,4.0,Optional,T R,3:30pm - 4:45pm,ARTS 1341,50 / 50
+./Output/20182_ARTHI.html,ARTHI   121C,L&S,4.0,Optional,T R,11:00am - 12:15pm,ARTS 1341,50 / 50
+./Output/20182_ARTHI.html,ARTHI   127B,L&S,4.0,Optional,T R,9:30 am - 10:45am,ARTS 1341,50 / 50
+./Output/20182_ARTHI.html,ARTHI   132I,L&S,4.0,Optional,M W,11:00am - 12:15pm,ARTS 1341,50 / 50
+./Output/20182_ARTHI.html,ARTHI   134A,L&S,4.0,Optional,T R,2:00pm - 3:15pm,ARTS 1341,0 / 50
+./Output/20182_ARTHI.html,ARTHI   134F,L&S,4.0,Optional,M W,2:00pm - 3:15pm,ARTS 1341,0 / 50
+./Output/20182_ARTHI.html,ARTHI   136B,L&S,4.0,Optional,M W,9:30 am - 10:45am,ARTS 1341,50 / 50
+./Output/20182_ARTHI.html,ARTHI   141B,L&S,4.0,Pass/No Pass,N/A,N/A,N/A,0 / 10
+./Output/20182_ARTHI.html,ARTHI   141E,L&S,1.0 - 4.0,Optional,R,3:30pm - 4:45pm,ARTS 1332,3 / 10
+./Output/20182_ARTHI.html,ARTHI   141F,L&S,1.0 - 4.0,Optional,R,3:30pm - 4:45pm,ARTS 1332,0 / 10
+./Output/20182_ARTHI.html,ARTHI   185AE,L&S,4.0,Optional,T R,12:30pm - 1:45pm,ARTS 1341,42 / 50
+./Output/20182_ARTHI.html,ARTHI   186F,L&S,4.0,Letter,T,2:00pm - 4:50pm,HSSB 2202,13 / 15
+./Output/20182_ARTHI.html,ARTHI   186SJ,L&S,4.0,Letter,M,3:00pm - 5:50pm,ARTS 1332,0 / 15
+./Output/20182_ARTHI.html,ARTHI   187W,L&S,4.0,Letter,M,11:00am - 1:50pm,ARTS 2622,15 / 15
+./Output/20182_ARTHI.html,ARTHI   187Z,L&S,4.0,Letter,M,11:00am - 1:50pm,ARTS 2622,2 / 15
+./Output/20182_ARTHI.html,ARTHI   198,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 50
+./Output/20182_ARTHI.html,ARTHI   199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 30
+./Output/20182_ARTHI.html,ARTHI   199RA,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 50
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,T R,8:00 am - 9:15 am,EMBARHALL,225 / 225
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,8:00 am - 8:50 am,HSSB 1223,25 / 25
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,9:00 am - 9:50 am,GIRV 2120,25 / 25
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,10:00am - 10:50am,NH   1111,25 / 25
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,8:00 am - 8:50 am,HSSB 1215,25 / 25
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,9:00 am - 9:50 am,GIRV 2116,25 / 25
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,10:00am - 10:50am,GIRV 2120,25 / 25
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,11:00am - 11:50am,GIRV 2116,25 / 25
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,12:00pm - 12:50pm,HSSB 1231,25 / 25
+./Output/20182_COMM.html,COMM      1,L&S,5.0,Optional,F,1:00pm - 1:50pm,HSSB 1224,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,T R,9:30 am - 10:45am,TD-W 1701,150 / 150
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,R,5:00pm - 5:50pm,HSSB 1207,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,R,6:00pm - 6:50pm,SSMS 1304,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,F,10:00am - 10:50am,HSSB 1214,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,F,11:00am - 11:50am,SSMS 1304,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,F,12:00pm - 12:50pm,HSSB 1207,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,F,1:00pm - 1:50pm,SSMS 1304,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,R,5:00pm - 5:50pm,HSSB 1206,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,R,6:00pm - 6:50pm,SSMS 1303,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,F,10:00am - 10:50am,HSSB 1211,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,F,11:00am - 11:50am,SSMS 1005,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,F,12:00pm - 12:50pm,HSSB 1206,25 / 25
+./Output/20182_COMM.html,COMM     87,L&S,5.0,Letter,F,1:00pm - 1:50pm,SSMS 1301,25 / 25
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,T R,11:00am - 12:15pm,EMBARHALL,235 / 235
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,R,7:00pm - 8:50pm,HSSB 2201,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,F,8:00 am - 9:50 am,SSMS 1009,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,F,10:00am - 11:50am,SSMS 1009,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,R,7:00pm - 8:50pm,HSSB 1236,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,F,10:00am - 11:50am,ARTS 1356,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,F,12:00pm - 1:50pm,SSMS 1009,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,R,6:00pm - 7:50pm,SH   1430,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,R,8:00pm - 9:50pm,HSSB 4202,15 / 15
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,F,12:00pm - 1:50pm,GIRV 2120,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,R,6:00pm - 7:50pm,PHELP2536,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,R,8:00pm - 9:50pm,HSSB 3202,20 / 20
+./Output/20182_COMM.html,COMM     88,L&S,5.0,Letter,F,1:00pm - 2:50pm,HSSB 1237,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,M W,3:30pm - 4:45pm,BUCHN1910,288 / 300
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,W,6:00pm - 7:50pm,NH   1111,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,8:00 am - 9:50 am,HSSB 1206,19 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,10:00am - 11:50am,HSSB 1206,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,W,6:00pm - 7:50pm,GIRV 2123,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,1:00pm - 2:50pm,HSSB 2251,16 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,11:00am - 12:50pm,PHELP3523,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,R,6:00pm - 7:50pm,GIRV 1119,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,R,8:00pm - 9:50pm,HSSB 4201,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,12:00pm - 1:50pm,GIRV 2119,18 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,R,6:00pm - 7:50pm,GIRV 1115,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,11:00am - 12:50pm,PHELP3519,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,1:00pm - 2:50pm,HSSB 1236,15 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,R,7:00pm - 8:50pm,GIRV 1116,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,10:00am - 11:50am,ARTS 1353,20 / 20
+./Output/20182_COMM.html,COMM     89,L&S,5.0,Letter,F,12:00pm - 1:50pm,GIRV 2112,20 / 20
+./Output/20182_COMM.html,COMM     99RA,L&S,1.0 - 5.0,Pass/No Pass,N/A,N/A,N/A,0 / 60
+./Output/20182_COMM.html,COMM    106,L&S,4.0,Optional,M W,9:30 am - 10:45am,PHELP3515,66 / 80
+./Output/20182_COMM.html,COMM    106,L&S,4.0,Optional,W,6:00pm - 6:50pm,SH   1609,26 / 26
+./Output/20182_COMM.html,COMM    106,L&S,4.0,Optional,W,7:00pm - 7:50pm,GIRV 2124,27 / 27
+./Output/20182_COMM.html,COMM    106,L&S,4.0,Optional,W,8:00pm - 8:50pm,GIRV 2124,13 / 27
+./Output/20182_COMM.html,COMM    111,L&S,4.0,Optional,T R,5:00pm - 6:15pm,SSMS 1009,50 / 50
+./Output/20182_COMM.html,COMM    117,L&S,4.0,Optional,M W,2:00pm - 3:15pm,NH   1105,65 / 65
+./Output/20182_COMM.html,COMM    118,L&S,4.0,Optional,M W,2:00pm - 3:15pm,PHELP3515,80 / 80
+./Output/20182_COMM.html,COMM    122,L&S,4.0,Optional,M W,3:30pm - 4:45pm,NH   1105,65 / 65
+./Output/20182_COMM.html,COMM    124,L&S,4.0,Optional,M W,9:30 am - 10:45am,WEBB 1100,80 / 80
+./Output/20182_COMM.html,COMM    132,L&S,4.0,Optional,T R,11:00am - 12:15pm,NH   1105,65 / 65
+./Output/20182_COMM.html,COMM    133,L&S,4.0,Optional,M W,8:00 am - 9:15 am,SSMS 1009,50 / 50
+./Output/20182_COMM.html,COMM    136,L&S,4.0,Optional,M W,11:00am - 12:15pm,WEBB 1100,80 / 80
+./Output/20182_COMM.html,COMM    138,L&S,4.0,Optional,T R,5:00pm - 6:15pm,HFH  1104,113 / 160
+./Output/20182_COMM.html,COMM    146,L&S,4.0,Optional,M W,12:30pm - 1:45pm,GIRV 1004,160 / 160
+./Output/20182_COMM.html,COMM    150,L&S,4.0,Optional,T R,11:00am - 12:15pm,PHELP3515,80 / 80
+./Output/20182_COMM.html,COMM    164,L&S,4.0,Optional,T R,12:30pm - 1:45pm,PHELP3515,80 / 80
+./Output/20182_COMM.html,COMM    166,L&S,4.0,Optional,T R,3:30pm - 4:45pm,HFH  1104,160 / 160
+./Output/20182_COMM.html,COMM    169,L&S,4.0,Optional,T R,8:00 am - 9:15 am,NH   1105,65 / 65
+./Output/20182_COMM.html,COMM    174,L&S,4.0,Optional,M W,11:00am - 12:15pm,SSMS 1009,30 / 30
+./Output/20182_COMM.html,COMM    175UT,L&S,4.0,Optional,W,6:00pm - 8:50pm,SSMS 1009,19 / 30
+./Output/20182_COMM.html,COMM    176,L&S,4.0,Optional,M W,3:30pm - 4:45pm,PHELP1425,65 / 65
+./Output/20182_COMM.html,COMM    179,L&S,4.0,Optional,T R,9:30 am - 10:45am,NH   1105,65 / 65
+./Output/20182_COMM.html,COMM    181B,L&S,4.0,Optional,T R,2:00pm - 3:15pm,SSMS 1009,0 / 15
+./Output/20182_COMM.html,COMM    191,L&S,4.0,Optional,M,5:00pm - 6:50pm,SSMS 1009,10 / 30
+
+./Output/20182_COMM.html,COMM    199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_COMM.html,COMM    199RA,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 80
+./Output/20182_BIOL CS .html,BIOL CS  25,CRST,1.0 - 6.0,Pass/No Pass,R,1:00pm - 3:50pm,CRST 136,11 / 11
+./Output/20182_BIOL CS .html,BIOL CS  30,CRST,1.0 - 6.0,Pass/No Pass,T R,11:00am - 12:15pm,CRST 0143,18 / 30
+./Output/20182_BIOL CS .html,BIOL CS 101,CRST,1.0 - 6.0,Pass/No Pass,M,9:30 am - 11:20am,CRST 0136,2 / 15
+./Output/20182_BIOL CS .html,BIOL CS 101,CRST,1.0 - 6.0,Pass/No Pass,T,3:00pm - 4:50pm,CRST 0143,6 / 20
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,T R,11:00am - 12:15pm,GIRV 1004,188 / 206
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,F,9:00 am - 9:50 am,HSSB 1227,17 / 23
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,F,10:00am - 10:50am,HSSB 1227,23 / 24
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,F,11:00am - 11:50am,HSSB 1237,19 / 23
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,F,12:00pm - 12:50pm,HSSB 4202,23 / 23
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,F,1:00pm - 1:50pm,HSSB 3202,22 / 23
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,F,2:00pm - 2:50pm,HSSB 3202,15 / 23
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,R,1:00pm - 1:50pm,HSSB 5024,23 / 23
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,R,2:00pm - 2:50pm,HSSB 5024,23 / 24
+./Output/20182_AS AM.html,AS AM     5,L&S,4.0,Optional,R,3:00pm - 3:50pm,HSSB 5024,23 / 23
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,T R,3:30pm - 4:45pm,GIRV 1004,107 / 107
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,T,1:00pm - 1:50pm,GIRV 2115,12 / 12
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,T,2:00pm - 2:50pm,HSSB 1206,12 / 12
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,T,12:00pm - 12:50pm,GIRV 2116,12 / 12
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,F,9:00 am - 9:50 am,HSSB 5024,12 / 12
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,F,10:00am - 10:50am,HSSB 5024,12 / 12
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,F,11:00am - 11:50am,HSSB 5024,12 / 12
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,R,12:00pm - 12:50pm,PHELP3523,12 / 12
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,R,1:00pm - 1:50pm,HSSB 3041,12 / 12
+./Output/20182_AS AM.html,AS AM    71,L&S,4.0,Optional,R,2:00pm - 2:50pm,HSSB 3041,11 / 11
+./Output/20182_AS AM.html,AS AM   100AA,L&S,4.0,Optional,T R,2:00pm - 3:15pm,GIRV 1115,46 / 45
+./Output/20182_AS AM.html,AS AM   100HH,L&S,4.0,Optional,T R,9:30 am - 10:45am,GIRV 1112,46 / 45
+./Output/20182_AS AM.html,AS AM   109,L&S,4.0,Letter,M W,11:00am - 12:15pm,GIRV 1112,45 / 45
+./Output/20182_AS AM.html,AS AM   110,L&S,4.0,Optional,M W,2:00pm - 3:15pm,GIRV 1115,37 / 45
+./Output/20182_AS AM.html,AS AM   118,L&S,4.0,Optional,T R,3:30pm - 4:45pm,GIRV 1119,45 / 45
+./Output/20182_AS AM.html,AS AM   131,L&S,4.0,Optional,M W,9:30 am - 10:45am,GIRV 1115,45 / 45
+./Output/20182_AS AM.html,AS AM   133,L&S,4.0,Optional,T R,11:00am - 12:15pm,GIRV 1112,41 / 45
+./Output/20182_AS AM.html,AS AM   136,L&S,4.0,Optional,T R,12:30pm - 1:45pm,GIRV 1112,44 / 45
+./Output/20182_AS AM.html,AS AM   142,L&S,4.0,Optional,M W,3:00pm - 4:50pm,TD-W 1703,16 / 25
+./Output/20182_AS AM.html,AS AM   144,L&S,4.0,Optional,M W,3:30pm - 4:45pm,PHELP3519,45 / 45
+./Output/20182_AS AM.html,AS AM   158,L&S,4.0,Optional,T R,2:00pm - 3:15pm,GIRV 1112,45 / 45
+./Output/20182_AS AM.html,AS AM   162,L&S,4.0,Optional,M W,9:30 am - 10:45am,GIRV 1112,45 / 45
+./Output/20182_AS AM.html,AS AM   164,L&S,4.0,Optional,M W,5:00pm - 6:15pm,GIRV 1112,45 / 45
+
+./Output/20182_AS AM.html,AS AM   197,L&S,1.0 - 4.0,Letter,F,9:30 am - 10:45am,HSSB 3201,0 / 20
+./Output/20182_AS AM.html,AS AM   197,L&S,1.0 - 4.0,Optional,T,3:30pm - 4:45pm,HSSB 5024,11 / 40
+
+
+./Output/20182_EACS.html,EACS      3,L&S,4.0,Optional,M W,11:00am - 12:15pm,PSYCH1924,60 / 60
+./Output/20182_EACS.html,EACS      3,L&S,4.0,Optional,W,10:00am - 10:50am,GIRV 1106,8 / 8
+./Output/20182_EACS.html,EACS      3,L&S,4.0,Optional,W,9:00 am - 9:50 am,GIRV 1106,7 / 7
+./Output/20182_EACS.html,EACS      3,L&S,4.0,Optional,R,11:00am - 11:50am,GIRV 2110,8 / 8
+
+./Output/20182_EACS.html,EACS      3,L&S,4.0,Optional,R,1:00pm - 1:50pm,HSSB 2202,8 / 8
+./Output/20182_EACS.html,EACS      3,L&S,4.0,Optional,F,9:00 am - 9:50 am,GIRV 1106,7 / 7
+./Output/20182_EACS.html,EACS      3,L&S,4.0,Optional,F,10:00am - 10:50am,GIRV 2135,8 / 8
+./Output/20182_EACS.html,EACS      3,L&S,4.0,Optional,F,11:00am - 11:50am,GIRV 1108,7 / 7
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,T R,12:30pm - 1:45pm,BUCHN1910,267 / 300
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,F,9:00 am - 9:50 am,HSSB 1223,20 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,F,10:00am - 10:50am,HSSB 1215,20 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,F,11:00am - 11:50am,HSSB 1223,18 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,R,5:00pm - 5:50pm,HSSB 2201,20 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,R,6:00pm - 6:50pm,HSSB 2201,19 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,R,9:00 am - 9:50 am,HSSB 1232,19 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,M,4:00pm - 4:50pm,HSSB 3201,20 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,M,5:00pm - 5:50pm,HSSB 3201,19 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,M,6:00pm - 6:50pm,HSSB 3202,20 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,F,12:00pm - 12:50pm,HSSB 3201,19 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,F,1:00pm - 1:50pm,HSSB 2252,16 / 16
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,F,2:00pm - 2:50pm,HSSB 2201,18 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,R,12:00pm - 12:50pm,PHELP3519,19 / 20
+./Output/20182_EACS.html,EACS      4B,L&S,4.0,Optional,R,4:00pm - 4:50pm,HSSB 1223,20 / 20
+
+./Output/20182_EACS.html,EACS     47,L&S,4.0,Optional,M W,5:00pm - 6:15pm,PHELP2516,30 / 30
+
+
+
+
+./Output/20182_EACS.html,EACS    103C,L&S,4.0,Optional,T R,9:30 am - 10:45am,GIRV 2116,39 / 40
+./Output/20182_EACS.html,EACS    141,L&S,4.0,Letter,T R,11:00am - 12:15pm,PHELP3505,10 / 40
+./Output/20182_EACS.html,EACS    165,L&S,4.0,Optional,T R,2:00pm - 3:15pm,PHELP1440,15 / 15
+./Output/20182_EACS.html,EACS    171,L&S,4.0,Optional,T R,12:30pm - 1:45pm,PHELP1445,15 / 15
+./Output/20182_EEMB.html,EEMB      3,L&S,3.0,Letter,M W F,8:00 am - 8:50 am,CAMPBHALL,737 / 860
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,9:30 am - 12:20pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,9:30 am - 12:20pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,12:30pm - 3:20pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,12:30pm - 3:20pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,3:30pm - 6:20pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,3:30pm - 6:20pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,10:00am - 12:50pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,10:00am - 12:50pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,1:00pm - 3:50pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,1:00pm - 3:50pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,4:00pm - 6:50pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,4:00pm - 6:50pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,9:30 am - 12:20pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,9:30 am - 12:20pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,12:30pm - 3:20pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,12:30pm - 3:20pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,3:30pm - 6:20pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,3:30pm - 6:20pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,6:30pm - 9:30pm,BSIF 2211,11 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,6:30pm - 9:20pm,BSIF 2112,18 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,6:30pm - 9:20pm,BSIF 2211,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,6:30pm - 9:20pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,7:00pm - 9:50pm,BSIF 2112,18 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,7:00pm - 9:50pm,BSIF 2211,16 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,9:00 am - 11:50am,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,12:00pm - 2:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,3:00pm - 5:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,T,6:00pm - 8:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,9:00 am - 11:50am,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,12:00pm - 2:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,3:00pm - 5:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,W,6:00pm - 8:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,9:00 am - 11:50am,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,12:00pm - 2:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,3:00pm - 5:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,R,6:00pm - 8:50pm,LSB  1007,24 / 24
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,F,9:00 am - 11:50am,LSB  1007,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,F,9:00 am - 11:50am,BSIF 2112,19 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,F,12:00pm - 2:50pm,LSB  1007,20 / 20
+./Output/20182_EEMB.html,EEMB      3L,L&S,1.0,Letter,F,12:00pm - 2:50pm,BSIF 2112,20 / 20
+./Output/20182_EEMB.html,EEMB      3Z,L&S,1.0 - 2.0,Pass/No Pass,M W F,8:00 am - 8:50 am,CAMPBHALL,0 / 0
+
+
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,M W F,1:00pm - 1:50pm,HFH  1104,182 / 184
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,T,9:00 am - 9:50 am,HSSB 1233,24 / 24
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,T,8:00 am - 8:50 am,BUCHN1934,23 / 24
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,T,5:00pm - 5:50pm,BUCHN1934,24 / 24
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,F,11:00am - 11:50am,LSB  1101,24 / 24
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,F,8:00 am - 8:50 am,HSSB 2201,19 / 20
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,F,9:00 am - 9:50 am,HSSB 1214,24 / 24
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,F,12:00pm - 12:50pm,BUCHN1934,24 / 24
+./Output/20182_EEMB.html,EEMB     50,L&S,4.0,Optional,T,6:00pm - 6:50pm,HSSB 2201,20 / 20
+./Output/20182_EEMB.html,EEMB     84,L&S,1.0 - 5.0,Pass/No Pass,N/A,N/A,N/A,0 / 0
+./Output/20182_EEMB.html,EEMB     92,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_EEMB.html,EEMB     96,L&S,1.0,Pass/No Pass,T,1:00pm - 3:50pm,HARDR1015,10 / 6
+./Output/20182_EEMB.html,EEMB     98,L&S,1.0 - 3.0,Pass/No Pass,N/A,N/A,N/A,0 / 1
+./Output/20182_EEMB.html,EEMB     99,L&S,1.0 - 3.0,Pass/No Pass,N/A,N/A,N/A,0 / 1
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,T R,11:00am - 12:15pm,HFH  1104,172 / 188
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,F,2:00pm - 2:50pm,PHELP2532,24 / 24
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,W,1:00pm - 1:50pm,387  103,23 / 23
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,W,8:00 am - 8:50 am,LSB  1101,23 / 23
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,F,3:00pm - 3:50pm,PHELP2532,22 / 24
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,W,2:00pm - 2:50pm,GIRV 2120,24 / 24
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,F,4:00pm - 4:50pm,PHELP2532,9 / 23
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,W,11:00am - 11:50am,GIRV 2123,23 / 23
+./Output/20182_EEMB.html,EEMB    102,L&S,4.0,Letter,W,3:00pm - 3:50pm,NH   1109,24 / 24
+./Output/20182_EEMB.html,EEMB    102H,L&S,1.0,Optional,N/A,N/A,N/A,0 / 0
+./Output/20182_EEMB.html,EEMB    103A,L&S,4.0,Letter,W,2:00pm - 4:50pm,BSIF 1229,10 / 10
+./Output/20182_EEMB.html,EEMB    103A,L&S,4.0,Letter,F,2:00pm - 4:50pm,BSIF 1229,10 / 10
+./Output/20182_EEMB.html,EEMB    107,L&S,3.0,Letter,M W,10:00am - 10:50am,PHELP1160,22 / 60
+./Output/20182_EEMB.html,EEMB    107,L&S,3.0,Letter,F,10:00am - 10:50am,PHELP2516,22 / 60
+./Output/20182_EEMB.html,EEMB    107L,L&S,2.0,Letter,F,1:00pm - 4:50pm,HARDR1013,12 / 24
+./Output/20182_EEMB.html,EEMB    116,L&S,5.0,Letter,M W F,11:00am - 11:50am,SH   1431,49 / 88
+./Output/20182_EEMB.html,EEMB    116,L&S,5.0,Letter,T R,1:00pm - 3:50pm,MLAB 1010,12 / 22
+./Output/20182_EEMB.html,EEMB    116,L&S,5.0,Letter,T R,9:00 am - 11:50am,MLAB 1010,4 / 22
+./Output/20182_EEMB.html,EEMB    116,L&S,5.0,Letter,M W,2:00pm - 4:50pm,MLAB 1010,19 / 22
+./Output/20182_EEMB.html,EEMB    116,L&S,5.0,Letter,M W,6:00pm - 8:50pm,MLAB 1010,14 / 22
+./Output/20182_EEMB.html,EEMB    120,L&S,4.0,Letter,T R,11:00am - 12:15pm,IV   THEA2,144 / 144
+./Output/20182_EEMB.html,EEMB    120,L&S,4.0,Letter,F,8:00 am - 8:50 am,PHELP1445,24 / 24
+./Output/20182_EEMB.html,EEMB    120,L&S,4.0,Letter,W,1:00pm - 1:50pm,PHELP3505,24 / 24
+./Output/20182_EEMB.html,EEMB    120,L&S,4.0,Letter,F,2:00pm - 2:50pm,PHELP1445,24 / 24
+./Output/20182_EEMB.html,EEMB    120,L&S,4.0,Letter,W,8:00 am - 8:50 am,HSSB 4202,24 / 24
+./Output/20182_EEMB.html,EEMB    120,L&S,4.0,Letter,F,3:00pm - 3:50pm,PHELP1445,24 / 24
+./Output/20182_EEMB.html,EEMB    120,L&S,4.0,Letter,F,4:00pm - 4:50pm,PHELP1445,24 / 24
+./Output/20182_EEMB.html,EEMB    127L,L&S,3.0,Letter,M,1:00pm - 7:50pm,LSB  1007,11 / 11
+
+./Output/20182_EEMB.html,EEMB    127L,L&S,3.0,Letter,M,1:00pm - 7:50pm,LSB  1007,11 / 11
+
+./Output/20182_EEMB.html,EEMB    128,L&S,4.0,Letter,T R,11:00am - 12:15pm,BIOEN1001,48 / 48
+./Output/20182_EEMB.html,EEMB    128,L&S,4.0,Letter,W,9:00 am - 10:50am,BSIF 1239,12 / 12
+./Output/20182_EEMB.html,EEMB    128,L&S,4.0,Letter,T,3:00pm - 4:50pm,BSIF 1239,12 / 12
+./Output/20182_EEMB.html,EEMB    128,L&S,4.0,Letter,R,3:00pm - 4:50pm,BSIF 1239,12 / 12
+./Output/20182_EEMB.html,EEMB    128,L&S,4.0,Letter,W,3:00pm - 4:50pm,BSIF 1239,12 / 12
+./Output/20182_EEMB.html,EEMB    131,L&S,4.0,Letter,T R,9:30 am - 10:45am,LSB  1001,105 / 144
+./Output/20182_EEMB.html,EEMB    131,L&S,4.0,Letter,F,1:00pm - 1:50pm,HSSB 1227,19 / 24
+./Output/20182_EEMB.html,EEMB    131,L&S,4.0,Letter,F,2:00pm - 2:50pm,HSSB 4202,9 / 24
+./Output/20182_EEMB.html,EEMB    131,L&S,4.0,Letter,F,11:00am - 11:50am,GIRV 2119,13 / 24
+./Output/20182_EEMB.html,EEMB    131,L&S,4.0,Letter,F,12:00pm - 12:50pm,HSSB 1236,18 / 24
+./Output/20182_EEMB.html,EEMB    131,L&S,4.0,Letter,F,10:00am - 10:50am,PHELP3519,24 / 24
+./Output/20182_EEMB.html,EEMB    131,L&S,4.0,Letter,F,9:00 am - 9:50 am,NH   1109,22 / 24
+./Output/20182_EEMB.html,EEMB    132,L&S,4.0,Letter,T R,11:00am - 12:15pm,PSB-S2725,7 / 8
+./Output/20182_EEMB.html,EEMB    132,L&S,4.0,Letter,W,4:00pm - 4:50pm,PSB-S2725,7 / 8
+./Output/20182_EEMB.html,EEMB    137,L&S,4.0,Optional,T R,3:30pm - 4:45pm,PSB-S2725,8 / 8
+./Output/20182_EEMB.html,EEMB    137L,L&S,1.0,Letter,F,1:00pm - 3:50pm,PSB-S2725,5 / 8
+./Output/20182_EEMB.html,EEMB    138,L&S,5.0,Letter,T R,9:30 am - 10:45am,BIOEN1001,97 / 97
+./Output/20182_EEMB.html,EEMB    138,L&S,5.0,Letter,M,1:00pm - 4:50pm,HARDR1013,20 / 20
+./Output/20182_EEMB.html,EEMB    138,L&S,5.0,Letter,T,1:00pm - 4:50pm,HARDR1013,20 / 20
+./Output/20182_EEMB.html,EEMB    138,L&S,5.0,Letter,W,1:00pm - 4:50pm,HARDR1013,20 / 20
+./Output/20182_EEMB.html,EEMB    138,L&S,5.0,Letter,R,1:00pm - 4:50pm,HARDR1013,20 / 20
+./Output/20182_EEMB.html,EEMB    138,L&S,5.0,Letter,W,8:00 am - 11:50am,HARDR1013,17 / 17
+./Output/20182_EEMB.html,EEMB    142C,L&S,4.0,Letter,M W F,2:00pm - 2:50pm,PHELP1425,32 / 65
+./Output/20182_EEMB.html,EEMB    142C,L&S,4.0,Letter,R,9:00 am - 9:50 am,ARTS 1353,14 / 24
+./Output/20182_EEMB.html,EEMB    142C,L&S,4.0,Letter,R,8:00 am - 8:50 am,HSSB 1232,11 / 24
+./Output/20182_EEMB.html,EEMB    142C,L&S,4.0,Letter,F,8:00 am - 8:50 am,HSSB 1233,7 / 24
+./Output/20182_EEMB.html,EEMB    142CL,L&S,3.0,Letter,T R,2:00pm - 4:50pm,BSIF 1229,19 / 22
+
+./Output/20182_EEMB.html,EEMB    146,L&S,4.0,Letter,M W F,1:00pm - 1:50pm,BUCHN1940,142 / 144
+./Output/20182_EEMB.html,EEMB    146,L&S,4.0,Letter,M,2:00pm - 3:50pm,SSMS 1304,24 / 24
+./Output/20182_EEMB.html,EEMB    146,L&S,4.0,Letter,R,2:00pm - 3:50pm,SSMS 1304,24 / 24
+./Output/20182_EEMB.html,EEMB    146,L&S,4.0,Letter,W,2:00pm - 3:50pm,SSMS 1304,24 / 24
+./Output/20182_EEMB.html,EEMB    146,L&S,4.0,Letter,T,10:00am - 11:50am,SSMS 1302,22 / 24
+./Output/20182_EEMB.html,EEMB    146,L&S,4.0,Letter,W,10:00am - 11:50am,SSMS 1302,24 / 24
+./Output/20182_EEMB.html,EEMB    146,L&S,4.0,Letter,F,10:00am - 11:50am,SSMS 1302,24 / 24
+./Output/20182_EEMB.html,EEMB    147,L&S,4.0,Letter,M W,11:00am - 12:15pm,BIOEN1001,96 / 96
+./Output/20182_EEMB.html,EEMB    147,L&S,4.0,Letter,T,2:00pm - 2:50pm,PHELP3523,24 / 24
+./Output/20182_EEMB.html,EEMB    147,L&S,4.0,Letter,T,5:00pm - 5:50pm,HSSB 4202,24 / 24
+./Output/20182_EEMB.html,EEMB    147,L&S,4.0,Letter,T,12:00pm - 12:50pm,ARTS 1353,24 / 24
+./Output/20182_EEMB.html,EEMB    147,L&S,4.0,Letter,T,6:00pm - 6:50pm,HSSB 4202,24 / 24
+./Output/20182_EEMB.html,EEMB    148,L&S,4.0,Letter,T R,12:30pm - 1:45pm,BUCHN1920,144 / 144
+./Output/20182_EEMB.html,EEMB    148,L&S,4.0,Letter,T,2:00pm - 2:50pm,PSY-E1806,24 / 24
+./Output/20182_EEMB.html,EEMB    148,L&S,4.0,Letter,T,3:00pm - 3:50pm,PSY-E1806,24 / 24
+./Output/20182_EEMB.html,EEMB    148,L&S,4.0,Letter,T,4:00pm - 4:50pm,PSY-E1806,24 / 24
+./Output/20182_EEMB.html,EEMB    148,L&S,4.0,Letter,W,12:00pm - 12:50pm,PSY-E1806,24 / 24
+./Output/20182_EEMB.html,EEMB    148,L&S,4.0,Letter,W,1:00pm - 1:50pm,PSY-E1806,24 / 24
+./Output/20182_EEMB.html,EEMB    148,L&S,4.0,Letter,W,2:00pm - 2:50pm,PSY-E1806,24 / 24
+./Output/20182_EEMB.html,EEMB    157C,L&S,4.0,Letter,T R,12:30pm - 1:45pm,GIRV 1115,19 / 32
+./Output/20182_EEMB.html,EEMB    157C,L&S,4.0,Letter,R,3:00pm - 5:50pm,MLAB 1004,15 / 16
+./Output/20182_EEMB.html,EEMB    157C,L&S,4.0,Letter,F,9:00 am - 11:50am,MLAB 1004,4 / 16
+./Output/20182_EEMB.html,EEMB    176,L&S,5.0,Letter,M W,10:00am - 11:50am,PSY-E1805,4 / 5
+./Output/20182_EEMB.html,EEMB    176,L&S,5.0,Letter,W,1:00pm - 2:50pm,PSY-E1805,4 / 5
+./Output/20182_EEMB.html,EEMB    176L,L&S,2.0,Letter,R,3:00pm - 4:50pm,PSY-E1806,4 / 5
+
+./Output/20182_EEMB.html,EEMB    180,L&S,5.0,Letter,T R,9:30 am - 10:45am,SSMS 1303,37 / 44
+./Output/20182_EEMB.html,EEMB    180,L&S,5.0,Letter,R,2:00pm - 3:50pm,SSMS 1301,22 / 22
+./Output/20182_EEMB.html,EEMB    180,L&S,5.0,Letter,R,2:00pm - 3:50pm,SSMS 1301,15 / 22
+./Output/20182_EEMB.html,EEMB    183,L&S,1.0 - 5.0,Pass/No Pass,N/A,N/A,N/A,0 / 1
+./Output/20182_EEMB.html,EEMB    184,L&S,1.0 - 12.0,Pass/No Pass,N/A,N/A,N/A,0 / 1
+
+./Output/20182_EEMB.html,EEMB    190,L&S,1.0,Pass/No Pass,M,3:30pm - 4:45pm,HSSB 1207,1 / 10
+
+./Output/20182_EEMB.html,EEMB    194D,L&S,2.0,Optional,T,7:00pm - 8:50pm,LSB  4307,0 / 5
+
+./Output/20182_EEMB.html,EEMB    194EV,L&S,2.0,Optional,R,3:00pm - 4:50pm,LSB  4307,0 / 5
+
+
+
+./Output/20182_EEMB.html,EEMB    194MS,L&S,2.0,Optional,T,12:00pm - 1:20pm,LSB  4307,0 / 10
+
+
+
+./Output/20182_EEMB.html,EEMB    197,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_EEMB.html,EEMB    198,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_EEMB.html,EEMB    199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_ART.html,ART       1A,L&S,5.0,Optional,T R,12:30pm - 1:45pm,BUCHN1930,100 / 100
+./Output/20182_ART.html,ART       1A,L&S,5.0,Optional,W,1:00pm - 1:50pm,ARTS 1344,25 / 25
+./Output/20182_ART.html,ART       1A,L&S,5.0,Optional,R,10:00am - 10:50am,ARTS 1344,25 / 25
+./Output/20182_ART.html,ART       1A,L&S,5.0,Optional,W,12:00pm - 12:50pm,ARTS 1344,25 / 25
+./Output/20182_ART.html,ART       1A,L&S,5.0,Optional,R,11:00am - 11:50am,ARTS 1344,25 / 25
+./Output/20182_ART.html,ART       1C,L&S,2.0,Letter,R,5:00pm - 6:50pm,EMBARHALL,225 / 225
+./Output/20182_ART.html,ART       7A,L&S,5.0,Optional,M,3:00pm - 4:50pm,IV   THEA2,144 / 145
+./Output/20182_ART.html,ART       7A,L&S,5.0,Optional,T R,12:00pm - 1:50pm,ARTS 1345,24 / 24
+./Output/20182_ART.html,ART       7A,L&S,5.0,Optional,W F,11:00am - 12:50pm,ARTS 1345,24 / 24
+./Output/20182_ART.html,ART       7A,L&S,5.0,Optional,T R,9:00 am - 10:50am,ARTS 1345,24 / 24
+./Output/20182_ART.html,ART       7A,L&S,5.0,Optional,W F,1:00pm - 2:50pm,ARTS 1345,24 / 24
+./Output/20182_ART.html,ART       7A,L&S,5.0,Optional,T R,2:00pm - 3:50pm,ARTS 1345,24 / 24
+./Output/20182_ART.html,ART       7A,L&S,5.0,Optional,W F,9:00 am - 10:50am,ARTS 1345,24 / 24
+./Output/20182_ART.html,ART      10,L&S,4.0,Optional,M W,9:00 am - 11:50am,ARTS 2628,18 / 18
+./Output/20182_ART.html,ART      12,L&S,4.0,Letter,M W,9:00 am - 11:50am,ARTS 0641,15 / 17
+./Output/20182_ART.html,ART      14,L&S,4.0,Optional,M W,1:00pm - 3:50pm,ARTS 2235,17 / 17
+./Output/20182_ART.html,ART      22,L&S,4.0,Optional,T R,9:00 am - 11:50am,ARTS 2220,20 / 20
+./Output/20182_ART.html,ART     100,L&S,4.0,Optional,T R,1:00pm - 2:50pm,ARTS 2422,13 / 16
+./Output/20182_ART.html,ART     101,L&S,4.0,Letter,R,1:00pm - 3:50pm,ARTS 2432,10 / 9
+./Output/20182_ART.html,ART  CS 101,CRST,1.0 - 6.0,Pass/No Pass,T,1:00pm - 3:50pm,CRST 0120,10 / 12
+./Output/20182_ART.html,ART  CS 101,CRST,1.0 - 6.0,Pass/No Pass,M,2:00pm - 4:50pm,CRST 120,12 / 12
+./Output/20182_ART.html,ART  CS 105,CRST,1.0 - 6.0,Pass/No Pass,W,5:00pm - 8:50pm,CRST 107,8 / 0
+./Output/20182_ART.html,ART     106IV,L&S,4.0,Optional,F,1:00pm - 4:50pm,ARTS 0641,15 / 15
+./Output/20182_ART.html,ART  CS 107,CRST,1.0 - 6.0,Pass/No Pass,R,9:00 am - 10:50am,CRST 143,10 / 12
+./Output/20182_ART.html,ART     110,L&S,4.0,Letter,T R,2:00pm - 4:50pm,ARTS 2235,13 / 9
+./Output/20182_ART.html,ART  CS 112,CRST,1.0 - 6.0,Pass/No Pass,R,5:00pm - 6:15pm,CRST 0143,5 / 10
+./Output/20182_ART.html,ART  CS 112,CRST,1.0 - 6.0,Pass/No Pass,W,10:00am - 12:50pm,CRST 0136,14 / 15
+./Output/20182_ART.html,ART     113,L&S,4.0,Letter,T,1:00pm - 4:50pm,ARTS 2220,6 / 8
+./Output/20182_ART.html,ART     117,L&S,4.0,Optional,F,11:00am - 3:20pm,ARTS 2636,17 / 17
+./Output/20182_ART.html,ART     118,L&S,4.0,Optional,M W,9:00 am - 11:50am,ARTS 2636,15 / 15
+./Output/20182_ART.html,ART     120NP,L&S,4.0,Letter,T R,3:00pm - 5:50pm,ARTS 1237,18 / 15
+./Output/20182_ART.html,ART     122CC,L&S,4.0,Letter,M W,1:00pm - 3:50pm,ARTS 2220,14 / 14
+./Output/20182_ART.html,ART     123,L&S,4.0,Optional,T R,9:00 am - 11:50am,ARTS 0254,12 / 10
+./Output/20182_ART.html,ART     130,L&S,4.0,Optional,M,4:00pm - 6:50pm,ARTS 1344,30 / 29
+./Output/20182_ART.html,ART     137,L&S,4.0,Optional,M W,10:00am - 11:50am,ARTS 1344,15 / 15
+./Output/20182_ART.html,ART     185GL,L&S,4.0,Letter,T R,10:00am - 11:50am,ELNGS2611,15 / 15
+./Output/20182_ART.html,ART     185LJ,L&S,4.0,Letter,M W,10:00am - 11:50am,ARTS 2220,12 / 11
+./Output/20182_ART.html,ART     192ES,L&S,1.0 - 4.0,Pass/No Pass,N/A,N/A,N/A,0 / 0
+./Output/20182_ART.html,ART     192IA,L&S,1.0 - 4.0,Pass/No Pass,N/A,N/A,N/A,0 / 0
+./Output/20182_ART.html,ART     196,L&S,4.0,Letter,W,1:00pm - 3:50pm,ARTS 1344,2 / 9
+./Output/20182_ART.html,ART     199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_ART.html,ART     199RA,L&S,1.0 - 5.0,Letter,N/A,N/A,N/A,0 / 10
+./Output/20182_BIOL.html,BIOL CS  25,CRST,1.0 - 6.0,Pass/No Pass,R,1:00pm - 3:50pm,CRST 136,11 / 11
+./Output/20182_BIOL.html,BIOL CS  30,CRST,1.0 - 6.0,Pass/No Pass,T R,11:00am - 12:15pm,CRST 0143,18 / 30
+./Output/20182_BIOL.html,BIOL CS 101,CRST,1.0 - 6.0,Pass/No Pass,M,9:30 am - 11:20am,CRST 0136,2 / 15
+./Output/20182_BIOL.html,BIOL CS 101,CRST,1.0 - 6.0,Pass/No Pass,T,3:00pm - 4:50pm,CRST 0143,6 / 20
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,T R,2:00pm - 3:15pm,CHEM 1179,250 / 250
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,6:00pm - 6:50pm,GIRV 2120,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,4:00pm - 4:50pm,GIRV 2123,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,6:00pm - 6:50pm,GIRV 2119,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,6:00pm - 6:50pm,GIRV 2116,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,4:00pm - 4:50pm,GIRV 2120,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,4:00pm - 4:50pm,GIRV 2119,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,5:00pm - 5:50pm,GIRV 2120,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,5:00pm - 5:50pm,SH   1609,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,5:00pm - 5:50pm,HSSB 2251,25 / 25
+./Output/20182_C LIT.html,C LIT    30C,L&S,4.0,Optional,R,6:00pm - 6:50pm,HSSB 2251,25 / 25
+./Output/20182_C LIT.html,C LIT    30H,L&S,1.0,Optional,R,4:00pm - 4:50pm,GIRV 2110,12 / 12
+./Output/20182_C LIT.html,C LIT    31,L&S,4.0,Optional,T R,5:00pm - 6:15pm,BUCHN1930,100 / 100
+./Output/20182_C LIT.html,C LIT    31,L&S,4.0,Optional,F,9:00 am - 9:50 am,HSSB 1232,25 / 25
+./Output/20182_C LIT.html,C LIT    31,L&S,4.0,Optional,F,10:00am - 10:50am,HSSB 1228,25 / 25
+./Output/20182_C LIT.html,C LIT    31,L&S,4.0,Optional,F,11:00am - 11:50am,HSSB 2251,25 / 25
+./Output/20182_C LIT.html,C LIT    31,L&S,4.0,Optional,F,12:00pm - 12:50pm,HSSB 1211,25 / 25
+./Output/20182_C LIT.html,C LIT    35,L&S,4.0,Optional,T R,11:00am - 12:15pm,PSYCH1924,50 / 50
+./Output/20182_C LIT.html,C LIT    35,L&S,4.0,Optional,T,5:00pm - 5:50pm,HSSB 2251,25 / 25
+./Output/20182_C LIT.html,C LIT    35,L&S,4.0,Optional,T,6:00pm - 6:50pm,HSSB 1237,25 / 25
+./Output/20182_C LIT.html,C LIT   100,L&S,4.0,Optional,T R,2:00pm - 3:15pm,PHELP2516,60 / 60
+./Output/20182_C LIT.html,C LIT   101,L&S,4.0,Optional,T R,3:30pm - 4:45pm,PHELP3523,30 / 30
+./Output/20182_C LIT.html,C LIT   119,L&S,4.0,Optional,M W,11:00am - 12:15pm,PHELP3515,76 / 75
+./Output/20182_C LIT.html,C LIT   139,L&S,4.0,Optional,T R,12:30pm - 1:45pm,PHELP2516,8 / 15
+./Output/20182_C LIT.html,C LIT   165,L&S,4.0,Optional,T R,2:00pm - 3:15pm,PHELP1440,1 / 15
+./Output/20182_C LIT.html,C LIT   184C,L&S,4.0,Letter,M W,3:30pm - 4:45pm,HSSB 3001E,6 / 10
+./Output/20182_C LIT.html,C LIT   186DF,L&S,4.0,Optional,M,5:00pm - 7:50pm,HSSB 1173,30 / 30
+./Output/20182_C LIT.html,C LIT   186WL,L&S,4.0,Optional,F,1:00pm - 3:50pm,HSSB 3201,9 / 12
+./Output/20182_C LIT.html,C LIT   188,L&S,4.0,Optional,M W,12:30pm - 1:45pm,PHELP1448,30 / 30
+./Output/20182_C LIT.html,C LIT   191,L&S,4.0,Optional,M W,3:30pm - 4:45pm,NH   1006,65 / 65
+./Output/20182_C LIT.html,C LIT   193,L&S,4.0,Letter,N/A,N/A,N/A,0 / 0
+./Output/20182_C LIT.html,C LIT   196H,L&S,4.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_C LIT.html,C LIT   199,L&S,1.0 - 5.0,Letter,N/A,N/A,N/A,0 / 5
+./Output/20182_CHEM.html,CHEM      1A,L&S,3.0,Optional,M W F,8:00 am - 8:50 am,HFH  1104,152 / 188
+./Output/20182_CHEM.html,CHEM      1AL,L&S,2.0,Optional,T,12:00pm - 2:30pm,PSB-N2637,24 / 24
+./Output/20182_CHEM.html,CHEM      1AL,L&S,2.0,Optional,W,12:00pm - 2:50pm,PSB-N2637,24 / 24
+./Output/20182_CHEM.html,CHEM      1AL,L&S,2.0,Optional,R,12:00pm - 2:30pm,PSB-N2637,24 / 24
+./Output/20182_CHEM.html,CHEM      1AL,L&S,2.0,Optional,T,3:00pm - 5:30pm,PSB-N2637,0 / 20
+./Output/20182_CHEM.html,CHEM      1AL,L&S,2.0,Optional,W,3:00pm - 5:50pm,PSB-N2637,0 / 20
+./Output/20182_CHEM.html,CHEM      1AL,L&S,2.0,Optional,R,3:00pm - 5:30pm,PSB-N2637,0 / 20
+./Output/20182_CHEM.html,CHEM      1B,L&S,3.0,Optional,M W F,1:00pm - 1:50pm,BUCHN1910,306 / 306
+./Output/20182_CHEM.html,CHEM      1B,L&S,3.0,Optional,M W F,2:00pm - 2:50pm,BUCHN1910,266 / 306
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,T,8:00 am - 11:50am,PSB-N2638,0 / 20
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,R,8:00 am - 11:50am,PSB-N2653,0 / 20
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,T,1:00pm - 4:50pm,PSB-N2638,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,T,1:00pm - 4:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,R,1:00pm - 4:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,R,1:00pm - 4:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,M,6:00pm - 9:50pm,PSB-N2637,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,M,6:00pm - 9:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,T,6:00pm - 9:50pm,PSB-N2637,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,T,6:00pm - 9:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,W,6:00pm - 9:50pm,PSB-N2637,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,W,6:00pm - 9:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,R,6:00pm - 9:50pm,PSB-N2637,24 / 24
+./Output/20182_CHEM.html,CHEM      1BL,L&S,2.0,Optional,R,6:00pm - 9:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1C,L&S,3.0,Optional,M W F,8:00 am - 8:50 am,CHEM 1171,87 / 113
+./Output/20182_CHEM.html,CHEM      1C,L&S,3.0,Optional,M W F,10:00am - 10:50am,CHEM 1179,344 / 354
+./Output/20182_CHEM.html,CHEM      1C,L&S,3.0,Optional,M W F,11:00am - 11:50am,CHEM 1179,354 / 354
+./Output/20182_CHEM.html,CHEM      1C,L&S,3.0,Optional,M W F,12:00pm - 12:50pm,CHEM 1179,286 / 354
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,8:00 am - 11:50am,PSB-N2638,0 / 20
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,8:00 am - 11:50am,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,8:00 am - 11:50am,PSB-N2664,20 / 20
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,8:00 am - 11:50am,PSB-N2666,0 / 20
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,R,8:00 am - 11:50am,PSB-N2666,0 / 20
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,R,8:00 am - 11:50am,PSB-N2654,20 / 20
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,1:00pm - 4:50pm,PSB-N2638,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,1:00pm - 4:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,1:00pm - 4:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,1:00pm - 4:50pm,PSB-N2664,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,1:00pm - 4:50pm,PSB-N2666,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,1:00pm - 4:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,1:00pm - 4:50pm,PSB-N2664,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,1:00pm - 4:50pm,PSB-N2666,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,W,1:00pm - 4:50pm,PSB-N2638,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,W,1:00pm - 4:50pm,PSB-N2653,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,W,1:00pm - 4:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,W,1:00pm - 4:50pm,PSB-N2664,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,W,1:00pm - 4:50pm,PSB-N2666,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,R,1:00pm - 4:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,R,1:00pm - 4:50pm,PSB-N2664,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,R,1:00pm - 4:50pm,PSB-N2666,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,F,1:00pm - 4:50pm,PSB-N2638,20 / 20
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,F,1:00pm - 4:50pm,PSB-N2653,20 / 20
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,F,1:00pm - 4:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,6:00pm - 9:50pm,PSB-N2638,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,6:00pm - 9:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,6:00pm - 9:50pm,PSB-N2664,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,M,6:00pm - 9:50pm,PSB-N2666,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,6:00pm - 9:50pm,PSB-N2638,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,6:00pm - 9:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,6:00pm - 9:50pm,PSB-N2664,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,T,6:00pm - 9:50pm,PSB-N2666,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,W,6:00pm - 9:50pm,PSB-N2638,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,W,6:00pm - 9:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,W,6:00pm - 9:50pm,PSB-N2664,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,R,6:00pm - 9:50pm,PSB-N2638,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,R,6:00pm - 9:50pm,PSB-N2654,24 / 24
+./Output/20182_CHEM.html,CHEM      1CL,L&S,2.0,Optional,R,6:00pm - 9:50pm,PSB-N2664,24 / 24
+./Output/20182_CHEM.html,CHEM      2C,L&S,3.0,Letter,T R,8:00 am - 9:15 am,GIRV 1115,48 / 48
+./Output/20182_CHEM.html,CHEM      2CC,L&S,2.0,Letter,W,6:00pm - 9:50pm,PSB-N2666,7 / 18
+./Output/20182_CHEM.html,CHEM      2CC,L&S,2.0,Letter,R,6:00pm - 9:50pm,PSB-N2666,2 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,T R,2:00pm - 2:50pm,BUCHN1910,252 / 280
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,T,6:00pm - 9:50pm,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,T,6:00pm - 9:50pm,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,T,6:00pm - 9:50pm,PSB-N1670,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,R,6:00pm - 9:50pm,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,R,6:00pm - 9:50pm,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,R,6:00pm - 9:50pm,PSB-N1670,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,8:00 am - 11:50am,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,8:00 am - 11:50am,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,8:00 am - 11:50am,PSB-N1670,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,1:00pm - 4:50pm,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,1:00pm - 4:50pm,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,1:00pm - 4:50pm,PSB-N1670,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,5:00pm - 8:50pm,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,5:00pm - 8:50pm,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6AL,L&S,3.0,Optional,F,5:00pm - 8:50pm,PSB-N1670,0 / 18
+
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,8:00 am - 11:50am,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,8:00 am - 11:50am,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,8:00 am - 11:50am,PSB-N1670,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,1:00pm - 4:50pm,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,1:00pm - 4:50pm,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,1:00pm - 4:50pm,PSB-N1670,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,T R,1:00pm - 4:50pm,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,T R,1:00pm - 4:50pm,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,T R,1:00pm - 4:50pm,PSB-N1670,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,6:00pm - 9:50pm,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,6:00pm - 9:50pm,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,M W,6:00pm - 9:50pm,PSB-N1670,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,T R,8:00 am - 11:50am,PSB-N1652,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,T R,8:00 am - 11:50am,PSB-N1662,18 / 18
+./Output/20182_CHEM.html,CHEM      6BL,L&S,3.0,Optional,T R,8:00 am - 11:50am,PSB-N1670,18 / 18
+
+./Output/20182_CHEM.html,CHEM      6CL,L&S,3.0,Optional,T R,8:00 am - 11:50am,PSB-N1649,8 / 8
+./Output/20182_CHEM.html,CHEM      6CL,L&S,3.0,Optional,T R,1:00pm - 4:50pm,PSB-N1649,8 / 8
+./Output/20182_CHEM.html,CHEM      6CL,L&S,3.0,Optional,T R,6:00pm - 9:50pm,PSB-N1649,8 / 8
+./Output/20182_CHEM.html,CHEM     99,L&S,1.0 - 3.0,Optional,N/A,N/A,N/A,0 / 40
+./Output/20182_CHEM.html,CHEM CS 103,CRST,1.0 - 6.0,Pass/No Pass,M W F,11:00am - 11:50am,CRST 160B,6 / 20
+./Output/20182_CHEM.html,CHEM    109A,L&S,4.0,Optional,M W F,8:00 am - 8:50 am,BUCHN1940,81 / 115
+./Output/20182_CHEM.html,CHEM    109B,L&S,4.0,Optional,M W F,4:00pm - 4:50pm,CHEM 1179,354 / 354
+./Output/20182_CHEM.html,CHEM    109C,L&S,4.0,Optional,M W F,1:00pm - 1:50pm,CHEM 1179,296 / 300
+./Output/20182_CHEM.html,CHEM    109C,L&S,4.0,Optional,M W F,2:00pm - 2:50pm,CHEM 1179,227 / 300
+./Output/20182_CHEM.html,CHEM    109CH,L&S,4.0,Optional,M W F,10:00am - 10:50am,PHELP1425,42 / 50
+./Output/20182_CHEM.html,CHEM CS 110,CRST,1.0 - 4.0,Pass/No Pass,M W,9:30 am - 10:45am,387  0103,1 / 25
+./Output/20182_CHEM.html,CHEM    112C,L&S,4.0,Optional,M W F,9:00 am - 9:50 am,PHELP1508,32 / 48
+./Output/20182_CHEM.html,CHEM    112C,L&S,4.0,Optional,F,3:00pm - 3:50pm,HSSB 3202,12 / 24
+./Output/20182_CHEM.html,CHEM    112C,L&S,4.0,Optional,F,2:00pm - 2:50pm,HSSB 1215,20 / 24
+./Output/20182_CHEM.html,CHEM    112L,L&S,3.0,Letter,M W,2:00pm - 5:50pm,PSB-N2619,12 / 14
+./Output/20182_CHEM.html,CHEM    112L,L&S,3.0,Letter,T R,8:00 am - 11:50am,PSB-N2619,13 / 14
+./Output/20182_CHEM.html,CHEM    112L,L&S,3.0,Letter,M W,10:00am - 1:50pm,PSB-N2619,14 / 14
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,M W F,9:00 am - 9:50 am,LSB  1001,140 / 159
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,M,5:00pm - 5:50pm,HSSB 2201,18 / 18
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,M,6:00pm - 6:50pm,GIRV 2135,18 / 18
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,M,4:00pm - 4:50pm,GIRV 1106,16 / 16
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,M,5:00pm - 5:50pm,ELLSN2816,18 / 18
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,M,6:00pm - 6:50pm,ELLSN2816,18 / 18
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,W,5:00pm - 5:50pm,GIRV 2110,16 / 16
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,W,6:00pm - 6:50pm,GIRV 2110,0 / 16
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,W,6:00pm - 6:50pm,GIRV 1106,0 / 16
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,M,10:00am - 10:50am,HSSB 2201,18 / 18
+./Output/20182_CHEM.html,CHEM    113C,L&S,4.0,Optional,W,12:00pm - 12:50pm,ELLSN2816,18 / 18
+./Output/20182_CHEM.html,CHEM    115C,L&S,3.0,Optional,M W,9:30 am - 10:45am,ELLSN2816,1 / 10
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,M,12:00pm - 12:50pm,BUCHN1940,86 / 149
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,T R,8:00 am - 11:50am,PSB-N1641,14 / 18
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,T R,1:00pm - 4:50pm,PSB-N1641,18 / 18
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,T R,6:00pm - 9:50pm,PSB-N1641,18 / 18
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,W F,10:00am - 1:50pm,PSB-N1641,0 / 18
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,M W,1:00pm - 4:50pm,PSB-N1641,18 / 18
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,M W,6:00pm - 9:50pm,PSB-N1641,18 / 18
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,M,8:00 am - 11:50am,PSB-N1641,0 / 18
+./Output/20182_CHEM.html,CHEM    116BL,L&S,3.0,Optional,F,2:00pm - 5:50pm,PSB-N1641,0 / 18
+./Output/20182_CHEM.html,CHEM    123,L&S,3.0,Optional,T R,5:00pm - 6:15pm,GIRV 1004,172 / 206
+./Output/20182_CHEM.html,CHEM    128,L&S,3.0,Optional,T R,9:30 am - 10:45am,PHELP3519,31 / 30
+./Output/20182_CHEM.html,CHEM    132,L&S,3.0,Optional,T R,11:00am - 12:15pm,ELLSN2816,0 / 5
+./Output/20182_CHEM.html,CHEM    133,L&S,3.0,Optional,T R,3:30pm - 4:45pm,PHELP2536,0 / 10
+./Output/20182_CHEM.html,CHEM    142C,L&S,3.0,Letter,T R,2:00pm - 3:15pm,WEBB 1100,39 / 75
+./Output/20182_CHEM.html,CHEM    145,L&S,3.0,Letter,T R,3:30pm - 4:45pm,GIRV 2128,1 / 10
+./Output/20182_CHEM.html,CHEM    145,L&S,3.0,Letter,T R,5:00pm - 5:50pm,GIRV 2128,1 / 10
+./Output/20182_CHEM.html,CHEM    147,L&S,3.0,Optional,T R,3:30pm - 4:45pm,BIOEN1001,95 / 97
+./Output/20182_CHEM.html,CHEM    151,L&S,4.0,Optional,T R,11:00am - 12:15pm,HSSB 2202,7 / 7
+./Output/20182_CHEM.html,CHEM    151,L&S,4.0,Optional,F,9:00 am - 9:50 am,LSB  1101,7 / 7
+./Output/20182_CHEM.html,CHEM    153,L&S,3.0,Optional,T R,2:00pm - 3:15pm,PHELP2532,15 / 15
+./Output/20182_CHEM.html,CHEM    153,L&S,3.0,Optional,T R,5:00pm - 8:50pm,PSB-N1649,15 / 15
+./Output/20182_CHEM.html,CHEM    176,L&S,3.0,Optional,T R,12:30pm - 1:45pm,PHELP1440,11 / 15
+
+./Output/20182_CHEM.html,CHEM    186,L&S,3.0,Optional,M W,2:00pm - 3:15pm,PHELP1440,15 / 15
+./Output/20182_CHEM.html,CHEM    192,L&S,3.0,Letter,N/A,N/A,N/A,0 / 2
+
+
+./Output/20182_CHEM.html,CHEM    196,L&S,1.0 - 4.0,Optional,M W,10:00am - 11:15am,BIOEN2001,0 / 7
+
+./Output/20182_CHEM.html,CHEM    199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 50
+./Output/20182_DANCE.html,DANCE    42F,L&S,2.0,Optional,M W,11:00am - 12:15pm,TD-W 1501,29 / 30
+./Output/20182_DANCE.html,DANCE    43C,L&S,2.0,Optional,T R,9:30 am - 10:45am,HSSB 1151,18 / 20
+./Output/20182_DANCE.html,DANCE    45,L&S,4.0,Optional,M W F,10:00am - 10:50am,IV   THEA1,510 / 510
+./Output/20182_DANCE.html,DANCE    47C,L&S,2.0 - 4.0,Optional,M W F,12:30pm - 1:45pm,TD-W 1501,19 / 20
+./Output/20182_DANCE.html,DANCE    47C,L&S,2.0 - 4.0,Optional,T R,9:00 am - 10:50am,TD-W 1501,3 / 20
+./Output/20182_DANCE.html,DANCE    47F,L&S,2.0 - 4.0,Optional,T R,9:00 am - 10:50am,TD-W 1501,11 / 25
+./Output/20182_DANCE.html,DANCE    47F,L&S,2.0 - 4.0,Optional,M W F,3:30pm - 4:45pm,TD-W 1501,9 / 25
+./Output/20182_DANCE.html,DANCE    56C,L&S,2.0 - 4.0,Optional,M W F,8:00 am - 9:15 am,HSSB 1135,14 / 25
+./Output/20182_DANCE.html,DANCE    56C,L&S,2.0 - 4.0,Optional,T R,1:00pm - 2:50pm,HSSB 1135,16 / 20
+./Output/20182_DANCE.html,DANCE    56F,L&S,2.0 - 4.0,Optional,M W F,12:30pm - 1:45pm,HSSB 1135,11 / 25
+./Output/20182_DANCE.html,DANCE    56F,L&S,2.0 - 4.0,Optional,T R,11:00am - 12:50pm,HSSB 1135,1 / 20
+./Output/20182_DANCE.html,DANCE   145E,L&S,4.0,Optional,M,11:00am - 1:50pm,TD-W 2517,20 / 20
+./Output/20182_DANCE.html,DANCE   147C,L&S,2.0 - 4.0,Optional,M W F,9:30 am - 10:45am,HSSB 1151,13 / 30
+./Output/20182_DANCE.html,DANCE   147F,L&S,2.0 - 4.0,Optional,M W F,9:30 am - 10:45am,TD-W 1501,16 / 20
+./Output/20182_DANCE.html,DANCE   147PC,L&S,1.0 - 2.0,Optional,T R,11:00am - 12:50pm,TD-W 1501,9 / 20
+./Output/20182_DANCE.html,DANCE   149,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 200
+./Output/20182_DANCE.html,DANCE   151C,L&S,3.0,Optional,T R,3:00pm - 4:50pm,HSSB 1151,8 / 25
+./Output/20182_DANCE.html,DANCE   151DC,L&S,3.0,Letter,T R,3:00pm - 4:50pm,KERR 1126C,8 / 12
+./Output/20182_DANCE.html,DANCE   156C,L&S,2.0 - 4.0,Optional,M W F,2:00pm - 3:15pm,HSSB 1151,15 / 20
+./Output/20182_DANCE.html,DANCE   156C,L&S,2.0 - 4.0,Optional,T R,9:00 am - 10:50am,HSSB 1135,5 / 20
+./Output/20182_DANCE.html,DANCE   156F,L&S,2.0 - 4.0,Optional,M W F,2:00pm - 3:15pm,HSSB 1135,11 / 20
+./Output/20182_DANCE.html,DANCE   156F,L&S,2.0 - 4.0,Optional,T R,9:00 am - 10:50am,HSSB 1135,10 / 20
+./Output/20182_DANCE.html,DANCE   158,L&S,2.0 - 3.0,Letter,N/A,N/A,N/A,0 / 0
+./Output/20182_DANCE.html,DANCE   190,L&S,2.0 - 4.0,Optional,M W F,3:30pm - 5:20pm,HSSB 1135,2 / 15
+./Output/20182_DANCE.html,DANCE   191,L&S,3.0,Letter,N/A,N/A,N/A,0 / 10
+./Output/20182_DANCE.html,DANCE   193H,L&S,4.0,Letter,N/A,N/A,N/A,0 / 10
+./Output/20182_DANCE.html,DANCE   193HC,L&S,2.0 - 4.0,Letter,N/A,N/A,N/A,0 / 5
+./Output/20182_DANCE.html,DANCE   194,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_DANCE.html,DANCE   199,L&S,1.0 - 5.0,Letter,N/A,N/A,N/A,0 / 10
+./Output/20182_BL ST.html,BL ST     3,L&S,4.0,Letter,T R,8:00 am - 9:15 am,PSYCH1924,120 / 120
+./Output/20182_BL ST.html,BL ST     3,L&S,4.0,Letter,T,2:00pm - 2:50pm,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     3,L&S,4.0,Letter,T,3:00pm - 3:50pm,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     3,L&S,4.0,Letter,W,12:00pm - 12:50pm,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     3,L&S,4.0,Letter,W,4:00pm - 4:50pm,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     3,L&S,4.0,Letter,W,8:00 am - 8:50 am,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     3,L&S,4.0,Letter,W,5:00pm - 5:50pm,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     7,L&S,4.0,Letter,M W,2:00pm - 3:15pm,PSYCH1924,120 / 120
+./Output/20182_BL ST.html,BL ST     7,L&S,4.0,Letter,T,8:00 am - 8:50 am,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     7,L&S,4.0,Letter,T,9:00 am - 9:50 am,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     7,L&S,4.0,Letter,T,10:00am - 10:50am,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     7,L&S,4.0,Letter,T,11:00am - 11:50am,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     7,L&S,4.0,Letter,T,12:00pm - 12:50pm,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST     7,L&S,4.0,Letter,T,1:00pm - 1:50pm,SH   3707,20 / 20
+./Output/20182_BL ST.html,BL ST    45,L&S,4.0,Letter,T R,11:00am - 12:15pm,PHELP2516,60 / 60
+./Output/20182_BL ST.html,BL ST    45,L&S,4.0,Letter,W,2:00pm - 2:50pm,HSSB 4201,20 / 20
+./Output/20182_BL ST.html,BL ST    45,L&S,4.0,Letter,W,3:00pm - 3:50pm,HSSB 4202,20 / 20
+./Output/20182_BL ST.html,BL ST    45,L&S,4.0,Letter,W,4:00pm - 4:50pm,HSSB 3202,20 / 20
+./Output/20182_BL ST.html,BL ST    99,L&S,1.0 - 4.0,Letter,N/A,N/A,N/A,0 / 5
+./Output/20182_BL ST.html,BL ST   106,L&S,4.0,Letter,M W,12:30pm - 1:45pm,WEBB 1100,67 / 80
+./Output/20182_BL ST.html,BL ST   117,L&S,4.0,Letter,T R,2:00pm - 3:15pm,GIRV 2123,40 / 40
+./Output/20182_BL ST.html,BL ST   136,L&S,4.0,Letter,M W,9:30 am - 10:45am,387  104,39 / 40
+./Output/20182_BL ST.html,BL ST   165,L&S,4.0,Letter,T R,9:30 am - 10:45am,TD-W 2600,60 / 60
+./Output/20182_BL ST.html,BL ST   169BR,L&S,4.0,Letter,T R,9:30 am - 10:45am,HSSB 1173,75 / 75
+./Output/20182_BL ST.html,BL ST   174,L&S,4.0,Letter,M,2:00pm - 4:50pm,GIRV 2128,65 / 65
+./Output/20182_BL ST.html,BL ST   179,L&S,4.0,Letter,M,3:00pm - 5:50pm,PHELP1160,65 / 65
+./Output/20182_BL ST.html,BL ST   190,L&S,4.0,Letter,W,1:00pm - 3:50pm,SH   3707,13 / 20
+./Output/20182_BL ST.html,BL ST   193GS,L&S,4.0,Letter,T R,11:00am - 12:15pm,TD-W 2600,17 / 60
+./Output/20182_BL ST.html,BL ST   193GS,L&S,4.0,Letter,W,5:00pm - 7:50pm,PHELP3505,17 / 60
+./Output/20182_BL ST.html,BL ST   193TK,L&S,4.0,Letter,T R,2:00pm - 3:15pm,HSSB 1173,23 / 75
+
+./Output/20182_BL ST.html,BL ST   197,L&S,1.0 - 8.0,Letter,N/A,N/A,N/A,0 / 20
+./Output/20182_BL ST.html,BL ST   199,L&S,1.0 - 4.0,Letter,N/A,N/A,N/A,0 / 15
+./Output/20182_BL ST.html,BL ST   199RA,L&S,1.0 - 5.0,Letter,N/A,N/A,N/A,0 / 5
+./Output/20182_BMSE.html,BMSE    199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 4
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,T R,11:00am - 12:15pm,CAMPBHALL,585 / 666
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,7:00pm - 7:50pm,GIRV 1119,32 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,9:00 am - 9:50 am,GIRV 2127,32 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,9:00 am - 9:50 am,GIRV 1115,25 / 37
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,10:00am - 10:50am,GIRV 2127,32 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,7:00pm - 7:50pm,GIRV 1115,35 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,5:00pm - 5:50pm,GIRV 2127,32 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,5:00pm - 5:50pm,GIRV 1119,36 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,6:00pm - 6:50pm,GIRV 2127,33 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,6:00pm - 6:50pm,GIRV 1119,33 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,9:00 am - 9:50 am,GIRV 1112,14 / 37
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,10:00am - 10:50am,GIRV 1115,34 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,10:00am - 10:50am,GIRV 1112,36 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,11:00am - 11:50am,GIRV 2127,36 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,11:00am - 11:50am,GIRV 1115,34 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,5:00pm - 5:50pm,GIRV 1115,36 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,6:00pm - 6:50pm,GIRV 1115,32 / 32
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,F,11:00am - 11:50am,GIRV 1112,37 / 37
+./Output/20182_ECON.html,ECON      2,L&S,4.0,Optional,W,7:00pm - 7:50pm,GIRV 1112,36 / 32
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,T R,8:00 am - 9:15 am,BUCHN1910,224 / 240
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,T,1:00pm - 1:50pm,GIRV 2112,29 / 30
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,T,2:00pm - 2:50pm,NH   1111,30 / 30
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,T,3:00pm - 3:50pm,NH   1111,29 / 30
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,R,1:00pm - 1:50pm,GIRV 2115,30 / 30
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,R,2:00pm - 2:50pm,PHELP3523,30 / 30
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,R,3:00pm - 3:50pm,PHELP1444,0 / 30
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,T,10:00am - 10:50am,GIRV 2124,29 / 30
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,T,5:00pm - 5:50pm,GIRV 2124,27 / 30
+./Output/20182_ECON.html,ECON      3A,L&S,4.0,Optional,R,2:00pm - 2:50pm,GIRV 2127,20 / 30
+./Output/20182_ECON.html,ECON      3AH,L&S,1.0,Pass/No Pass,R,10:00am - 10:50am,PHELP1425,0 / 20
+./Output/20182_ECON.html,ECON      3B,L&S,4.0,Optional,M W,3:30pm - 4:45pm,GIRV 1004,118 / 128
+./Output/20182_ECON.html,ECON      3B,L&S,4.0,Optional,R,2:00pm - 2:50pm,NH   1122,29 / 32
+./Output/20182_ECON.html,ECON      3B,L&S,4.0,Optional,R,1:00pm - 1:50pm,NH   1122,30 / 32
+./Output/20182_ECON.html,ECON      3B,L&S,4.0,Optional,T,9:00 am - 9:50 am,NH   1122,29 / 32
+./Output/20182_ECON.html,ECON      3B,L&S,4.0,Optional,R,9:00 am - 9:50 am,NH   1122,0 / 30
+./Output/20182_ECON.html,ECON      3B,L&S,4.0,Optional,T,1:00pm - 1:50pm,NH   1122,0 / 30
+./Output/20182_ECON.html,ECON      3B,L&S,4.0,Optional,T,2:00pm - 2:50pm,NH   1122,30 / 32
+./Output/20182_ECON.html,ECON      3BH,L&S,1.0,Pass/No Pass,M,1:00pm - 1:50pm,NH   1122,8 / 15
+./Output/20182_ECON.html,ECON      9,L&S,4.0,Optional,M W F,8:00 am - 8:50 am,EMBARHALL,155 / 180
+./Output/20182_ECON.html,ECON      9,L&S,4.0,Optional,T,4:00pm - 4:50pm,GIRV 2115,35 / 30
+./Output/20182_ECON.html,ECON      9,L&S,4.0,Optional,T,4:00pm - 4:50pm,387  104,35 / 30
+./Output/20182_ECON.html,ECON      9,L&S,4.0,Optional,T,5:00pm - 5:50pm,GIRV 1116,34 / 30
+./Output/20182_ECON.html,ECON      9,L&S,4.0,Optional,T,6:00pm - 6:50pm,GIRV 1116,18 / 30
+./Output/20182_ECON.html,ECON      9,L&S,4.0,Optional,T,5:00pm - 5:50pm,387  104,23 / 30
+./Output/20182_ECON.html,ECON      9,L&S,4.0,Optional,T,6:00pm - 6:50pm,PHELP3519,10 / 30
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,M W F,11:00am - 11:50am,IV   THEA1,340 / 384
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,4:00pm - 4:50pm,GIRV 2115,32 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,5:00pm - 5:50pm,GIRV 2115,32 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,5:00pm - 5:50pm,PHELP2514,32 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,6:00pm - 6:50pm,PHELP2514,21 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,6:00pm - 6:50pm,PHELP1448,22 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,4:00pm - 4:50pm,387  104,32 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,5:00pm - 5:50pm,PHELP1448,28 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,6:00pm - 6:50pm,PHELP1445,21 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,9:00 am - 9:50 am,GIRV 2123,25 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,4:00pm - 4:50pm,GIRV 2108,32 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,9:00 am - 9:50 am,GIRV 2119,31 / 32
+./Output/20182_ECON.html,ECON     10A,L&S,4.0,Optional,R,10:00am - 10:50am,ARTS 1356,32 / 32
+./Output/20182_ECON.html,ECON     96,L&S,2.0,Letter,M,3:30pm - 5:20pm,NH   2212,0 / 20
+./Output/20182_ECON.html,ECON    100B,L&S,4.0,Letter,M W,3:30pm - 4:45pm,PHELP1260,36 / 90
+./Output/20182_ECON.html,ECON    100B,L&S,4.0,Letter,T,5:00pm - 5:50pm,GIRV 1115,28 / 45
+./Output/20182_ECON.html,ECON    100B,L&S,4.0,Letter,T,6:00pm - 6:50pm,GIRV 1115,8 / 45
+./Output/20182_ECON.html,ECON    100B,L&S,4.0,Letter,T R,8:00 am - 9:15 am,IV   THEA2,20 / 140
+./Output/20182_ECON.html,ECON    100B,L&S,4.0,Letter,F,10:00am - 10:50am,GIRV 2119,0 / 35
+./Output/20182_ECON.html,ECON    100B,L&S,4.0,Letter,F,11:00am - 11:50am,PHELP1445,0 / 35
+./Output/20182_ECON.html,ECON    100B,L&S,4.0,Letter,W,2:00pm - 2:50pm,ARTS 1356,14 / 35
+./Output/20182_ECON.html,ECON    100B,L&S,4.0,Letter,W,11:00am - 11:50am,387  104,6 / 35
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,M W F,12:00pm - 12:50pm,CAMPBHALL,417 / 640
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,5:00pm - 5:50pm,GIRV 2123,30 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,5:00pm - 5:50pm,GIRV 2120,29 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,4:00pm - 4:50pm,GIRV 2127,31 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,4:00pm - 4:50pm,NH   1111,30 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,W,5:00pm - 5:50pm,GIRV 2123,31 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,W,7:00pm - 7:50pm,GIRV 2116,27 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,9:00 am - 9:50 am,PHELP3523,28 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,7:00pm - 7:50pm,NH   1111,23 / 32
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,R,5:00pm - 5:50pm,GIRV 2119,28 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,R,6:00pm - 6:50pm,GIRV 2115,12 / 32
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,W,5:00pm - 5:50pm,GIRV 2120,28 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,W,6:00pm - 6:50pm,NH   1109,31 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,6:00pm - 6:50pm,GIRV 2116,23 / 32
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,6:00pm - 6:50pm,GIRV 2115,10 / 32
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,7:00pm - 7:50pm,GIRV 2116,7 / 32
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,T,7:00pm - 7:50pm,GIRV 2129,0 / 32
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,R,5:00pm - 5:50pm,GIRV 2116,32 / 27
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,R,6:00pm - 6:50pm,GIRV 2112,8 / 32
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,R,7:00pm - 7:50pm,GIRV 2116,0 / 32
+./Output/20182_ECON.html,ECON    101,L&S,4.0,Letter,R,7:00pm - 7:50pm,GIRV 2129,9 / 32
+./Output/20182_ECON.html,ECON    107B,L&S,4.0,Letter,M W F,8:00 am - 8:50 am,PSYCH1924,35 / 100
+./Output/20182_ECON.html,ECON    112A,L&S,4.0,Letter,M W F,10:00am - 10:50am,HSSB 1173,75 / 75
+./Output/20182_ECON.html,ECON    114A,L&S,4.0,Letter,M W F,11:00am - 11:50am,BUCHN1940,140 / 140
+./Output/20182_ECON.html,ECON    115,L&S,4.0,Letter,T R,3:30pm - 4:45pm,BUCHN1920,130 / 130
+./Output/20182_ECON.html,ECON    115,L&S,4.0,Letter,W,12:00pm - 12:50pm,PHELP1425,65 / 65
+./Output/20182_ECON.html,ECON    115,L&S,4.0,Letter,W,1:00pm - 1:50pm,PHELP1425,65 / 65
+./Output/20182_ECON.html,ECON    118,L&S,4.0,Letter,T R,2:00pm - 3:15pm,GIRV 2128,20 / 60
+./Output/20182_ECON.html,ECON    118,L&S,4.0,Letter,M W,5:00pm - 6:15pm,GIRV 2128,59 / 50
+./Output/20182_ECON.html,ECON    118,L&S,4.0,Letter,T R,12:30pm - 1:45pm,GIRV 2128,36 / 60
+./Output/20182_ECON.html,ECON    118H,L&S,1.0,Pass/No Pass,R,6:30pm - 7:45pm,HSSB 1173,0 / 35
+./Output/20182_ECON.html,ECON    118H,L&S,1.0,Pass/No Pass,M,1:00pm - 1:50pm,NH   1122,1 / 15
+./Output/20182_ECON.html,ECON    130,L&S,4.0,Letter,M W,2:00pm - 3:15pm,PHELP1508,48 / 48
+./Output/20182_ECON.html,ECON    132A,L&S,4.0,Letter,T R,11:00am - 12:15pm,BUCHN1930,100 / 100
+./Output/20182_ECON.html,ECON    132AH,L&S,1.0,Pass/No Pass,R,10:00am - 10:50am,PHELP1425,0 / 30
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,T R,5:00pm - 6:15pm,SH   1431,60 / 60
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,W,6:00pm - 6:50pm,PHELP3519,30 / 30
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,W,7:00pm - 7:50pm,GIRV 2129,30 / 30
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,T R,8:00 am - 9:15 am,PHELP3515,49 / 60
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,W,9:00 am - 9:50 am,PHELP3523,19 / 30
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,W,10:00am - 10:50am,PHELP3519,30 / 30
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,M W,6:30pm - 7:45pm,PHELP3515,60 / 60
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,T,5:00pm - 5:50pm,GIRV 2115,30 / 30
+./Output/20182_ECON.html,ECON    134A,L&S,4.0,Letter,T,6:00pm - 6:50pm,GIRV 2112,30 / 30
+./Output/20182_ECON.html,ECON    135,L&S,4.0,Letter,T R,12:30pm - 1:45pm,PHELP1425,60 / 60
+./Output/20182_ECON.html,ECON    136A,L&S,5.0,Letter,M W,9:30 am - 10:45am,NH   1110,20 / 70
+./Output/20182_ECON.html,ECON    136A,L&S,5.0,Letter,T,8:00 am - 8:50 am,GIRV 2116,4 / 35
+./Output/20182_ECON.html,ECON    136A,L&S,5.0,Letter,T,10:00am - 10:50am,ARTS 1353,16 / 35
+./Output/20182_ECON.html,ECON    136A,L&S,5.0,Letter,T R,5:00pm - 6:15pm,NH   1110,55 / 70
+./Output/20182_ECON.html,ECON    136A,L&S,5.0,Letter,F,9:00 am - 9:50 am,387  103,20 / 35
+./Output/20182_ECON.html,ECON    136A,L&S,5.0,Letter,F,10:00am - 10:50am,PHELP1448,35 / 35
+./Output/20182_ECON.html,ECON    136AH,L&S,1.0,Pass/No Pass,R,3:00pm - 3:50pm,NH   1122,0 / 30
+
+./Output/20182_ECON.html,ECON    136B,L&S,4.0,Letter,T R,9:30 am - 10:45am,NH   1110,45 / 70
+./Output/20182_ECON.html,ECON    136B,L&S,4.0,Letter,T R,11:00am - 12:15pm,NH   1110,70 / 50
+./Output/20182_ECON.html,ECON    136C,L&S,4.0,Letter,T R,12:30pm - 1:45pm,NH   1110,70 / 50
+./Output/20182_ECON.html,ECON    136C,L&S,4.0,Letter,M W,2:00pm - 3:15pm,NH   1110,36 / 70
+./Output/20182_ECON.html,ECON    136CH,L&S,1.0,Pass/No Pass,T,3:00pm - 3:50pm,NH   1122,0 / 30
+
+./Output/20182_ECON.html,ECON    137A,L&S,4.0,Letter,T R,11:00am - 12:15pm,GIRV 2128,57 / 70
+./Output/20182_ECON.html,ECON    137A,L&S,4.0,Letter,W,5:00pm - 5:50pm,387  103,22 / 35
+./Output/20182_ECON.html,ECON    137A,L&S,4.0,Letter,W,4:00pm - 4:50pm,GIRV 2116,35 / 35
+./Output/20182_ECON.html,ECON    137A,L&S,4.0,Letter,T R,9:30 am - 10:45am,GIRV 2128,13 / 70
+./Output/20182_ECON.html,ECON    137A,L&S,4.0,Letter,W,8:00 am - 8:50 am,PHELP1448,6 / 35
+./Output/20182_ECON.html,ECON    137A,L&S,4.0,Letter,W,9:00 am - 9:50 am,PHELP3519,7 / 35
+./Output/20182_ECON.html,ECON    137B,L&S,4.0,Letter,M W,12:30pm - 1:45pm,NH   1110,70 / 70
+./Output/20182_ECON.html,ECON    137BH,L&S,1.0,Pass/No Pass,M,2:00pm - 2:50pm,GIRV 2115,0 / 40
+./Output/20182_ECON.html,ECON    138A,L&S,4.0,Letter,M W,5:00pm - 6:15pm,PSYCH1924,114 / 120
+./Output/20182_ECON.html,ECON    138B,L&S,4.0,Letter,M W,6:30pm - 7:45pm,PSYCH1924,34 / 120
+./Output/20182_ECON.html,ECON    139,L&S,4.0,Letter,M W,11:00am - 12:15pm,NH   1110,38 / 72
+
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,M W,9:30 am - 10:45am,EMBARHALL,229 / 250
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,R,5:00pm - 5:50pm,GIRV 1115,25 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,R,5:00pm - 5:50pm,GIRV 1112,25 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,W,6:00pm - 6:50pm,HSSB 1236,25 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,R,6:00pm - 6:50pm,NH   1111,18 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,W,5:00pm - 5:50pm,HSSB 1227,25 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,W,6:00pm - 6:50pm,HSSB 1233,23 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,F,9:00 am - 9:50 am,HSSB 2251,21 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,F,10:00am - 10:50am,HSSB 1236,25 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,R,6:00pm - 6:50pm,GIRV 2123,20 / 25
+./Output/20182_ECON.html,ECON    140A,L&S,4.0,Letter,R,7:00pm - 7:50pm,HSSB 1227,22 / 25
+./Output/20182_ECON.html,ECON    171,L&S,4.0,Letter,T R,2:00pm - 3:15pm,NH   1110,72 / 72
+./Output/20182_ECON.html,ECON    174,L&S,4.0,Letter,T R,11:00am - 12:15pm,HSSB 1174,41 / 40
+./Output/20182_ECON.html,ECON    176,L&S,4.0,Letter,T R,9:30 am - 10:45am,PHELP1440,30 / 30
+./Output/20182_ECON.html,ECON    189,L&S,4.0,Letter,T R,5:00pm - 6:15pm,HSSB 1174,48 / 72
+./Output/20182_ECON.html,ECON    189H,L&S,1.0,Pass/No Pass,R,6:30pm - 7:45pm,HSSB 1173,0 / 35
+
+
+
+./Output/20182_ENGR.html,ENGR      3,ENGR,3.0,Letter,T R,3:30pm - 4:45pm,NH   1006,104 / 104
+./Output/20182_ENGR.html,ENGR      3,ENGR,3.0,Letter,T,10:00am - 10:50am,ESB  1003,20 / 20
+./Output/20182_ENGR.html,ENGR      3,ENGR,3.0,Letter,T,1:00pm - 1:50pm,ESB  1003,20 / 20
+./Output/20182_ENGR.html,ENGR      3,ENGR,3.0,Letter,W,10:00am - 10:50am,ESB  1003,17 / 17
+./Output/20182_ENGR.html,ENGR      3,ENGR,3.0,Letter,W,2:00pm - 2:50pm,ESB  1003,16 / 16
+./Output/20182_ENGR.html,ENGR      3,ENGR,3.0,Letter,W,4:00pm - 4:50pm,ESB  1003,16 / 16
+./Output/20182_ENGR.html,ENGR      3,ENGR,3.0,Letter,W,5:00pm - 5:50pm,ESB  1003,15 / 15
+./Output/20182_ENGR.html,ENGR    101,ENGR,3.0,Letter,M W,3:30pm - 4:45pm,PHELP1508,42 / 42
+./Output/20182_ENGR.html,ENGR    101,ENGR,3.0,Letter,M W,5:00pm - 6:15pm,PHELP1508,36 / 42
+./Output/20182_ENGR.html,ENGR    195C,ENGR,1.0,Letter,F,1:00pm - 1:50pm,PHELP1160,17 / 70
+./Output/20182_ENGR.html,ENGR    199,ENGR,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 20
+./Output/20182_CMPSC.html,CMPSC     8,ENGR,4.0,Letter,T R,3:30pm - 4:45pm,CHEM 1171,105 / 105
+./Output/20182_CMPSC.html,CMPSC     8,ENGR,4.0,Letter,M,8:00 am - 8:50 am,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC     8,ENGR,4.0,Letter,M,9:00 am - 9:50 am,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC     8,ENGR,4.0,Letter,M,10:00am - 10:50am,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC     8,ENGR,4.0,Letter,M,11:00am - 11:50am,PHELP3525,27 / 27
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,T R,2:00pm - 3:15pm,CHEM 1171,81 / 105
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,W,8:00 am - 8:50 am,PHELP3525,8 / 26
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,W,9:00 am - 9:50 am,PHELP3525,20 / 26
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,W,10:00am - 10:50am,PHELP3525,27 / 27
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,W,11:00am - 11:50am,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,M W,2:00pm - 3:15pm,CHEM 1171,106 / 105
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,T,11:00am - 11:50am,PHELP3525,27 / 26
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,T,12:00pm - 12:50pm,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,T,1:00pm - 1:50pm,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    16,ENGR,4.0,Letter,T,2:00pm - 2:50pm,PHELP3525,27 / 27
+./Output/20182_CMPSC.html,CMPSC    24,ENGR,4.0,Letter,M W,9:30 am - 10:45am,CHEM 1171,97 / 104
+./Output/20182_CMPSC.html,CMPSC    24,ENGR,4.0,Letter,T,3:00pm - 3:50pm,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    24,ENGR,4.0,Letter,T,4:00pm - 4:50pm,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    24,ENGR,4.0,Letter,T,5:00pm - 5:50pm,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    24,ENGR,4.0,Letter,T,6:00pm - 6:50pm,PHELP3525,19 / 26
+./Output/20182_CMPSC.html,CMPSC    32,ENGR,4.0,Letter,T R,12:30pm - 1:45pm,CHEM 1171,105 / 105
+./Output/20182_CMPSC.html,CMPSC    32,ENGR,4.0,Letter,W,12:00pm - 12:50pm,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    32,ENGR,4.0,Letter,W,1:00pm - 1:50pm,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    32,ENGR,4.0,Letter,W,2:00pm - 2:50pm,PHELP3525,26 / 26
+./Output/20182_CMPSC.html,CMPSC    32,ENGR,4.0,Letter,W,3:00pm - 3:50pm,PHELP3525,27 / 27
+./Output/20182_CMPSC.html,CMPSC    40,ENGR,5.0,Letter,T R,9:30 am - 10:45am,PSYCH1902,44 / 75
+./Output/20182_CMPSC.html,CMPSC    40,ENGR,5.0,Letter,F,9:00 am - 9:50 am,GIRV 2129,16 / 38
+./Output/20182_CMPSC.html,CMPSC    40,ENGR,5.0,Letter,F,10:00am - 10:50am,GIRV 2129,28 / 37
+./Output/20182_CMPSC.html,CMPSC    48,ENGR,4.0,Letter,M W,12:30pm - 1:45pm,PSYCH1902,66 / 75
+./Output/20182_CMPSC.html,CMPSC    48,ENGR,4.0,Letter,F,11:00am - 11:50am,GIRV 2129,30 / 38
+./Output/20182_CMPSC.html,CMPSC    48,ENGR,4.0,Letter,F,12:00pm - 12:50pm,GIRV 2129,36 / 37
+./Output/20182_CMPSC.html,CMPSC    64,ENGR,4.0,Letter,T R,11:00am - 12:15pm,PSYCH1902,75 / 75
+./Output/20182_CMPSC.html,CMPSC    64,ENGR,4.0,Letter,M,2:00pm - 2:50pm,PHELP3525,25 / 25
+./Output/20182_CMPSC.html,CMPSC    64,ENGR,4.0,Letter,M,3:00pm - 3:50pm,PHELP3525,25 / 25
+./Output/20182_CMPSC.html,CMPSC    64,ENGR,4.0,Letter,M,4:00pm - 4:50pm,PHELP3525,25 / 25
+./Output/20182_CMPSC.html,CMPSC    99,ENGR,1.0 - 4.0,Pass/No Pass,N/A,N/A,N/A,0 / 0
+./Output/20182_CMPSC.html,CMPSC   130A,ENGR,4.0,Letter,T R,9:30 am - 10:45am,SH   1431,76 / 90
+./Output/20182_CMPSC.html,CMPSC   130A,ENGR,4.0,Letter,F,10:00am - 10:50am,387  103,39 / 46
+./Output/20182_CMPSC.html,CMPSC   130A,ENGR,4.0,Letter,F,11:00am - 11:50am,387  103,37 / 44
+./Output/20182_CMPSC.html,CMPSC   130B,ENGR,4.0,Letter,T R,9:30 am - 10:45am,CHEM 1171,105 / 105
+./Output/20182_CMPSC.html,CMPSC   130B,ENGR,4.0,Letter,F,11:00am - 11:50am,PHELP1444,35 / 35
+./Output/20182_CMPSC.html,CMPSC   130B,ENGR,4.0,Letter,F,12:00pm - 12:50pm,PHELP1448,35 / 35
+./Output/20182_CMPSC.html,CMPSC   130B,ENGR,4.0,Letter,F,1:00pm - 1:50pm,PHELP1440,35 / 35
+./Output/20182_CMPSC.html,CMPSC   138,ENGR,4.0,Letter,M W,2:00pm - 3:15pm,SH   1431,75 / 75
+./Output/20182_CMPSC.html,CMPSC   138,ENGR,4.0,Letter,F,9:00 am - 9:50 am,PHELP2516,35 / 35
+./Output/20182_CMPSC.html,CMPSC   138,ENGR,4.0,Letter,F,10:00am - 10:50am,GIRV 1116,40 / 40
+./Output/20182_CMPSC.html,CMPSC   154,ENGR,4.0,Letter,M W,12:30pm - 1:45pm,BRDA 1640,75 / 80
+./Output/20182_CMPSC.html,CMPSC   154,ENGR,4.0,Letter,R,3:00pm - 3:50pm,PHELP3525,28 / 30
+./Output/20182_CMPSC.html,CMPSC   154,ENGR,4.0,Letter,R,4:00pm - 4:50pm,PHELP3525,27 / 30
+./Output/20182_CMPSC.html,CMPSC   154,ENGR,4.0,Letter,R,5:00pm - 5:50pm,PHELP3525,20 / 20
+./Output/20182_CMPSC.html,CMPSC   160,ENGR,4.0,Letter,M W,2:00pm - 3:15pm,PHELP1260,55 / 90
+./Output/20182_CMPSC.html,CMPSC   160,ENGR,4.0,Letter,T,5:00pm - 6:50pm,PHELP3526,45 / 90
+./Output/20182_CMPSC.html,CMPSC   160,ENGR,4.0,Letter,T,6:00pm - 6:50pm,GIRV 1112,10 / 45
+./Output/20182_CMPSC.html,CMPSC   165B,ENGR,4.0,Letter,T R,11:00am - 12:15pm,CHEM 1171,105 / 105
+./Output/20182_CMPSC.html,CMPSC   165B,ENGR,4.0,Letter,T,4:00pm - 4:50pm,GIRV 2108,37 / 35
+./Output/20182_CMPSC.html,CMPSC   165B,ENGR,4.0,Letter,T,5:00pm - 5:50pm,PHELP1445,35 / 35
+./Output/20182_CMPSC.html,CMPSC   165B,ENGR,4.0,Letter,T,6:00pm - 6:50pm,PHELP1445,33 / 35
+./Output/20182_CMPSC.html,CMPSC   170,ENGR,4.0,Letter,T R,2:00pm - 3:15pm,SH   1431,80 / 80
+./Output/20182_CMPSC.html,CMPSC   170,ENGR,4.0,Letter,R,5:00pm - 5:50pm,GIRV 2112,40 / 40
+./Output/20182_CMPSC.html,CMPSC   170,ENGR,4.0,Letter,R,6:00pm - 6:50pm,GIRV 1116,40 / 40
+./Output/20182_CMPSC.html,CMPSC   171,ENGR,4.0,Letter,M W,11:00am - 12:15pm,HSSB 1174,80 / 80
+./Output/20182_CMPSC.html,CMPSC   171,ENGR,4.0,Letter,F,10:00am - 10:50am,387  104,40 / 40
+./Output/20182_CMPSC.html,CMPSC   171,ENGR,4.0,Letter,F,11:00am - 11:50am,387  104,40 / 40
+./Output/20182_CMPSC.html,CMPSC   176A,ENGR,4.0,Letter,T R,12:30pm - 1:45pm,WEBB 1100,80 / 80
+./Output/20182_CMPSC.html,CMPSC   176A,ENGR,4.0,Letter,W,5:00pm - 5:50pm,GIRV 2129,40 / 40
+./Output/20182_CMPSC.html,CMPSC   176A,ENGR,4.0,Letter,W,6:00pm - 6:50pm,GIRV 2129,40 / 40
+./Output/20182_CMPSC.html,CMPSC   178,ENGR,4.0,Letter,M W,9:30 am - 10:45am,PHELP3505,60 / 60
+./Output/20182_CMPSC.html,CMPSC   178,ENGR,4.0,Letter,F,9:00 am - 9:50 am,PHELP1448,30 / 30
+./Output/20182_CMPSC.html,CMPSC   178,ENGR,4.0,Letter,F,9:00 am - 9:50 am,PHELP2532,30 / 30
+./Output/20182_CMPSC.html,CMPSC   185,ENGR,4.0,Letter,T R,9:00 am - 10:50am,PHELP3526,25 / 25
+./Output/20182_CMPSC.html,CMPSC   190J,ENGR,4.0,Letter,R,9:30 am - 10:45am,HFH  1152,0 / 20
+./Output/20182_CMPSC.html,CMPSC   190J,ENGR,4.0,Letter,M,9:00 am - 11:50am,PHELP3525,0 / 5
+./Output/20182_CMPSC.html,CMPSC   190J,ENGR,4.0,Letter,T,1:00pm - 3:50pm,PHELP3525,0 / 5
+./Output/20182_CMPSC.html,CMPSC   190J,ENGR,4.0,Letter,T,2:00pm - 4:50pm,PHELP3525,0 / 5
+./Output/20182_CMPSC.html,CMPSC   190J,ENGR,4.0,Letter,W,12:00pm - 2:50pm,PHELP3525,0 / 5
+./Output/20182_CMPSC.html,CMPSC   192,ENGR,1.0 - 5.0,Letter,N/A,N/A,N/A,0 / 20
+./Output/20182_CMPSC.html,CMPSC   193,ENGR,1.0 - 4.0,Pass/No Pass,N/A,N/A,N/A,0 / 5
+./Output/20182_CMPSC.html,CMPSC   196,ENGR,2.0 - 4.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_CMPSC.html,CMPSC   199,ENGR,1.0 - 5.0,Pass/No Pass,N/A,N/A,N/A,0 / 5
+./Output/20182_CLASS.html,CLASS    20B,L&S,4.0,Optional,T R,11:00am - 12:15pm,NH   1006,126 / 125
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,M W F,11:00am - 11:50am,CAMPBHALL,700 / 700
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,F,10:00am - 10:50am,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,F,8:00 am - 8:50 am,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,W,6:00pm - 6:50pm,PHELP1444,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,T,9:00 am - 9:50 am,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,W,8:00 am - 8:50 am,PHELP1440,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,R,8:00 am - 8:50 am,PHELP1445,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,R,6:00pm - 6:50pm,PHELP1444,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,R,8:00 am - 8:50 am,PHELP1444,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,R,5:00pm - 5:50pm,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,W,5:00pm - 5:50pm,PHELP1448,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,F,1:00pm - 1:50pm,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,T,8:00 am - 8:50 am,PHELP2532,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,R,8:00 am - 8:50 am,PHELP2532,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,W,8:00 am - 8:50 am,PHELP2532,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,W,5:00pm - 5:50pm,PHELP1445,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,T,8:00 am - 8:50 am,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,F,8:00 am - 8:50 am,HSSB 1210,26 / 26
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,T,6:00pm - 6:50pm,PHELP1444,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,T,11:00am - 11:50am,GIRV 2127,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,R,6:00pm - 6:50pm,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,W,8:00 am - 8:50 am,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,W,4:00pm - 4:50pm,NH   1109,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,R,4:00pm - 4:50pm,PHELP1444,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,R,8:00 am - 8:50 am,GIRV 2124,27 / 27
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,T,5:00pm - 5:50pm,HSSB 1233,26 / 26
+./Output/20182_CLASS.html,CLASS    40,L&S,4.0,Optional,T,3:00pm - 3:50pm,PHELP1444,27 / 27
+./Output/20182_CLASS.html,CLASS    60,L&S,4.0,Optional,M W,2:00pm - 3:15pm,TD-W 1701,132 / 132
+
+./Output/20182_CLASS.html,CLASS   140,L&S,4.0,Optional,M W,12:30pm - 1:45pm,GIRV 1116,40 / 40
+./Output/20182_CLASS.html,CLASS   170,L&S,4.0,Optional,M W,3:30pm - 4:45pm,GIRV 2112,36 / 35
+./Output/20182_CLASS.html,CLASS   171,L&S,4.0,Optional,T R,3:30pm - 4:45pm,HSSB 1174,97 / 95
+./Output/20182_CLASS.html,CLASS   185,L&S,4.0,Optional,T R,3:30pm - 4:45pm,HSSB 3201,6 / 24
+./Output/20182_CLASS.html,CLASS   195B,L&S,4.0,Letter,N/A,N/A,N/A,0 / 5
+./Output/20182_CLASS.html,CLASS   198,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 5
+./Output/20182_CLASS.html,CLASS   199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 5
+./Output/20182_CLASS.html,CLASS   199RA,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_CMPTG.html,CMPTGCS  10,CRST,1.0 - 6.0,Pass/No Pass,M W,11:00am - 12:15pm,CRST 0143,6 / 20
+./Output/20182_CMPTG.html,CMPTGCS  10,CRST,1.0 - 6.0,Pass/No Pass,W,4:00pm - 5:50pm,CRST 143,13 / 10
+./Output/20182_CMPTG.html,CMPTGCS  20,CRST,1.0 - 6.0,Pass/No Pass,T R,12:30pm - 2:20pm,CRST 0143,18 / 18
+./Output/20182_CMPTG.html,CMPTGCS 130G,CRST,1.0 - 6.0,Pass/No Pass,M W,6:00pm - 7:15pm,CRST 0143,8 / 20
+./Output/20182_CMPTG.html,CMPTGCS 130H,CRST,1.0 - 6.0,Pass/No Pass,M W,12:30pm - 1:45pm,CRST 0143,13 / 12
+./Output/20182_CHIN.html,CHIN      3,L&S,5.0,Optional,MTWRF,10:00am - 10:50am,GIRV 1119,17 / 17
+./Output/20182_CHIN.html,CHIN      3,L&S,5.0,Optional,MTWRF,11:00am - 11:50am,NH   1109,17 / 17
+./Output/20182_CHIN.html,CHIN      3,L&S,5.0,Optional,MTWRF,1:00pm - 1:50pm,PHELP3523,17 / 17
+./Output/20182_CHIN.html,CHIN      3,L&S,5.0,Optional,MTWRF,12:00pm - 12:50pm,PHELP2536,8 / 17
+./Output/20182_CHIN.html,CHIN      3,L&S,5.0,Optional,MTWRF,9:00 am - 9:50 am,HSSB 1228,0 / 17
+./Output/20182_CHIN.html,CHIN      3NH,L&S,4.0,Optional,MTWR,10:00am - 10:50am,HSSB 1233,16 / 25
+./Output/20182_CHIN.html,CHIN      6,L&S,5.0,Optional,MTWRF,10:00am - 10:50am,PHELP2536,17 / 25
+./Output/20182_CHIN.html,CHIN      6,L&S,5.0,Optional,MTWRF,11:00am - 11:50am,PHELP2536,16 / 25
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,M W,9:30 am - 10:45am,PSYCH1924,120 / 120
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,T,10:00am - 10:50am,GIRV 2110,15 / 15
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,T,4:00pm - 4:50pm,GIRV 2110,15 / 15
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,T,5:00pm - 5:50pm,GIRV 1106,15 / 15
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,R,10:00am - 10:50am,GIRV 2110,15 / 15
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,R,12:00pm - 12:50pm,HSSB 2252,15 / 15
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,R,1:00pm - 1:50pm,HSSB 3202,15 / 15
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,F,10:00am - 10:50am,HSSB 4201,15 / 15
+./Output/20182_CHIN.html,CHIN     26,L&S,4.0,Letter,F,11:00am - 11:50am,HSSB 2201,15 / 15
+./Output/20182_CHIN.html,CHIN    101B,L&S,4.0,Letter,T R,2:00pm - 3:15pm,GIRV 1116,19 / 30
+./Output/20182_CHIN.html,CHIN    122C,L&S,4.0,Optional,MTWR,11:00am - 11:50am,GIRV 2120,6 / 25
+./Output/20182_CHIN.html,CHIN    124A,L&S,4.0,Optional,M W,12:30pm - 1:45pm,HSSB 2251,27 / 25
+./Output/20182_CHIN.html,CHIN    139,L&S,4.0,Optional,T R,12:30pm - 1:45pm,PHELP2516,35 / 35
+./Output/20182_CHIN.html,CHIN    143,L&S,4.0,Optional,T R,3:30pm - 4:45pm,TD-W 2600,60 / 60
+./Output/20182_CHIN.html,CHIN    144,L&S,4.0,Optional,N/A,N/A,N/A,0 / 60
+./Output/20182_CHIN.html,CHIN    180CQ,L&S,4.0,Optional,T R,12:30pm - 1:45pm,PHELP2516,0 / 60
+./Output/20182_CHIN.html,CHIN    185B,L&S,4.0,Letter,M W,5:00pm - 6:15pm,GIRV 2112,21 / 21
+./Output/20182_CHIN.html,CHIN    197,L&S,4.0 - 8.0,Optional,N/A,N/A,N/A,0 / 5
+./Output/20182_CHIN.html,CHIN    198,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 15
+./Output/20182_CHIN.html,CHIN    199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 5
+./Output/20182_CMPTGCS .html,CMPTGCS  10,CRST,1.0 - 6.0,Pass/No Pass,M W,11:00am - 12:15pm,CRST 0143,6 / 20
+./Output/20182_CMPTGCS .html,CMPTGCS  10,CRST,1.0 - 6.0,Pass/No Pass,W,4:00pm - 5:50pm,CRST 143,13 / 10
+./Output/20182_CMPTGCS .html,CMPTGCS  20,CRST,1.0 - 6.0,Pass/No Pass,T R,12:30pm - 2:20pm,CRST 0143,18 / 18
+./Output/20182_CMPTGCS .html,CMPTGCS 130G,CRST,1.0 - 6.0,Pass/No Pass,M W,6:00pm - 7:15pm,CRST 0143,8 / 20
+./Output/20182_CMPTGCS .html,CMPTGCS 130H,CRST,1.0 - 6.0,Pass/No Pass,M W,12:30pm - 1:45pm,CRST 0143,13 / 12
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,M W,9:30 am - 10:45am,GIRV 1004,188 / 188
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,T,9:00 am - 10:50am,PSB-S2724,24 / 24
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,T,11:00am - 12:50pm,PSB-S2724,24 / 24
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,T,2:00pm - 3:50pm,PSB-S2724,24 / 24
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,T,4:00pm - 5:50pm,PSB-S2724,24 / 24
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,W,2:00pm - 3:50pm,PSB-S2724,23 / 23
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,W,4:00pm - 5:50pm,PSB-S2724,23 / 23
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,R,9:00 am - 10:50am,PSB-S2724,23 / 23
+./Output/20182_EARTH.html,EARTH     2,L&S,4.0,Optional,R,5:00pm - 6:50pm,PSB-S2724,23 / 23
+./Output/20182_EARTH.html,EARTH     3,L&S,4.0,Optional,T R,9:30 am - 10:45am,PSB-S2712,50 / 50
+./Output/20182_EARTH.html,EARTH     3,L&S,4.0,Optional,T,1:00pm - 2:50pm,PSB-S2725,25 / 25
+./Output/20182_EARTH.html,EARTH     3,L&S,4.0,Optional,W,11:00am - 12:50pm,PSB-S2725,25 / 25
+
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,M W,11:00am - 12:15pm,BUCHN1910,245 / 297
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,T,5:00pm - 5:50pm,PSB-S2712,27 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,T,6:00pm - 6:50pm,PSB-S2712,27 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,T,7:00pm - 7:50pm,PSB-S2712,27 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,W,3:00pm - 3:50pm,PSB-S2712,27 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,W,4:00pm - 4:50pm,PSB-S2712,27 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,F,9:00 am - 9:50 am,PSB-S2712,12 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,F,10:00am - 10:50am,PSB-S2712,10 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,F,11:00am - 11:50am,PSB-S2712,7 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,T,3:00pm - 3:50pm,PSB-S2712,27 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,T,4:00pm - 4:50pm,PSB-S2712,27 / 27
+./Output/20182_EARTH.html,EARTH     4,L&S,4.0,Optional,W,2:00pm - 2:50pm,PSB-S2712,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,T R,3:30pm - 4:45pm,CHEM 1179,216 / 216
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,T,9:00 am - 9:50 am,PSB-S2725,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,T,6:00pm - 6:50pm,PSB-S2725,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,W,2:00pm - 2:50pm,PSB-S2725,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,W,3:00pm - 3:50pm,PSB-S2725,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,W,5:00pm - 5:50pm,PSB-S2725,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,W,6:00pm - 6:50pm,PSB-S2725,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,R,9:00 am - 9:50 am,PSB-S2725,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,R,10:00am - 10:50am,PSB-S2725,27 / 27
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,F,9:00 am - 9:50 am,PSB-S2725,0 / 25
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,F,10:00am - 10:50am,PSB-S2725,0 / 25
+./Output/20182_EARTH.html,EARTH     7,L&S,4.0,Optional,F,11:00am - 11:50am,PSB-S2725,0 / 25
+./Output/20182_EARTH.html,EARTH    10,L&S,4.0,Letter,M W,3:30pm - 4:45pm,HFH  1104,148 / 162
+./Output/20182_EARTH.html,EARTH    10,L&S,4.0,Letter,W,9:00 am - 9:50 am,PSB-S2724,26 / 27
+./Output/20182_EARTH.html,EARTH    10,L&S,4.0,Letter,W,10:00am - 10:50am,PSB-S2724,26 / 27
+./Output/20182_EARTH.html,EARTH    10,L&S,4.0,Letter,R,12:00pm - 12:50pm,PSB-S2724,27 / 27
+./Output/20182_EARTH.html,EARTH    10,L&S,4.0,Letter,R,1:00pm - 1:50pm,PSB-S2724,26 / 27
+./Output/20182_EARTH.html,EARTH    10,L&S,4.0,Letter,F,9:00 am - 9:50 am,PSB-S2724,16 / 27
+./Output/20182_EARTH.html,EARTH    10,L&S,4.0,Letter,F,10:00am - 10:50am,PSB-S2724,27 / 27
+
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,T R,9:30 am - 10:45am,CHEM 1179,251 / 286
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,W,12:00pm - 12:50pm,WEBB 1025,25 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,T,2:00pm - 2:50pm,WEBB 1025,25 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,T,5:00pm - 5:50pm,WEBB 1025,25 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,T,6:00pm - 6:50pm,WEBB 1025,19 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,W,9:00 am - 9:50 am,WEBB 1025,26 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,W,10:00am - 10:50am,WEBB 1025,26 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,W,11:00am - 11:50am,WEBB 1025,26 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,W,1:00pm - 1:50pm,WEBB 1025,26 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,W,5:00pm - 5:50pm,WEBB 1025,25 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,R,5:00pm - 5:50pm,WEBB 1025,22 / 26
+./Output/20182_EARTH.html,EARTH    20,L&S,4.0,Optional,R,6:00pm - 6:50pm,WEBB 1025,6 / 26
+./Output/20182_EARTH.html,EARTH    98,L&S,1.0 - 3.0,Pass/No Pass,N/A,N/A,N/A,0 / 10
+./Output/20182_EARTH.html,EARTH    99,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 15
+./Output/20182_EARTH.html,EARTH   104A,L&S,4.0,Optional,T R,8:00 am - 9:15 am,PSB-S2712,27 / 30
+./Output/20182_EARTH.html,EARTH   104A,L&S,4.0,Optional,F,1:00pm - 4:50pm,PSB-S2712,27 / 30
+
+./Output/20182_EARTH.html,EARTH   113,L&S,4.0,Optional,M W,12:30pm - 1:45pm,PSB-S2712,25 / 25
+./Output/20182_EARTH.html,EARTH   114,L&S,4.0,Letter,T R,12:30pm - 1:45pm,PSB-S2712,36 / 44
+./Output/20182_EARTH.html,EARTH   114,L&S,4.0,Letter,T,5:00pm - 7:50pm,PSB-S2711,21 / 22
+./Output/20182_EARTH.html,EARTH   114,L&S,4.0,Letter,R,5:00pm - 7:50pm,PSB-S2711,15 / 22
+./Output/20182_EARTH.html,EARTH   124IG,L&S,4.0,Optional,M W,2:00pm - 3:15pm,WEBB 1025,14 / 20
+./Output/20182_EARTH.html,EARTH   124IG,L&S,4.0,Optional,R,2:00pm - 2:50pm,WEBB 1025,14 / 20
+./Output/20182_EARTH.html,EARTH   126,L&S,4.0,Letter,M W,9:30 am - 10:45am,PSB-S2711,9 / 20
+./Output/20182_EARTH.html,EARTH   126,L&S,4.0,Letter,M,11:00am - 11:50am,PSB-S2711,9 / 20
+./Output/20182_EARTH.html,EARTH   136,L&S,5.0,Optional,M W,3:30pm - 4:45pm,WEBB 1025,10 / 30
+./Output/20182_EARTH.html,EARTH   136,L&S,5.0,Optional,F,11:00am - 1:50pm,WEBB 1015,10 / 30
+./Output/20182_EARTH.html,EARTH   141,L&S,4.0,Optional,T R,3:30pm - 4:45pm,PSB-S2725,15 / 15
+./Output/20182_EARTH.html,EARTH   141L,L&S,1.0,Optional,F,1:00pm - 3:50pm,PSB-S2725,3 / 16
+./Output/20182_EARTH.html,EARTH   143,L&S,4.0,Optional,T R,11:00am - 12:15pm,PSB-S2725,16 / 16
+./Output/20182_EARTH.html,EARTH   143,L&S,4.0,Optional,W,4:00pm - 4:50pm,PSB-S2725,16 / 16
+./Output/20182_EARTH.html,EARTH   149,L&S,4.0,Optional,M W,8:00 am - 9:15 am,PSB-S2725,25 / 25
+./Output/20182_EARTH.html,EARTH   149,L&S,4.0,Optional,T,10:00am - 10:50am,PSB-S2725,25 / 25
+./Output/20182_EARTH.html,EARTH   160,L&S,1.0,Pass/No Pass,R,3:30pm - 4:45pm,WEBB 1100,44 / 42
+./Output/20182_EARTH.html,EARTH   164B,L&S,4.0,Letter,T R,12:30pm - 1:45pm,WEBB 1025,33 / 30
+./Output/20182_EARTH.html,EARTH   164B,L&S,4.0,Letter,F,12:00pm - 12:50pm,WEBB 1025,33 / 30
+./Output/20182_EARTH.html,EARTH   168,L&S,4.0,Optional,T R,11:00am - 12:15pm,PSB-S2712,29 / 30
+./Output/20182_EARTH.html,EARTH   168,L&S,4.0,Optional,T,2:00pm - 2:50pm,PSB-S2712,15 / 14
+./Output/20182_EARTH.html,EARTH   168,L&S,4.0,Optional,W,5:00pm - 5:50pm,PSB-S2712,14 / 14
+./Output/20182_EARTH.html,EARTH   176,L&S,4.0,Optional,M W,4:00pm - 6:20pm,PHELP1526,22 / 25
+
+./Output/20182_EARTH.html,EARTH   177,L&S,4.0,Optional,T R,9:30 am - 10:45am,WEBB 1025,20 / 20
+./Output/20182_EARTH.html,EARTH   177,L&S,4.0,Optional,W,5:00pm - 7:50pm,PSB-S2711,20 / 20
+./Output/20182_EARTH.html,EARTH   187,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 10
+
+./Output/20182_EARTH.html,EARTH   190,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 15
+./Output/20182_EARTH.html,EARTH   192,L&S,1.0 - 4.0,Pass/No Pass,N/A,N/A,N/A,0 / 5
+./Output/20182_EARTH.html,EARTH   195H,L&S,1.0 - 8.0,Pass/No Pass,N/A,N/A,N/A,0 / 1
+./Output/20182_EARTH.html,EARTH   196HA,L&S,4.0,Letter,N/A,N/A,N/A,0 / 5
+./Output/20182_EARTH.html,EARTH   196HC,L&S,4.0,Letter,N/A,N/A,N/A,0 / 15
+./Output/20182_EARTH.html,EARTH   198,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_EARTH.html,EARTH   199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_EARTH.html,EARTH   199RA,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_ECE.html,ECE       1B,ENGR,1.0,Pass/No Pass,W,3:30pm - 4:50pm,BUCHN1930,58 / 100
+./Output/20182_ECE.html,ECE      10B,ENGR,3.0,Letter,T R,2:00pm - 3:15pm,HSSB 1214,3 / 25
+./Output/20182_ECE.html,ECE      10BL,ENGR,2.0,Letter,T,7:00pm - 10:50pm,HFH  5162C,5 / 25
+./Output/20182_ECE.html,ECE      10C,ENGR,3.0,Letter,T R,5:00pm - 6:15pm,BUCHN1920,141 / 140
+./Output/20182_ECE.html,ECE      10CL,ENGR,2.0,Letter,W,6:00pm - 9:50pm,HFH  5162C,20 / 20
+./Output/20182_ECE.html,ECE      10CL,ENGR,2.0,Letter,W,11:00am - 2:50pm,HFH  5162C,19 / 20
+./Output/20182_ECE.html,ECE      10CL,ENGR,2.0,Letter,M,3:00pm - 6:50pm,HFH  5162C,21 / 20
+./Output/20182_ECE.html,ECE      10CL,ENGR,2.0,Letter,M,7:00pm - 10:50pm,HFH  5162C,19 / 20
+./Output/20182_ECE.html,ECE      10CL,ENGR,2.0,Letter,F,11:00am - 2:50pm,HFH  5162C,20 / 20
+./Output/20182_ECE.html,ECE      10CL,ENGR,2.0,Letter,F,4:00pm - 7:50pm,HFH  5162C,21 / 21
+./Output/20182_ECE.html,ECE      10CL,ENGR,2.0,Letter,R,7:00pm - 10:50pm,HFH  5162C,20 / 20
+./Output/20182_ECE.html,ECE     120B,ENGR,4.0,Letter,M W,9:30 am - 10:45am,PHELP1448,15 / 30
+./Output/20182_ECE.html,ECE     120B,ENGR,4.0,Letter,T,7:00pm - 9:50pm,ENGR21141D,8 / 15
+./Output/20182_ECE.html,ECE     120B,ENGR,4.0,Letter,R,7:00pm - 9:50pm,ENGR21141D,7 / 15
+./Output/20182_ECE.html,ECE     130C,ENGR,4.0,Letter,M W,12:30pm - 1:45pm,PHELP2524,32 / 50
+./Output/20182_ECE.html,ECE     130C,ENGR,4.0,Letter,F,10:00am - 11:50am,ARTS 1349,25 / 25
+./Output/20182_ECE.html,ECE     130C,ENGR,4.0,Letter,F,8:00 am - 9:50 am,SH   1430,7 / 25
+./Output/20182_ECE.html,ECE     135,ENGR,4.0,Letter,T R,11:00am - 12:15pm,PHELP2532,4 / 30
+./Output/20182_ECE.html,ECE     135,ENGR,4.0,Letter,W,5:00pm - 5:50pm,PHELP1444,4 / 30
+./Output/20182_ECE.html,ECE     137B,ENGR,4.0,Letter,T R,11:00am - 12:15pm,SH   1431,49 / 76
+./Output/20182_ECE.html,ECE     137B,ENGR,4.0,Letter,W,2:00pm - 4:50pm,HFH  5160A,13 / 25
+./Output/20182_ECE.html,ECE     137B,ENGR,4.0,Letter,W,7:00pm - 9:50pm,HFH  5160A,25 / 25
+./Output/20182_ECE.html,ECE     137B,ENGR,4.0,Letter,T,7:00pm - 9:50pm,HFH  5160A,11 / 26
+./Output/20182_ECE.html,ECE     139,ENGR,4.0,Letter,M W,11:00am - 12:15pm,CHEM 1171,90 / 100
+./Output/20182_ECE.html,ECE     139,ENGR,4.0,Letter,F,8:00 am - 9:50 am,PHELP3523,25 / 25
+./Output/20182_ECE.html,ECE     139,ENGR,4.0,Letter,F,10:00am - 11:50am,PHELP3505,25 / 25
+./Output/20182_ECE.html,ECE     139,ENGR,4.0,Letter,F,12:00pm - 1:50pm,GIRV 1116,25 / 25
+./Output/20182_ECE.html,ECE     139,ENGR,4.0,Letter,F,2:00pm - 3:50pm,HSSB 1224,15 / 25
+./Output/20182_ECE.html,ECE     141B,ENGR,4.0,Letter,T R,9:30 am - 10:45am,ENGR22243,1 / 7
+./Output/20182_ECE.html,ECE     142,ENGR,4.0,Letter,T R,2:00pm - 3:15pm,GIRV 2120,28 / 40
+./Output/20182_ECE.html,ECE     145C,ENGR,5.0,Letter,T R,2:00pm - 3:15pm,387  104,4 / 15
+./Output/20182_ECE.html,ECE     147C,ENGR,5.0,Letter,M W,9:30 am - 10:45am,LSB  1101,8 / 10
+./Output/20182_ECE.html,ECE     150,ENGR,4.0,Letter,T R,5:00pm - 6:15pm,PHELP1260,30 / 50
+./Output/20182_ECE.html,ECE     150,ENGR,4.0,Letter,W,2:00pm - 2:50pm,HSSB 2251,18 / 25
+./Output/20182_ECE.html,ECE     150,ENGR,4.0,Letter,W,3:00pm - 3:50pm,HSSB 1228,12 / 25
+./Output/20182_ECE.html,ECE     152A,ENGR,5.0,Letter,M W,3:30pm - 4:45pm,CHEM 1171,108 / 110
+./Output/20182_ECE.html,ECE     152A,ENGR,5.0,Letter,T,7:00pm - 9:50pm,HFH  1124,22 / 22
+./Output/20182_ECE.html,ECE     152A,ENGR,5.0,Letter,F,8:00 am - 10:50am,HFH  1124,20 / 22
+./Output/20182_ECE.html,ECE     152A,ENGR,5.0,Letter,W,6:00pm - 8:50pm,HFH  1124,22 / 22
+./Output/20182_ECE.html,ECE     152A,ENGR,5.0,Letter,F,12:00pm - 2:50pm,HFH  1124,22 / 22
+./Output/20182_ECE.html,ECE     152A,ENGR,5.0,Letter,R,7:00pm - 9:50pm,HFH  1124,22 / 22
+./Output/20182_ECE.html,ECE     154B,ENGR,4.0,Letter,T R,3:30pm - 4:45pm,PHELP1440,20 / 30
+
+./Output/20182_ECE.html,ECE     160,ENGR,4.0,Letter,M W,5:00pm - 6:15pm,PHELP1260,79 / 90
+./Output/20182_ECE.html,ECE     160,ENGR,4.0,Letter,T,5:00pm - 5:50pm,PHELP1448,29 / 30
+./Output/20182_ECE.html,ECE     160,ENGR,4.0,Letter,F,9:00 am - 9:50 am,PHELP1445,21 / 30
+./Output/20182_ECE.html,ECE     160,ENGR,4.0,Letter,F,10:00am - 10:50am,PHELP1445,29 / 30
+./Output/20182_ECE.html,ECE     162C,ENGR,4.0,Letter,T R,12:30pm - 1:45pm,HSSB 1224,1 / 25
+./Output/20182_ECE.html,ECE     162C,ENGR,4.0,Letter,M,2:00pm - 2:50pm,HSSB 1210,1 / 25
+./Output/20182_ECE.html,ECE     179P,ENGR,4.0,Letter,T R,12:30pm - 1:45pm,ENGR22243,15 / 17
+./Output/20182_ECE.html,ECE     183,ENGR,4.0,Letter,M W F,10:00am - 10:50am,PHELP2514,10 / 12
+
+./Output/20182_ECE.html,ECE     183,ENGR,4.0,Letter,F,12:00pm - 12:50pm,HSSB 2201,5 / 6
+./Output/20182_ECE.html,ECE     188C,ENGR,3.0,Letter,M W,12:30pm - 1:45pm,PHELP1445,18 / 30
+./Output/20182_ECE.html,ECE     188C,ENGR,3.0,Letter,F,1:00pm - 1:50pm,PHELP1437,17 / 25
+./Output/20182_ECE.html,ECE     189B,ENGR,4.0,Letter,M W,12:30pm - 1:45pm,GIRV 2127,27 / 35
+./Output/20182_ECE.html,ECE     189B,ENGR,4.0,Letter,F,1:00pm - 1:50pm,PHELP1431,27 / 35
+./Output/20182_ECE.html,ECE     192,ENGR,4.0,Letter,N/A,N/A,N/A,0 / 5
+./Output/20182_ECE.html,ECE     193,ENGR,1.0 - 8.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_ECE.html,ECE     194N,ENGR,1.0 - 5.0,Letter,T R,12:30pm - 1:45pm,PHELP1444,23 / 30
+./Output/20182_ECE.html,ECE     194N,ENGR,1.0 - 5.0,Letter,F,2:00pm - 2:50pm,PHELP1440,23 / 30
+./Output/20182_ECE.html,ECE     194V,ENGR,1.0 - 5.0,Letter,T R,3:30pm - 4:45pm,PHELP1445,8 / 30
+./Output/20182_ECE.html,ECE     196,ENGR,2.0 - 4.0,Optional,N/A,N/A,N/A,0 / 30
+./Output/20182_ECE.html,ECE     199,ENGR,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 0
+./Output/20182_CNCSP.html,CNCSP    97,GSE,2.0 - 4.0,Optional,M,4:00pm - 5:50pm,ED   1213,0 / 10
+./Output/20182_CNCSP.html,CNCSP    99,GSE,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 20
+./Output/20182_CNCSP.html,CNCSP    99RA,GSE,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 20
+./Output/20182_CNCSP.html,CNCSP   101,GSE,4.0,Optional,M W,8:00 am - 9:15 am,IV   THEA2,100 / 100
+./Output/20182_CNCSP.html,CNCSP   101,GSE,4.0,Optional,R,9:00 am - 9:50 am,ED   1207,25 / 25
+./Output/20182_CNCSP.html,CNCSP   101,GSE,4.0,Optional,R,10:00am - 10:50am,ED   1207,25 / 25
+./Output/20182_CNCSP.html,CNCSP   101,GSE,4.0,Optional,R,2:00pm - 2:50pm,ED   1207,25 / 25
+./Output/20182_CNCSP.html,CNCSP   101,GSE,4.0,Optional,R,3:00pm - 3:50pm,ED   1207,25 / 25
+./Output/20182_CNCSP.html,CNCSP   102,GSE,2.0,Letter,W,12:30pm - 1:45pm,PSYCH1924,120 / 120
+./Output/20182_CNCSP.html,CNCSP   112,GSE,4.0,Optional,M W,5:00pm - 6:15pm,ED   1215,50 / 50
+./Output/20182_CNCSP.html,CNCSP   112,GSE,4.0,Optional,T,10:00am - 10:50am,ED   1207,25 / 25
+./Output/20182_CNCSP.html,CNCSP   112,GSE,4.0,Optional,T,11:00am - 11:50am,ED   1207,25 / 25
+./Output/20182_CNCSP.html,CNCSP   197,GSE,2.0 - 4.0,Optional,M,4:00pm - 5:50pm,ED   1213,48 / 60
+./Output/20182_CNCSP.html,CNCSP   197,GSE,2.0 - 4.0,Optional,W,12:00pm - 1:50pm,ED   1213,2 / 60
+./Output/20182_CNCSP.html,CNCSP   199,GSE,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 20
+./Output/20182_CNCSP.html,CNCSP   199RA,GSE,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 20
+./Output/20182_CH E.html,CH E     99,ENGR,1.0 - 3.0,Optional,N/A,N/A,N/A,0 / 25
+./Output/20182_CH E.html,CH E    110B,ENGR,3.0,Letter,M W F,10:00am - 10:50am,ENGR21519,60 / 70
+./Output/20182_CH E.html,CH E    110B,ENGR,3.0,Letter,F,9:00 am - 9:50 am,ENGR21519,60 / 70
+./Output/20182_CH E.html,CH E    119,ENGR,1.0,Pass/No Pass,W,5:30pm - 7:00pm,ENGR21519,68 / 72
+./Output/20182_CH E.html,CH E    120C,ENGR,3.0,Letter,T R,8:00 am - 9:15 am,BIOEN1001,72 / 80
+./Output/20182_CH E.html,CH E    132A,ENGR,4.0,Letter,M W F,1:00pm - 1:50pm,ENGR21519,55 / 70
+./Output/20182_CH E.html,CH E    132A,ENGR,4.0,Letter,M,12:00pm - 12:50pm,ESB  1003,33 / 35
+./Output/20182_CH E.html,CH E    132A,ENGR,4.0,Letter,W,12:00pm - 12:50pm,ESB  1003,22 / 35
+./Output/20182_CH E.html,CH E    140A,ENGR,3.0,Letter,T R,9:30 am - 10:45am,PHELP1260,66 / 71
+./Output/20182_CH E.html,CH E    141,ENGR,3.0,Letter,T R,12:30pm - 1:45pm,ENGR21519,31 / 35
+./Output/20182_CH E.html,CH E    171,ENGR,3.0,Letter,T R,11:00am - 12:15pm,ENGR21519,24 / 70
+./Output/20182_CH E.html,CH E    180A,ENGR,3.0,Letter,T,1:00pm - 4:50pm,ENGR21165,24 / 24
+./Output/20182_CH E.html,CH E    180A,ENGR,3.0,Letter,W,1:00pm - 4:50pm,ENGR21165,24 / 24
+./Output/20182_CH E.html,CH E    180A,ENGR,3.0,Letter,R,1:00pm - 4:50pm,ENGR21165,24 / 24
+./Output/20182_CH E.html,CH E    184B,ENGR,3.0,Letter,T R,2:00pm - 3:15pm,ENGR21519,35 / 54
+./Output/20182_CH E.html,CH E    184B,ENGR,3.0,Letter,R,8:00 am - 9:15 am,ESB  1003,35 / 54
+./Output/20182_CH E.html,CH E    196,ENGR,2.0 - 4.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_CH E.html,CH E    198,ENGR,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_CHEM CS .html,CHEM CS 103,CRST,1.0 - 6.0,Pass/No Pass,M W F,11:00am - 11:50am,CRST 160B,6 / 20
+./Output/20182_CHEM CS .html,CHEM CS 110,CRST,1.0 - 4.0,Pass/No Pass,M W,9:30 am - 10:45am,387  0103,1 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,M W,3:30pm - 4:45pm,BRDA 1610,250 / 250
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,F,2:00pm - 2:50pm,HSSB 1207,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,F,8:00 am - 8:50 am,HSSB 1211,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,W,5:00pm - 5:50pm,HSSB 1224,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,F,12:00pm - 12:50pm,HSSB 1215,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,F,1:00pm - 1:50pm,HSSB 1207,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,W,6:00pm - 6:50pm,HSSB 1228,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,F,10:00am - 10:50am,BUCHN1934,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,F,11:00am - 11:50am,BUCHN1934,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,M,11:00am - 11:50am,SH   1609,25 / 25
+./Output/20182_ANTH.html,ANTH      2,L&S,4.0,Optional,F,9:00 am - 9:50 am,HSSB 1236,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,M W F,10:00am - 10:50am,BUCHN1910,275 / 275
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,T,8:00 am - 8:50 am,HSSB 1236,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,W,4:00pm - 4:50pm,NH   1111,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,R,9:00 am - 9:50 am,PHELP1508,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,M,12:00pm - 12:50pm,SH   1609,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,W,11:00am - 11:50am,SH   1609,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,F,1:00pm - 1:50pm,BUCHN1934,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,W,5:00pm - 5:50pm,HSSB 1223,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,T,3:00pm - 3:50pm,SH   1430,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,W,12:00pm - 12:50pm,SH   1609,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,F,9:00 am - 9:50 am,HSSB 1233,25 / 25
+./Output/20182_ANTH.html,ANTH      3,L&S,5.0,Optional,M,1:00pm - 1:50pm,HSSB 1214,25 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,T R,11:00am - 12:15pm,BUCHN1910,248 / 250
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,F,11:00am - 11:50am,SH   1609,24 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,T,3:00pm - 3:50pm,NH   1109,25 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,F,12:00pm - 12:50pm,SH   1609,24 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,R,9:00 am - 9:50 am,NH   1111,25 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,R,3:00pm - 3:50pm,NH   1109,25 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,R,6:00pm - 6:50pm,HSSB 1223,25 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,R,2:00pm - 2:50pm,TD-W 2600,25 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,T,5:00pm - 5:50pm,HSSB 1227,25 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,R,4:00pm - 4:50pm,NH   1111,25 / 25
+./Output/20182_ANTH.html,ANTH      5,L&S,4.0,Optional,F,9:00 am - 9:50 am,HSSB 1231,25 / 25
+./Output/20182_ANTH.html,ANTH      9,L&S,4.0,Optional,T R,2:00pm - 3:15pm,SSMS 1005,25 / 25
+./Output/20182_ANTH.html,ANTH     99,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_ANTH.html,ANTH    103,L&S,4.0,Optional,T R,11:00am - 12:15pm,HSSB 2001A,35 / 35
+./Output/20182_ANTH.html,ANTH    103B,L&S,4.0,Optional,T R,12:30pm - 1:45pm,NH   1111,26 / 25
+./Output/20182_ANTH.html,ANTH    116B,L&S,4.0,Optional,M W,3:30pm - 4:45pm,ARTS 1353,43 / 42
+./Output/20182_ANTH.html,ANTH    123,L&S,4.0,Optional,M,1:00pm - 3:50pm,HSSB 2001A,18 / 25
+./Output/20182_ANTH.html,ANTH    129,L&S,4.0,Letter,T R,9:30 am - 10:45am,HSSB 2001A,25 / 25
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,T R,2:00pm - 3:15pm,GIRV 1004,186 / 200
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,R,4:00pm - 4:50pm,PHELP3519,25 / 25
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,R,5:00pm - 5:50pm,PHELP1508,25 / 25
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,R,6:00pm - 6:50pm,PHELP1508,25 / 25
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,F,12:00pm - 12:50pm,HSSB 1228,25 / 25
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,F,1:00pm - 1:50pm,HSSB 1223,25 / 25
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,F,2:00pm - 2:50pm,HSSB 1214,23 / 25
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,F,2:00pm - 2:50pm,HSSB 1227,14 / 25
+./Output/20182_ANTH.html,ANTH    131,L&S,4.0,Optional,T,5:00pm - 5:50pm,PHELP3519,24 / 25
+./Output/20182_ANTH.html,ANTH    157L,L&S,4.0,Optional,M W,2:00pm - 3:15pm,NH   1111,38 / 40
+./Output/20182_ANTH.html,ANTH    169,L&S,4.0,Optional,T R,9:30 am - 10:45am,PHELP1444,31 / 30
+./Output/20182_ANTH.html,ANTH    170,L&S,4.0,Optional,T R,3:30pm - 4:45pm,PHELP1508,45 / 45
+
+
+./Output/20182_ANTH.html,ANTH    190,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 15
+./Output/20182_ANTH.html,ANTH    193B,L&S,2.0,Pass/No Pass,T,5:00pm - 6:15pm,BIOEN1001,91 / 90
+./Output/20182_ANTH.html,ANTH    194,L&S,1.0 - 8.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_ANTH.html,ANTH    194P,L&S,1.0 - 4.0,Optional,N/A,N/A,N/A,0 / 10
+./Output/20182_ANTH.html,ANTH    195A,L&S,4.0,Letter,W,12:00pm - 2:50pm,HSSB 2001A,12 / 20
+./Output/20182_ANTH.html,ANTH    195B,L&S,4.0,Letter,N/A,N/A,N/A,0 / 5
+./Output/20182_ANTH.html,ANTH    195C,L&S,4.0,Letter,N/A,N/A,N/A,0 / 0
+./Output/20182_ANTH.html,ANTH    198,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_ANTH.html,ANTH    199,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_ANTH.html,ANTH    199RA,L&S,1.0 - 5.0,Optional,N/A,N/A,N/A,0 / 1
+./Output/20182_ART  CS .html,ART  CS 101,CRST,1.0 - 6.0,Pass/No Pass,T,1:00pm - 3:50pm,CRST 0120,10 / 12
+./Output/20182_ART  CS .html,ART  CS 101,CRST,1.0 - 6.0,Pass/No Pass,M,2:00pm - 4:50pm,CRST 120,12 / 12
+./Output/20182_ART  CS .html,ART  CS 105,CRST,1.0 - 6.0,Pass/No Pass,W,5:00pm - 8:50pm,CRST 107,8 / 0
+./Output/20182_ART  CS .html,ART  CS 107,CRST,1.0 - 6.0,Pass/No Pass,R,9:00 am - 10:50am,CRST 143,10 / 12
+./Output/20182_ART  CS .html,ART  CS 112,CRST,1.0 - 6.0,Pass/No Pass,R,5:00pm - 6:15pm,CRST 0143,5 / 10
+./Output/20182_ART  CS .html,ART  CS 112,CRST,1.0 - 6.0,Pass/No Pass,W,10:00am - 12:50pm,CRST 0136,14 / 15
