@@ -2,8 +2,30 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1 id="display"> Click!!! </h1>
+<Button type="button" onClick="handleClick()"> Get Data </Button>
+
+<script type="text/javascript">
+
+	//Handle click from html button
+	function handleClick() {
+		sendRequest('/getGraph', function(text) {
+			document.getElementById("display").innerText = text;
+		});
+	}
+
+	//Function to send server request
+	function sendRequest(url, callback) {
+	    var xmlHttp = new XMLHttpRequest();
+	    xmlHttp.onreadystatechange = function() { 
+	        if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+	            callback(xmlHttp.responseText);
+	    }
+	    xmlHttp.open("GET", url, true); // true for asynchronous 
+	    xmlHttp.send(null);
+	}
+
+</script>
 
 </body>
 </html>
