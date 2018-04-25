@@ -37,5 +37,5 @@
     - `heroku open` or
     - Open browser at https://ucsb-gold-digger.herokuapp.com/.
 - Git Instruction:
-    - Push changes to GitHub: git push origin master
-    - Push changes to Heroku: git push heroku master
+    - Push changes to GitHub: `git push origin master`
+    - Push changes to Heroku: `git push heroku master`
