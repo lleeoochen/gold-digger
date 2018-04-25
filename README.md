@@ -3,7 +3,7 @@
 - We will utilize data from the UCSB course catalog to determine which factors (i.e. time, location, subject, days of the week) affect student enrollment.
 
 ### Contributors:
-- ei Tung Chen
+- Wei Tung Chen
 - Nicholas Duncan
 
 ### Agenda:
