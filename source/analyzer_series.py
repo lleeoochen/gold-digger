@@ -53,7 +53,7 @@ for key in enrollments:
     output = key + ",["
     for value in enrollments[key]:
         output += str(value) + ","
-    output = output[:-1] + "]\n"
+    output = output + "]\n"
     file.write(output)
 
 file.close()
