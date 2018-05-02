@@ -2,15 +2,59 @@
 <html>
 <body>
 
-<h1 id="display"> Click!!! </h1>
-<Button type="button" onClick="handleClick()"> Get Data </Button>
+<div>
+	Input a course:<br>
+	<select id="subject-selector" name="subject" onchange="loadCourses()"></select>
+	<select id="course-selector" name="courseID" ></select><br>
+	<Button type="button" onClick="loadGraph()"> Get Data </Button><br>
+	<h1 id="display"></h1>
+</div>
 
 <script type="text/javascript">
+	//Main
+	loadSubjects();
 
 	//Handle click from html button
-	function handleClick() {
-		sendRequest('/getGraph', function(text) {
+	function loadGraph() {
+		let subject = document.getElementById('subject-selector').value;
+		let courseID = document.getElementById('course-selector').value;
+		sendRequest('/getGraph?subject=' + subject + '&courseID=' + courseID, function(text) {
 			document.getElementById("display").innerText = text;
+		});
+	}
+
+	//Load courses to subject selector
+	function loadSubjects() {
+		let selector = document.getElementById('subject-selector');
+		selector.innerHTML = null;
+
+		sendRequest('/getSubjects', function(list) {
+			let subjectList = JSON.parse(list);
+			for (let i = 0; i < subjectList.length; i++) {
+				let course = subjectList[i];
+				let option = document.createElement('option');
+				option.setAttribute('value', course);
+				option.innerText = course;
+				selector.appendChild(option);
+			}
+		});
+	}
+
+	//Load courses to course selector
+	function loadCourses() {
+		let subject = document.getElementById('subject-selector').value;
+		let selector = document.getElementById('course-selector');
+		selector.innerHTML = null;
+
+		sendRequest('/getCourses?subject=' + subject, function(list) {
+			let courseList = JSON.parse(list);
+			for (let i = 0; i < courseList.length; i++) {
+				let course = courseList[i];
+				let option = document.createElement('option');
+				option.setAttribute('value', course);
+				option.innerText = course;
+				selector.appendChild(option);
+			}
 		});
 	}
 
