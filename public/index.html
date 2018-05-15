@@ -6,30 +6,73 @@
 </head>
 
 <body>
-<div>
-	Input a course:<br>
-	<select id="subject-selector" name="subject" onchange="loadCourses()"></select>
-	<select id="course-selector" name="courseID" onchange="loadGraph()"></select>
-	<Button type="button" onClick="loadGraph()"> Graph! </Button><br>
-	<div id="visualization"></div>
+	<h1>Class Enrollment Grapher</h1>
+<div id='courseSelection'>
+	<br>Course 1:<br>
+	<select id="subject-selector1" name="subject" onchange="loadCourses('subject-selector1', 'course-selector1')"></select>
+	<select id="course-selector1" name="courseID" onchange=""></select>
+
+	<br>Course 2:<br>
+	<select id="subject-selector2" name="subject" onchange="loadCourses('subject-selector2', 'course-selector2')"></select>
+	<select id="course-selector2" name="courseID" onchange=""></select>
+
+	<br>Course 3:<br>
+	<select id="subject-selector3" name="subject" onchange="loadCourses('subject-selector3', 'course-selector3')"></select>
+	<select id="course-selector3" name="courseID" onchange=""></select>
+
+	<br>Course 4:<br>
+	<select id="subject-selector4" name="subject" onchange="loadCourses('subject-selector4', 'course-selector4')"></select>
+	<select id="course-selector4" name="courseID" onchange=""></select>
+
+	<br><Button type="button" onClick="loadGraph()"> Graph! </Button><br>
+
+	<br><div id="visualization"></div><br>
+
 </div>
 
 <script type="text/javascript">
 	//Main
-	loadSubjects();
+	loadSubjects('subject-selector1', 'course-selector1');
+	loadSubjects('subject-selector2', 'course-selector2');
+	loadSubjects('subject-selector3', 'course-selector3');
+	loadSubjects('subject-selector4', 'course-selector4');
 
 	//Handle click from html button
+	//FIX THIS LATER SO THAT YOU CAN GET BOTH DATALISTS IN ONE GRAPH
 	function loadGraph() {
-		let subject = document.getElementById('subject-selector').value;
-		let courseID = document.getElementById('course-selector').value;
-		sendRequest('/getGraph?subject=' + subject + '&courseID=' + courseID, function(datalist) {
-			drawGraph(JSON.parse(datalist));
+		let subject1 = document.getElementById('subject-selector1').value;
+		let courseID1 = document.getElementById('course-selector1').value;
+		
+		let subject2 = document.getElementById('subject-selector2').value;
+		let courseID2 = document.getElementById('course-selector2').value;
+
+		let subject3 = document.getElementById('subject-selector3').value;
+		let courseID3 = document.getElementById('course-selector3').value;
+
+		let subject4 = document.getElementById('subject-selector4').value;
+		let courseID4 = document.getElementById('course-selector4').value;
+
+		//list of promises from requesting subject/course information for all selected courses
+		let urls = []
+
+		urls.push('/getGraph?subject=' + subject1 + '&courseID=' + courseID1);
+		urls.push('/getGraph?subject=' + subject2 + '&courseID=' + courseID2);
+		urls.push('/getGraph?subject=' + subject3 + '&courseID=' + courseID3);
+		urls.push('/getGraph?subject=' + subject4 + '&courseID=' + courseID4);
+
+		//get json promises of all fetch requests
+		let promises = urls.map(url => fetch(url).then(result => result.json()));
+
+		//create 2-D array of results for the graph to use
+		Promise.all(promises).then(results => {
+		    drawGraph(results);
 		});
+
 	}
 
 	//Load courses to subject selector
-	function loadSubjects() {
-		let selector = document.getElementById('subject-selector');
+	function loadSubjects(subjectSelectorId, courseSelectorId) {
+		let selector = document.getElementById(subjectSelectorId);
 		selector.innerHTML = null;
 
 		sendRequest('/getSubjects', function(list) {
@@ -41,14 +84,17 @@
 				option.innerText = course;
 				selector.appendChild(option);
 			}
-			loadCourses(subjectList[0]);
+			loadCourses(subjectSelectorId, courseSelectorId);
 		});
 	}
 
 	//Load courses to course selector
-	function loadCourses() {
-		let subject = document.getElementById('subject-selector').value;
-		let selector = document.getElementById('course-selector');
+	//subjectSelectorId: id specifying which subject selector html list
+	//courseSelectorId: id specifying which course selctor html list
+	//subject: currently selected subject
+	function loadCourses(subjectSelectorId, courseSeletorId) {
+		let subject = document.getElementById(subjectSelectorId).value;
+		let selector = document.getElementById(courseSeletorId);
 		selector.innerHTML = null;
 
 		sendRequest('/getCourses?subject=' + subject, function(list) {
@@ -60,7 +106,6 @@
 				option.innerText = course;
 				selector.appendChild(option);
 			}
-			loadGraph();
 		});
 	}
 
@@ -75,31 +120,38 @@
 		xmlHttp.send(null);
 	}
 
-	function drawGraph(datalist) {
-		var container = document.getElementById('visualization');
+	//Function that handles displaying graph in html element with id 'visualization'
+	//datalist: items to be displayed
+	//groupNum: the group for the data to be displayed in
+	function drawGraph(dataLists) {
+		let container = document.getElementById('visualization');
 		container.innerHTML = null;
 
+		//list of dataLists for each subject selected
+
 		var items = [];
-		for (let i = 0; i < datalist.length; i++) {
+		for(let i = 0; i < dataLists.length; i++){
+			for (let j = 0; j < dataLists[i].length; j++) {
 
-			if (i == 0)
-				items.push({x: i, y: datalist[i], group: 0, label: {content: 'Pass1', yOffset: -10}});
+				if (j == 0)
+					items.push({x: j, y: dataLists[i][j], group: i, label: {content: 'Pass1', yOffset: -10}});
 
-			if (i < 8)
-				items.push({x: i, y: datalist[i], group: 0});
+				if (j < 8)
+					items.push({x: j, y: dataLists[i][j], group: i});
 
-			if (i == 8)
-				items.push({x: i, y: datalist[i], group: 0, label: {content: 'Pass2', yOffset: -10}});
+				if (j == 8)
+					items.push({x: j, y: dataLists[i][j], group: i, label: {content: 'Pass2', yOffset: -10}});
 
-			if (i >= 8 && i < 19)
-				items.push({x: i, y: datalist[i], group: 1});
+				if (j >= 8 && i < 19)
+					items.push({x: j, y: dataLists[i][j], group: i});
 
-			if (i == 19)
-				items.push({x: i, y: datalist[i], group: 1, label: {content: 'Pass3', yOffset: -10}});
+				if (j == 19)
+					items.push({x: j, y: dataLists[i][j], group: i, label: {content: 'Pass3', yOffset: -10}});
 
-			if (i >= 19)
-				items.push({x: i, y: datalist[i], group: 2});
+				if (j >= 19)
+					items.push({x: j, y: dataLists[i][j], group: i});
 
+			}
 		}
 
 		var dataset = new vis.DataSet(items);
@@ -116,7 +168,7 @@
 				}
 			},
 			shaded: {
-				enabled: true
+				enabled: false
 			}
 		};
 
