@@ -1,0 +1,6 @@
+.vis-data-axis .vis-y-axis.vis-minor {
+    position: absolute;
+    width: 100%;
+    color: #000000;
+    white-space: nowrap;
+}
