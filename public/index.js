@@ -27,7 +27,7 @@ function loadGraph() {
 	urls.push('/getGraph?subject=' + subject4 + '&courseID=' + courseID4);
 
 	sendListRequest(urls, (result) => {
-	    drawGraph(results);
+		drawGraph(results);
 	});
 }
 
@@ -86,8 +86,40 @@ function sendListRequest(url_list, callback) {
 
 	//create 2-D array of results for the graph to use
 	Promise.all(promises).then(results => {
-	    drawGraph(results);
+		drawGraph(results);
 	});
+}
+
+//Get color based on index
+function randomColor(index) {
+	switch(index) {
+		case 0:
+			return 'blue';
+		case 1:
+			return 'red';
+		case 2:
+			return 'yellow';
+		case 3:
+			return 'green';
+		default:
+			return 'black';
+	}
+}
+
+//Return group style based on index
+function groupOptions(index) {
+	return {
+		id: index,
+		content: 'Group' + index,
+		options: {
+			style:'line',
+			drawPoints: {
+				style: 'circle',
+				styles: 'stroke:' + randomColor(index) + '; fill:' + randomColor(index) + ';'
+			}
+		},
+		style: 'stroke:' + randomColor(index) + ';'
+	};
 }
 
 //Function that handles displaying graph in html element with id 'visualization'
@@ -96,42 +128,54 @@ function sendListRequest(url_list, callback) {
 function drawGraph(dataLists) {
 	let container = document.getElementById('visualization');
 	container.innerHTML = null;
+	var groups = new vis.DataSet();
+	var dataset = new vis.DataSet();
 
 	//list of dataLists for each subject selected
-
-	var items = [];
 	for(let i = 0; i < dataLists.length; i++){
-		for (let j = 0; j < dataLists[i].length; j++) {
-
-			if (j < 8)
-				items.push({x: j, y: dataLists[i][j], group: i});
-
-			if (j >= 8 && i < 19)
-				items.push({x: j, y: dataLists[i][j], group: i});
-
-			if (j >= 19)
-				items.push({x: j, y: dataLists[i][j], group: i});
-
-		}
+		groups.add(groupOptions(i));
+		for (let j = 0; j < dataLists[i].length; j++)
+			dataset.add({x: j, y: dataLists[i][j], group: i});
 	}
 
-	var dataset = new vis.DataSet(items);
 	var options = {
 		zoomable: false,
 		width: '100%',
 		height: '300px',
 		dataAxis: {
 			left: {
+				title: "Enrollment Percentage",
 				range: {
 					min: 0, max: 1.1
 				},
 				format: (value) => (value * 100 + '%')
 			}
 		},
-		shaded: {
-			enabled: false
+		legend: {
+			left:{
+				position:"bottom-right"
+			}
+		},
+		format: {
+			minorLabels: (date, scale, step) => {
+
+				if (date == 0)
+					return 'Pass 1';
+
+				else if (date == 8)
+					return 'Pass 2';
+
+				else if (date == 19)
+					return 'Pass 3';
+
+				else
+					return '';
+			},
+			majorLabels: (date, scale, step) => {
+				return 'Time (Course Selection Period)';
+			}
 		}
 	};
 
-	var graph2d = new vis.Graph2d(container, dataset, options);
+	var graph2d = new vis.Graph2d(container, dataset, groups, options);
 }
