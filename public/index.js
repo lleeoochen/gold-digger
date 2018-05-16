@@ -5,7 +5,6 @@ loadSubjects('subject-selector3', 'course-selector3');
 loadSubjects('subject-selector4', 'course-selector4');
 
 //Handle click from html button
-//FIX THIS LATER SO THAT YOU CAN GET BOTH DATALISTS IN ONE GRAPH
 function loadGraph() {
 	let subject1 = document.getElementById('subject-selector1').value;
 	let courseID1 = document.getElementById('course-selector1').value;
@@ -107,10 +106,11 @@ function randomColor(index) {
 }
 
 //Return group style based on index
-function groupOptions(index) {
+function groupOptions(subject, course, index) {
+	name = subject + " " + course;
 	return {
 		id: index,
-		content: 'Group' + index,
+		content: name,
 		options: {
 			style:'line',
 			drawPoints: {
@@ -133,7 +133,15 @@ function drawGraph(dataLists) {
 
 	//list of dataLists for each subject selected
 	for(let i = 0; i < dataLists.length; i++){
-		groups.add(groupOptions(i));
+		//getting subject name for display on graph key
+		let id = "subject-selector" + (i+1)
+		let subject = document.getElementById(id).value;
+
+		//getting the course name for display on the graph key
+		id = "course-selector" + (i+1)
+		let course = document.getElementById(id).value;
+
+		groups.add(groupOptions(subject, course, i));
 		for (let j = 0; j < dataLists[i].length; j++)
 			dataset.add({x: j, y: dataLists[i][j], group: i});
 	}
