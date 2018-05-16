@@ -93,13 +93,13 @@ function sendListRequest(url_list, callback) {
 function randomColor(index) {
 	switch(index) {
 		case 0:
-			return 'blue';
+			return '#33ccff';
 		case 1:
-			return 'red';
+			return '#ff4000';
 		case 2:
-			return 'yellow';
+			return '#4000ff';
 		case 3:
-			return 'green';
+			return '#ffbf00';
 		default:
 			return 'black';
 	}
@@ -114,11 +114,31 @@ function groupOptions(subject, course, index) {
 		options: {
 			style:'line',
 			drawPoints: {
-				style: 'circle',
-				styles: 'stroke:' + randomColor(index) + '; fill:' + randomColor(index) + ';'
+				enabled: false,
 			}
 		},
 		style: 'stroke:' + randomColor(index) + ';'
+	};
+}
+
+function passtimeOptions(index) {
+	let color = (index % 2 == 0) ? 'grey' : 'white';
+
+	return {
+		id: index,
+		options: {
+			style:'line',
+			drawPoints: {
+				enabled: false,
+			},
+			excludeFromLegend: true,
+			shaded: {
+				enabled: true,
+				orientation: 'bottom',
+				style: 'fill:' + color
+			}
+		},
+		style: 'stroke:white;'
 	};
 }
 
@@ -146,13 +166,27 @@ function drawGraph(dataLists) {
 			dataset.add({x: j, y: dataLists[i][j], group: i});
 	}
 
+	//Add vertical lines for pass time
+	groups.add(passtimeOptions(100));
+	groups.add(passtimeOptions(101));
+	groups.add(passtimeOptions(102));
+	dataset.add({x: 0, y: 1.1, group: 100});
+	dataset.add({x: 8, y: 1.1, group: 100});
+	dataset.add({x: 8, y: 1.1, group: 101});
+	dataset.add({x: 19, y: 1.1, group: 101});
+	dataset.add({x: 19, y: 1.1, group: 102});
+	dataset.add({x: (dataLists[0].length - 1), y: 1.1, group: 102});
+
 	var options = {
 		zoomable: false,
 		width: '100%',
 		height: '300px',
 		dataAxis: {
 			left: {
-				title: "Enrollment Percentage",
+				title: {
+					text: "Enrollment Percentage",
+					style: "stroke: #000000"
+				},
 				range: {
 					min: 0, max: 1.1
 				},
