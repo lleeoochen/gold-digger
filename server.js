@@ -38,7 +38,7 @@ var server = app.listen(PORT, function () {
 
 //Load CSV file
 function loadGraphData() {
-	readline.createInterface({input: fs.createReadStream('source/DataGraph/data.csv')})
+	readline.createInterface({input: fs.createReadStream('source/DataGraph/graph_20182.csv')})
 		.on('line', function (line) {
 			try {
 				let commaIndex = line.indexOf(',');

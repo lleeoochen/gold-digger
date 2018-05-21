@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import sys
+import os
 
 
 # extract year and quarter number
@@ -9,11 +10,10 @@ def format_quarter(df):
     
     for index, row in df.iterrows():
         string = str(row['Quarter'])
-        start = string.find('./output/') + len('./output/')
-        end = string.find('_')
+        separator = string.find('_')
         
-        row['Quarter'] = string[end - 1 : end]
-        years.append(string[start : end - 1])
+        row['Quarter'] = string[separator - 1 : separator]
+        years.append(string[: separator - 1])
         
     df.insert(loc=0, column='Year', value=years)        
 
@@ -228,11 +228,12 @@ def convert_to_int(df):
     df['MaxEnroll'] = pd.to_numeric(df['MaxEnroll'], errors='coerce')
 
 
-# main for cleaner.py
-filename = sys.argv[1]
-if filename == '':
-    filename = 'Data/data.csv'
+# check if file path is valid
+if len(sys.argv) == 1 or sys.argv[1] == '' or not os.path.isfile(sys.argv[1]) or not os.path.exists(os.path.dirname(sys.argv[1])):
+    print ('Please specify a valid data file (.csv)')
+    exit()
 
+filename = sys.argv[1]
 columns = ['Quarter', 'ID', 'College', 'Unit', 'Grading', 'Day', 'Time', 'Location', 'Enrollment']
 df = pd.read_csv(filename, names=columns)
 df_orig = df.copy(deep=True)
@@ -251,7 +252,7 @@ df = df.drop('Enrollment', 1)
 df = df.drop('Day', 1)
 df = df.drop('Location', 1)
 convert_to_int(df)
-df.to_csv('Output/cleaned_data.csv', sep=',')
+df.to_csv('DataClean/cleaned_data.csv', sep=',')
 
 plt = df.groupby('Building')['RatioEnroll'].mean()
 plt.plot(kind='bar', figsize=(15, 6), logy=True)

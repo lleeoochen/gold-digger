@@ -4,32 +4,37 @@ import csv
 import time
 import datetime
 
-dataFolder = "./Data"
-if (os.environ.get('cronFlag') == "True"):
-	dataFolder = "./DataCrontab"
-
 #returns list of files in the directory
 def getAllFiles(dir):
 	files = []
 	listing = os.listdir(dir)
-	for infile in listing:
-		fileName = './Output/' + infile
+	for fileName in listing:
 		files.append(fileName)
 	return files
 
+#format and get output folder name
+def getOutputFolder(folder, files):
+	#get quarter
+	filename = getCleanData(folder, files[0])[0][0]
+	quarter = filename[:filename.find('_')]
 
-#get start time
-start = time.time()
+	#assign output folders
+	outputFolder = "./Data/" + quarter + "/"
+	if (os.environ.get('cronFlag') == "True"):
+		outputFolder = "./DataCrontab/" + quarter + "/"
 
-#directory containing html files to parse ***EDIT THIS PATH IF USED ON A DIFFERENT MACHINE***
-rootDirectory = './Output'
-filesToParse = getAllFiles(rootDirectory)
+	#create unexisted folders
+	if not os.path.exists(os.path.dirname(outputFolder)):
+		os.makedirs(os.path.dirname(outputFolder))
+
+	return outputFolder
 
 #list for cleaned data
-cleanedData = []
-for file in filesToParse:
+def getCleanData(folder, file):
+	cleanedData = []
+
 	#create bs object
-	soup = BeautifulSoup(open(file), "html.parser")
+	soup = BeautifulSoup(open(folder + file), "html.parser")
 
 	#find all table bodies and store them in list
 	rows = soup.find_all('tr', {'class':'CourseInfoRow'})
@@ -67,14 +72,26 @@ for file in filesToParse:
 			cleanedDataTemp = []
 
 		cleanedData.append(cleanedDataTemp)
-	data = []
 	print('parsed: ' + file)
+	return cleanedData
+
+
+#get start time
+start = time.time()
+
+#directory containing html files to parse ***EDIT THIS PATH IF USED ON A DIFFERENT MACHINE***
+inputFolder = './Output/'
+filesToParse = getAllFiles(inputFolder)
+
+#format output directory
+outputFolder = getOutputFolder(inputFolder, filesToParse)
 
 #output to CSV file:
 now = datetime.datetime.now()
-with open(dataFolder + "/data_" + str(now.month) + "_" + str(now.day) + "_" + str(now.hour) + ".csv", "w+", newline="") as f:
+with open(outputFolder + "data_" + str(now.month) + "_" + str(now.day) + "_" + str(now.hour) + ".csv", "w+", newline="") as f:
 	writer = csv.writer(f)
-	writer.writerows(cleanedData)
+	for file in filesToParse:
+		writer.writerows(getCleanData(inputFolder, file))
 
 end = time.time()
 #print elapsed time
