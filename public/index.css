@@ -4,3 +4,15 @@
     color: #000000;
     white-space: nowrap;
 }
+
+body {
+	background: radial-gradient(#FFFFFF, #595a5b);
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#visualization {
+	background-color: white;
+}
