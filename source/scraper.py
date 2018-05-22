@@ -26,7 +26,9 @@ def get_list(browser, element_id):
 # --------------------------------------------------
 
 # Setup selenium
-browser = webdriver.Chrome(executable_path=CHROME_DRIVER)
+options = webdriver.ChromeOptions()
+options.add_argument('headless')
+browser = webdriver.Chrome(executable_path=CHROME_DRIVER, chrome_options=options)
 browser.get(CATALOG_URL)
 
 # Get lists

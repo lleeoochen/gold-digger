@@ -12,8 +12,5 @@ package-lock.json
 Dockerfile
 docker-compose.yml
 
-
-Output/*
-Data/*.csv
-DataCrontab-1/
+source/Output/*
 
