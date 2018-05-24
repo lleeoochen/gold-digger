@@ -8,11 +8,40 @@
 body {
 	background: radial-gradient(#FFFFFF, #595a5b);
 	height: 100%;
-    margin: 0;
+    margin: auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    width: 100%;
 }
 
 #visualization {
+    float: left;
 	background-color: white;
+    width: 100%;
+}
+
+.select-wrap {
+    float: left;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+}
+
+.main-container {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+.fixer-container {
+    float: left;
+    position: relative;
+    left: -50%;
+}
+
+#graph-button {
+    position: relative;
+    height: 50px;
 }
