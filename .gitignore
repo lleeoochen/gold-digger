@@ -13,4 +13,5 @@ Dockerfile
 docker-compose.yml
 
 source/Output/*
+log.txt
 
