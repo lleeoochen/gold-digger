@@ -6,7 +6,7 @@ from email.MIMEText import MIMEText
 #Setup constants
 PASSWORD = os.environ.get('TESTBOT_PASSWORD')
 FROM_EMAIL = "testbotchen@gmail.com"
-TO_EMAIL = "lleeoochen@gmail.com"
+TO_EMAIL = ["lleeoochen@gmail.com", "nick.duncan567@gmail.com"]
 
 #Condition check
 if PASSWORD == None:
