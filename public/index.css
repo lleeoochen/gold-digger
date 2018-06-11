@@ -1,69 +1,69 @@
 .vis-data-axis .vis-y-axis.vis-minor {
-    position: absolute;
-    width: 100%;
-    color: #000000;
-    white-space: nowrap;
+	position: absolute;
+	width: 100%;
+	color: #000000;
+	white-space: nowrap;
 }
 
 body {
-    /*background: #cce0ff;*/
-    background: linear-gradient(to bottom, #002966, #cce0ff);
+	/*background: #cce0ff;*/
+	background: linear-gradient(to bottom, #002966, #cce0ff);
 	height: 100%;
-    margin: auto;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    width: 100%;
-    overflow: hidden;
+	margin: auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	overflow: hidden;
 }
 
 #visualization {
-    float: left;
+	float: left;
 	background-color: white;
-    width: 100%;
+	width: 100%;
 }
 
 #title {
-    /*background: linear-gradient(to bottom, #0052cc, #002966);*/
-    color: #cccc00;
-    text-align: center;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    padding: 10px;
+	/*background: linear-gradient(to bottom, #0052cc, #002966);*/
+	color: #cccc00;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 10px;
 }
 
 #selection-container-wrap {
-    float: left;
-    position: relative;
-    left: 50%;
-    color: #cccc00;
-    font-weight: bold;
-    text-align: center;
+	float: left;
+	position: relative;
+	left: 50%;
+	color: #cccc00;
+	font-weight: bold;
+	text-align: center;
 }
 
 #selection-container {
-    float: left;
-    position: relative;
-    left: -50%;
+	float: left;
+	position: relative;
+	left: -50%;
 }
 
 #graph-button-wrap {
-    float: left;
-    position: relative;
-    left: 45%;
-    width: 100%;
-    margin: 10px;
+	float: left;
+	position: relative;
+	left: 45%;
+	width: 100%;
+	margin: 10px;
 }
 
 #graph-button {
-    float: left;
-    width: 10%;
+	float: left;
+	width: 10%;
 }
 
 .selector-wrap {
-    float: left;
-    margin: 5px;
+	float: left;
+	margin: 5px;
 }
 
 .selector {
-    width: 100px;
+	width: 100px;
 }
