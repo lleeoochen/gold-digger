@@ -117,7 +117,7 @@ function groupOptions(subject, course, index) {
 				enabled: false,
 			}
 		},
-		style: 'stroke:' + randomColor(index) + ';'
+		style: 'color:' + randomColor(index) + ';'
 	};
 }
 
@@ -135,10 +135,10 @@ function passtimeOptions(index) {
 			shaded: {
 				enabled: true,
 				orientation: 'bottom',
-				style: 'fill:' + color
+				style: 'color:' + color
 			}
 		},
-		style: 'stroke:white;'
+		style: 'color: white;'
 	};
 }
 
@@ -185,7 +185,7 @@ function drawGraph(dataLists) {
 			left: {
 				title: {
 					text: "Enrollment Percentage",
-					style: "stroke: #000000"
+					style: "color: #000000"
 				},
 				range: {
 					min: 0, max: 1.1
