@@ -6,12 +6,14 @@
 }
 
 body {
-	background: radial-gradient(#FFFFFF, #595a5b);
+    /*background: #cce0ff;*/
+    background: linear-gradient(to bottom, #002966, #cce0ff);
 	height: 100%;
     margin: auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
+    overflow: hidden;
 }
 
 #visualization {
@@ -20,28 +22,48 @@ body {
     width: 100%;
 }
 
-.select-wrap {
-    float: left;
-    text-align: center;
-}
-
 #title {
+    /*background: linear-gradient(to bottom, #0052cc, #002966);*/
+    color: #cccc00;
     text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
 }
 
-.main-container {
+#selection-container-wrap {
     float: left;
     position: relative;
     left: 50%;
+    color: #cccc00;
+    font-weight: bold;
+    text-align: center;
 }
 
-.fixer-container {
+#selection-container {
     float: left;
     position: relative;
     left: -50%;
 }
 
-#graph-button {
+#graph-button-wrap {
+    float: left;
     position: relative;
-    height: 50px;
+    left: 45%;
+    width: 100%;
+    margin: 10px;
+}
+
+#graph-button {
+    float: left;
+    width: 10%;
+}
+
+.selector-wrap {
+    float: left;
+    margin: 5px;
+}
+
+.selector {
+    width: 100px;
 }

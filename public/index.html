@@ -8,43 +8,44 @@
 </head>
 
 <body>
-	<h1 id='title'>Class Enrollment Grapher</h1>
+	<h1 id='title'>UCSB Course Enrollment Grapher</h1>
 
-	<div class="main-container">
-		<div class="fixer-container">
-			<div id='courseSelection'>
+	<div id='selection-container-wrap'>
+		<div id='selection-container'>
 
-				<div class="select-wrap">
-					Course 1:<br>
-					<select id="subject-selector1" class="selector" name="subject" onchange="loadCourses('subject-selector1', 'course-selector1')"></select><br>
-					<select id="course-selector1" class="selector" name="courseID" onchange=""></select>
-				</div>
-
-				<div class="select-wrap">
-					Course 2: <br>
-					<select id="subject-selector2" class="selector" name="subject" onchange="loadCourses('subject-selector2', 'course-selector2')"></select><br>
-					<select id="course-selector2" class="selector" name="courseID" onchange=""></select>
-				</div>
-
-				<div class="select-wrap">
-					Course 3:<br>
-					<select id="subject-selector3" class="selector" name="subject" onchange="loadCourses('subject-selector3', 'course-selector3')"></select><br>
-					<select id="course-selector3" class="selector" name="courseID" onchange=""></select>
-				</div>
-
-				<div class="select-wrap">
-					Course 4:<br>
-					<select id="subject-selector4" class="selector" name="subject" onchange="loadCourses('subject-selector4', 'course-selector4')"></select><br>
-					<select id="course-selector4" class="selector" name="courseID" onchange=""></select>
-				</div>
-
-				<Button id="graph-button" type="button" onClick="loadGraph()"> Graph! </Button>
-
+			<div class="selector-wrap">
+				Course 1:<br>
+				<select id="subject-selector1" class="selector" name="subject" onchange="loadCourses('subject-selector1', 'course-selector1')"></select><br>
+				<select id="course-selector1" class="selector" name="courseID" onchange=""></select>
 			</div>
+
+			<div class="selector-wrap">
+				Course 2: <br>
+				<select id="subject-selector2" class="selector" name="subject" onchange="loadCourses('subject-selector2', 'course-selector2')"></select><br>
+				<select id="course-selector2" class="selector" name="courseID" onchange=""></select>
+			</div>
+
+			<div class="selector-wrap">
+				Course 3:<br>
+				<select id="subject-selector3" class="selector" name="subject" onchange="loadCourses('subject-selector3', 'course-selector3')"></select><br>
+				<select id="course-selector3" class="selector" name="courseID" onchange=""></select>
+			</div>
+
+			<div class="selector-wrap">
+				Course 4:<br>
+				<select id="subject-selector4" class="selector" name="subject" onchange="loadCourses('subject-selector4', 'course-selector4')"></select><br>
+				<select id="course-selector4" class="selector" name="courseID" onchange=""></select>
+			</div>
+
 		</div>
 	</div>
 
-	<br><div id="visualization"></div><br>
+	<div id="graph-button-wrap">
+		<Button id="graph-button" type="button" onClick="loadGraph()"> Graph </Button>
+	</div>
+
+	<div id="visualization"></div>
+<br>
 
 </body>
 
