@@ -71,3 +71,34 @@ body {
 .selector {
 	width: 100px;
 }
+
+#analysis {
+	float: left;
+	width: 50%;
+	text-align: center;
+	color: #002966;
+	margin-top: 30px;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.line {
+    fill-opacity:0;
+    stroke-width: 2px;
+}
+
+.line-cyan {
+    stroke: #33ccff;
+}
+
+.line-red {
+    stroke: #ff4000;
+}
+
+.line-blue {
+    stroke: #4000ff;
+}
+
+.line-yellow {
+    stroke: #ffbf00;
+}

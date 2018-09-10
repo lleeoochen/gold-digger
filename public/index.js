@@ -6,27 +6,21 @@ loadSubjects('subject-selector4', 'course-selector4');
 
 //Handle click from html button
 function loadGraph() {
-	let subject1 = document.getElementById('subject-selector1').value;
-	let courseID1 = document.getElementById('course-selector1').value;
-	
-	let subject2 = document.getElementById('subject-selector2').value;
-	let courseID2 = document.getElementById('course-selector2').value;
-
-	let subject3 = document.getElementById('subject-selector3').value;
-	let courseID3 = document.getElementById('course-selector3').value;
-
-	let subject4 = document.getElementById('subject-selector4').value;
-	let courseID4 = document.getElementById('course-selector4').value;
 
 	//list of promises from requesting subject/course information for all selected courses
-	let urls = []
-	urls.push('/getGraph?subject=' + subject1 + '&courseID=' + courseID1);
-	urls.push('/getGraph?subject=' + subject2 + '&courseID=' + courseID2);
-	urls.push('/getGraph?subject=' + subject3 + '&courseID=' + courseID3);
-	urls.push('/getGraph?subject=' + subject4 + '&courseID=' + courseID4);
+	let urls = [];
+	let courseNames = [];
 
-	sendListRequest(urls, (result) => {
-		drawGraph(results);
+	for (let i = 1; i <= 4; i++) {
+		let subject = document.getElementById('subject-selector' + i).value;
+		let course  = document.getElementById('course-selector' + i).value;
+		urls.push('/getGraph?subject=' + subject + '&courseID=' + course);
+		courseNames.push(subject + " " + course);
+	}
+
+	sendListRequest(urls, (results) => {
+		drawGraph(results, courseNames);
+		analyze(results, courseNames);
 	});
 }
 
@@ -84,40 +78,33 @@ function sendListRequest(url_list, callback) {
 	let promises = url_list.map(url => fetch(url).then(result => result.json()));
 
 	//create 2-D array of results for the graph to use
-	Promise.all(promises).then(results => {
-		drawGraph(results);
+	Promise.all(promises).then((results) => {
+		callback(results);
 	});
 }
 
 //Get color based on index
 function randomColor(index) {
-	switch(index) {
-		case 0:
-			return '#33ccff';
-		case 1:
-			return '#ff4000';
-		case 2:
-			return '#4000ff';
-		case 3:
-			return '#ffbf00';
-		default:
-			return 'black';
-	}
+	let color = "";
+	if (index == 0)      color = 'line line-cyan';
+	else if (index == 1) color = 'line line-red';
+	else if (index == 2) color = 'line line-blue';
+	else if (index == 3) color = 'line line-yellow';
+	return color;
 }
 
 //Return group style based on index
-function groupOptions(subject, course, index) {
-	name = subject + " " + course;
+function groupOptions(courseName, index) {
 	return {
 		id: index,
-		content: name,
+		content: courseName,
 		options: {
 			style:'line',
 			drawPoints: {
 				enabled: false,
 			}
 		},
-		style: 'color:' + randomColor(index) + ';'
+		className: randomColor(index)
 	};
 }
 
@@ -145,23 +132,15 @@ function passtimeOptions(index) {
 //Function that handles displaying graph in html element with id 'visualization'
 //	datalist: items to be displayed
 //	groupNum: the group for the data to be displayed in
-function drawGraph(dataLists) {
+function drawGraph(dataLists, courseNames) {
 	let container = document.getElementById('visualization');
 	container.innerHTML = null;
 	var groups = new vis.DataSet();
 	var dataset = new vis.DataSet();
 
 	//list of dataLists for each subject selected
-	for(let i = 0; i < dataLists.length; i++){
-		//getting subject name for display on graph key
-		let id = "subject-selector" + (i+1)
-		let subject = document.getElementById(id).value;
-
-		//getting the course name for display on the graph key
-		id = "course-selector" + (i+1)
-		let course = document.getElementById(id).value;
-
-		groups.add(groupOptions(subject, course, i));
+	for(let i in dataLists){
+		groups.add(groupOptions(courseNames[i], i));
 		for (let j = 0; j < dataLists[i].length; j++)
 			dataset.add({x: j, y: dataLists[i][j], group: i});
 	}
@@ -200,18 +179,10 @@ function drawGraph(dataLists) {
 		},
 		format: {
 			minorLabels: (date, scale, step) => {
-
-				if (date == 0)
-					return 'Pass 1';
-
-				else if (date == 8)
-					return 'Pass 2';
-
-				else if (date == 19)
-					return 'Pass 3';
-
-				else
-					return '';
+				if (date == 0)       return 'Pass 1';
+				else if (date == 8)  return 'Pass 2';
+				else if (date == 19) return 'Pass 3';
+				else                 return '';
 			},
 			majorLabels: (date, scale, step) => {
 				return 'Time (Course Selection Period)';
@@ -220,4 +191,32 @@ function drawGraph(dataLists) {
 	};
 
 	var graph2d = new vis.Graph2d(container, dataset, groups, options);
+}
+
+function analyze(dataLists, courseNames) {
+	let filledUpDays = [];
+
+	// Collect the first day that each course fills up
+	for(let i in dataLists)
+		for (let j in dataLists[i])
+			if (dataLists[i][j] >= 1) {
+				filledUpDays.push({
+					course: courseNames[i],
+					date: j
+				});
+				break;
+			}
+
+	// Sort list by first days
+	filledUpDays.sort((a, b) => a.date - b.date);
+
+	// Construct a string of courses ordered by its priority
+	let analysis = "Please select courses in this order: ";
+	for (let i in filledUpDays)
+		analysis += filledUpDays[i].course.bold() + ", ";
+	analysis = analysis.slice(0, -2);
+
+	// Attach analysis string to HTML
+	let analysisElement = document.getElementById("analysis");
+	analysisElement.innerHTML = analysis;
 }
