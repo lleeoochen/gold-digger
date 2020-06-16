@@ -5,7 +5,7 @@ class DataMaster {
 	}
 
 	loadData() {
-		return fetch('/source/DataGraph/graph_20182.csv').then(async res => {
+		return fetch('source/DataGraph/graph_20182.csv').then(async res => {
 			let text = await res.text();
 			let lines = text.split('\n');
 
