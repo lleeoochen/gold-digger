@@ -1,27 +1,32 @@
+var dataMaster = new DataMaster();
+
+main();
+
 //Main
-loadSubjects('subject-selector1', 'course-selector1');
-loadSubjects('subject-selector2', 'course-selector2');
-loadSubjects('subject-selector3', 'course-selector3');
-loadSubjects('subject-selector4', 'course-selector4');
+function main() {
+	dataMaster.loadData().then(res => {
+		loadSubjects('subject-selector1', 'course-selector1');
+		loadSubjects('subject-selector2', 'course-selector2');
+		loadSubjects('subject-selector3', 'course-selector3');
+		loadSubjects('subject-selector4', 'course-selector4');
+	});
+}
 
 //Handle click from html button
-function loadGraph() {
+async function loadGraph() {
 
-	//list of promises from requesting subject/course information for all selected courses
-	let urls = [];
+	let results = [];
 	let courseNames = [];
 
 	for (let i = 1; i <= 4; i++) {
 		let subject = document.getElementById('subject-selector' + i).value;
 		let course  = document.getElementById('course-selector' + i).value;
-		urls.push('/getGraph?subject=' + subject + '&courseID=' + course);
+		results.push(dataMaster.getGraph(subject, course));
 		courseNames.push(subject + " " + course);
 	}
 
-	sendListRequest(urls, (results) => {
-		drawGraph(results, courseNames);
-		analyze(results, courseNames);
-	});
+	drawGraph(results, courseNames);
+	analyze(results, courseNames);
 }
 
 //Load courses to subject selector
@@ -29,58 +34,31 @@ function loadSubjects(subjectSelectorId, courseSelectorId) {
 	let selector = document.getElementById(subjectSelectorId);
 	selector.innerHTML = null;
 
-	sendRequest('/getSubjects', function(subjectList) {
-		for (let i = 0; i < subjectList.length; i++) {
-			let subject = subjectList[i];
-			let option = document.createElement('option');
-			option.setAttribute('value', subject);
-			option.innerText = subject;
-			selector.appendChild(option);
-		}
-		loadCourses(subjectSelectorId, courseSelectorId);
-	});
+	let subjectList = dataMaster.getSubjects();
+	for (let i = 0; i < subjectList.length; i++) {
+		let subject = subjectList[i];
+		let option = document.createElement('option');
+		option.setAttribute('value', subject);
+		option.innerText = subject;
+		selector.appendChild(option);
+	}
+	loadCourses(subjectSelectorId, courseSelectorId);
 }
 
 //Load courses to course selector
-//	subjectSelectorId: id specifying which subject selector html list
-//	courseSelectorId: id specifying which course selctor html list
-//	subject: currently selected subject
 function loadCourses(subjectSelectorId, courseSeletorId) {
 	let subject = document.getElementById(subjectSelectorId).value;
 	let selector = document.getElementById(courseSeletorId);
 	selector.innerHTML = null;
 
-	sendRequest('/getCourses?subject=' + subject, function(courseList) {
-		for (let i = 0; i < courseList.length; i++) {
-			let course = courseList[i];
-			let option = document.createElement('option');
-			option.setAttribute('value', course);
-			option.innerText = course;
-			selector.appendChild(option);
-		}
-	});
-}
-
-//Function to send server request
-function sendRequest(url, callback) {
-	fetch(url).then(function(response) {
-		return response.json();
-	})
-	.then(function(result) {
-		callback(result);
-	});
-}
-
-//Function to send multiple server request
-function sendListRequest(url_list, callback) {
-
-	//get json promises of all fetch requests
-	let promises = url_list.map(url => fetch(url).then(result => result.json()));
-
-	//create 2-D array of results for the graph to use
-	Promise.all(promises).then((results) => {
-		callback(results);
-	});
+	let courseList = dataMaster.getCourses(subject);
+	for (let i = 0; i < courseList.length; i++) {
+		let course = courseList[i];
+		let option = document.createElement('option');
+		option.setAttribute('value', course);
+		option.innerText = course;
+		selector.appendChild(option);
+	}
 }
 
 //Get color based on index
@@ -129,9 +107,6 @@ function passtimeOptions(index) {
 	};
 }
 
-//Function that handles displaying graph in html element with id 'visualization'
-//	datalist: items to be displayed
-//	groupNum: the group for the data to be displayed in
 function drawGraph(dataLists, courseNames) {
 	let container = document.getElementById('visualization');
 	container.innerHTML = null;

@@ -15,3 +15,10 @@ docker-compose.yml
 source/Output/*
 log.txt
 
+.sass-cache/
+.jekyll-cache/
+_site/
+
+.jekyll-metadata
+.sublime-project
+Gemfile.lock

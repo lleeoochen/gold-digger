@@ -27,15 +27,3 @@
 - set up automatic scheduler every hour:
   1) open crontab editor: `crontab -e`
   2) copy and paste line: `0 * * * * export DISPLAY=:0 && cd /path/to/directory/GOLD-Digger && cronFlag=True singleQuarterFlag=True python driver.py`
-
-### Heroku Server Instructions
-- Execution (local):
-    1. Install libraries: `npm install`
-    2. Start node server: `npm start`
-    3. Open browser at http://localhost:5000/.
-- Execution (heroku):
-    - `heroku open` or
-    - Open browser at https://ucsb-gold-digger.herokuapp.com/.
-- Git Instruction:
-    - Push changes to GitHub: `git push origin master`
-    - Push changes to Heroku: `git push heroku master`
